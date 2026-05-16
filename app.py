@@ -65,7 +65,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Function to safely load data
-@st.cache_data
 def get_data():
     try:
         return load_data('data')

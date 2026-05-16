@@ -2,11 +2,10 @@ import pandas as pd
 import streamlit as st
 import os
 
-@st.cache_data
 def load_data(data_dir='data'):
     """
-    Loads the Olist E-commerce dataset from a specified directory or via file upload.
-    Merges CSVs into a single master dataframe and creates derived features.
+    Handles the interactive loading of data (file uploader or local directory).
+    This function is NOT cached because it contains a widget.
     """
     files_needed = [
         'olist_orders_dataset.csv', 'olist_order_items_dataset.csv',
@@ -22,11 +21,15 @@ def load_data(data_dir='data'):
         for f in files_needed:
             dfs[f] = pd.read_csv(os.path.join(data_dir, f))
     else:
+        # Fallback for deployment environments where /data is missing
         st.info("📦 **Deployment Mode**: Local `/data` directory not detected. Please upload the required Olist CSV files.")
         uploaded_files = st.file_uploader("Upload Olist CSV Datasets", accept_multiple_files=True, type=['csv'])
+        
         if uploaded_files:
             for uploaded_file in uploaded_files:
                 dfs[uploaded_file.name] = pd.read_csv(uploaded_file)
+            
+            # Check if all necessary files have been uploaded
             missing_files = [f for f in files_needed if f not in dfs]
             if missing_files:
                 st.warning(f"Pending uploads: {', '.join(missing_files)}")
@@ -34,6 +37,14 @@ def load_data(data_dir='data'):
         else:
             return None
 
+    # Call the cached transformation function
+    return transform_data(dfs)
+
+@st.cache_data
+def transform_data(dfs):
+    """
+    Heavily cached data transformation and feature engineering.
+    """
     orders = dfs['olist_orders_dataset.csv']
     order_items = dfs['olist_order_items_dataset.csv']
     products = dfs['olist_products_dataset.csv']
