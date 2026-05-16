@@ -1,0 +1,4001 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+d95ad37b,33db25dc,90160,belo horizonte,PE
+f77103c2,56928623,44516,rio de janeiro,ES
+2501b210,59caac2a,30061,rio de janeiro,SC
+48eb3e3d,c8f27547,25170,porto alegre,BA
+cffcc562,70afcbae,9024,rio de janeiro,PE
+93f516fe,9f4a478b,83214,rio de janeiro,RS
+58d96af1,e7580149,86947,rio de janeiro,BA
+db382de2,985ca0b8,44803,curitiba,BA
+275d5fc9,d122339d,20296,rio de janeiro,SP
+0d229205,404439f3,92829,sao paulo,RS
+ba1bef84,59c9d589,93708,sao paulo,BA
+cc536d7e,161f9dfa,87664,porto alegre,ES
+20ab311f,6a0b1376,19257,curitiba,SC
+4cafc933,9f2fa008,13855,sao paulo,SC
+4a562d12,ba8d2a2c,86178,curitiba,ES
+3818592e,cad5a58f,21025,curitiba,SP
+f44bae57,e42afdea,5458,porto alegre,PR
+1c4183e4,6a1966d4,64610,curitiba,SP
+da11df8a,d7f24dd7,71843,rio de janeiro,SC
+8f49eefe,8f701ea3,84961,curitiba,PR
+3a8bc1ff,6738ab7c,50831,porto alegre,SP
+2d7265b8,cef940da,44427,porto alegre,BA
+52ffd30f,d86991f5,94809,porto alegre,PR
+b1ad3d77,59f7408b,39506,sao paulo,SC
+000ec338,d8a234e8,6668,rio de janeiro,ES
+4c35986c,14d36636,92470,sao paulo,GO
+0bbc5a15,09e4661a,48195,belo horizonte,BA
+81c1d87d,0efb81c9,74233,rio de janeiro,BA
+9d1914bf,18a1a816,25417,curitiba,GO
+26940f57,b2fd6f20,82982,porto alegre,PE
+a2ec9595,24280074,11751,belo horizonte,MG
+89d5fe20,196693c2,47218,rio de janeiro,RJ
+4a8956c2,af0aa0e3,8352,sao paulo,RS
+c46bd966,b57eaf22,80052,porto alegre,SP
+c89974e1,4a01dae6,89835,sao paulo,MG
+d8608f2b,aa12b28e,98493,rio de janeiro,SP
+25696093,c99258fd,29927,rio de janeiro,MG
+d7d9f98a,936afe01,42094,belo horizonte,PR
+d1e37d3e,429fae55,55122,curitiba,ES
+d65a87a8,6f129827,30493,sao paulo,RS
+148e9e28,72739b52,93247,belo horizonte,RS
+6ab9df27,c06e5fc9,74539,porto alegre,SP
+92da57bc,8fa1ce20,32707,curitiba,GO
+7fbaf63f,c8626829,69814,belo horizonte,PR
+fd4c0587,1dea7a34,8296,sao paulo,PE
+5251fb92,a11a8a87,26398,rio de janeiro,RS
+a3a42bca,e8f922cd,36842,porto alegre,RJ
+d4ab9741,f526f546,14261,sao paulo,SP
+c4ff4d29,f560dbb9,77709,curitiba,BA
+bd2f9004,56a23082,96985,curitiba,RJ
+7a05ea2c,f35583db,57704,rio de janeiro,SC
+31705837,0a941400,68173,rio de janeiro,SP
+b722d273,52068828,32781,porto alegre,SP
+a472b499,28f125d7,14652,porto alegre,BA
+93b34d6b,7e531d71,6103,rio de janeiro,PR
+89ec4fb2,73ee8c3a,26500,rio de janeiro,BA
+61dc806e,32611aeb,36529,curitiba,RS
+847ac455,497c2208,19452,rio de janeiro,ES
+0bdaff09,b64a2221,50393,belo horizonte,SP
+1cf8d4f0,c1273407,32174,sao paulo,SC
+9a4537b6,dd3a479d,65450,rio de janeiro,GO
+43635664,2fd063dc,36436,porto alegre,SP
+58dba187,1fca6d9a,48406,belo horizonte,BA
+9f5a5def,5dd7fe8a,64059,porto alegre,MG
+55cd969f,7a42433a,16954,belo horizonte,SP
+ee39006c,eb7f5369,83722,rio de janeiro,SP
+d4713c5d,6975e0b3,13356,sao paulo,SC
+a803d5f9,fcffa504,99499,porto alegre,SC
+d44df591,8ce8e6d3,3187,belo horizonte,SP
+db5ad51c,1d62f5b8,78243,curitiba,MG
+666de2fe,416f6c22,36098,rio de janeiro,ES
+a74de7aa,0256c3e1,93471,sao paulo,PE
+fb23ca6e,0de2ed4b,22225,rio de janeiro,MG
+8a12193a,1ab18a5d,4606,curitiba,MG
+233953b6,44cd61a4,58620,sao paulo,MG
+fdb7184e,ba428aeb,33828,curitiba,ES
+96e59536,76a8fa30,27489,rio de janeiro,PR
+cce33c5e,61a0cd6a,15387,belo horizonte,PR
+11414498,c5d79cd0,70463,rio de janeiro,MG
+740a7994,1f0e4fb8,72832,rio de janeiro,PE
+346b8d25,219b84ef,96980,rio de janeiro,BA
+666cd174,23e1b03a,3591,porto alegre,RJ
+15cd343e,1e14d0bd,49516,curitiba,PR
+3ea46484,2cd406de,92683,curitiba,GO
+90725a6b,dcc877fd,63061,curitiba,SC
+34a4c221,a7b7383a,67736,porto alegre,ES
+85116bde,db05f2de,82257,belo horizonte,ES
+5418ba86,7cf15d1d,62753,rio de janeiro,RJ
+8a3f21ea,4ad58a99,85774,belo horizonte,PR
+93f85868,617abcad,12087,porto alegre,PE
+dca4f051,bfcd2118,31816,curitiba,PE
+0f248848,9b11bdfa,24408,rio de janeiro,SC
+0d4dfb64,d3c4ff2b,1136,sao paulo,MG
+5274059c,2cc16668,18413,sao paulo,BA
+13eb277a,7f6a5ee2,60500,belo horizonte,PR
+e351b078,f83308a6,85514,curitiba,PE
+bb2f8dfc,2760bb05,57358,sao paulo,RJ
+171812f8,1757a36c,67197,belo horizonte,SC
+d1d9067a,3983db49,93789,porto alegre,SP
+7204e5ba,33acd22b,93420,belo horizonte,SC
+a95015a1,0e5fe11c,33854,belo horizonte,PE
+c92239e6,b0fedcfa,77240,belo horizonte,SP
+9329d518,f60ad850,91063,rio de janeiro,GO
+d0d1d272,18e1f74c,17322,belo horizonte,RS
+fb26c525,63c0bfb1,7968,belo horizonte,SC
+022c5122,6ae17c13,28518,rio de janeiro,RJ
+1d3d8f14,2c4a057f,52925,rio de janeiro,RJ
+5ad63e3b,b37205be,60848,porto alegre,BA
+309525e6,35596215,94422,curitiba,MG
+6816880f,7b89ddec,2700,sao paulo,SC
+ec209f46,7c72509b,94782,sao paulo,PE
+a376f9de,1c1f906b,24199,belo horizonte,RS
+ec5b442e,6cb0b538,45589,porto alegre,PR
+3b66ee5a,ced28560,33115,belo horizonte,PE
+b4abe212,28552076,62934,sao paulo,RJ
+1122101f,7dedce20,55316,rio de janeiro,GO
+9c3831b8,24e00d26,6520,curitiba,PE
+99ec1ccb,6ff82976,37455,porto alegre,ES
+657650a5,093db438,87465,rio de janeiro,RJ
+d9e6c2ea,ca6685ea,42605,curitiba,SC
+dd01e084,1bd75cef,15955,porto alegre,GO
+37ce7391,42ec8b57,45049,porto alegre,ES
+ca495235,e231c105,14917,sao paulo,SP
+ffcc2de0,1cf73443,71293,rio de janeiro,RS
+a57ad3c8,42498a91,79581,porto alegre,RJ
+d04d6633,15aa8701,65925,porto alegre,SC
+42bf38ac,34decc2e,71269,curitiba,ES
+6032f02c,d5a5a631,31954,sao paulo,ES
+c60c8b6a,7ad8338f,97671,belo horizonte,MG
+31953a15,4c562c5f,73617,sao paulo,ES
+9e3b4bf9,41c58163,42458,belo horizonte,RS
+3b7c021a,861fea94,90037,rio de janeiro,GO
+493bbefc,acae666a,22113,rio de janeiro,GO
+fc0ef4bc,2738b68b,91226,porto alegre,ES
+3976a181,cfd4dc20,44939,rio de janeiro,SC
+04125765,87ee16dc,30345,porto alegre,RJ
+e29ef7aa,0c262f72,47313,sao paulo,SC
+7b714f7b,18d16804,93365,rio de janeiro,BA
+111ad3ea,c8f8e3de,70166,sao paulo,RJ
+1afbd9f2,6f057bda,48861,sao paulo,SP
+74aa3f7e,5212c426,98406,rio de janeiro,RS
+1458e42c,98034654,50298,sao paulo,SC
+2d60a201,160289ec,48221,rio de janeiro,MG
+6e2d7f7d,6c23d294,45942,rio de janeiro,GO
+48521ad5,649ef049,4453,rio de janeiro,ES
+c4581007,74dc7666,55935,belo horizonte,RJ
+cd70939d,b81a3d6a,44370,sao paulo,ES
+5ec4a4b2,0893e5dd,9328,curitiba,SP
+43c4b569,2d613b8b,16534,rio de janeiro,BA
+a5540611,c39b4c55,86280,sao paulo,ES
+27aa9145,0ed6314b,85925,porto alegre,SC
+2ba1b5a6,cda2878d,37320,rio de janeiro,RJ
+e7fe88e6,c8e08033,50170,rio de janeiro,MG
+91685332,475be61f,81201,curitiba,SP
+3b86e5ea,0f162bbf,9640,belo horizonte,PE
+eeac31bd,4e4cc9a5,92057,belo horizonte,RS
+65def7f2,b1f67cb2,31049,rio de janeiro,BA
+fffbb4e3,e6cba105,6618,sao paulo,SC
+a8f8a15b,5dc9defd,57053,porto alegre,RS
+774b0047,967900e1,2920,porto alegre,MG
+f4df17ba,ef1e1302,44937,sao paulo,RS
+c1bca347,71e7a732,70724,rio de janeiro,GO
+485d4e65,0271186d,13207,porto alegre,RJ
+ff8ab155,514bd385,66774,belo horizonte,RS
+f37c4dab,91e9bfd9,33972,sao paulo,SC
+0e24cad6,c55eb91a,11799,curitiba,PE
+daff50df,700e8491,72088,rio de janeiro,GO
+b87f4f4f,ae43f35a,29916,sao paulo,GO
+4f311ea7,8be8635b,71463,porto alegre,RS
+5ffba27b,67a6c8ef,94500,rio de janeiro,BA
+38116a3a,d0eca7e9,77700,belo horizonte,PR
+ebcc203d,66840f49,38158,rio de janeiro,BA
+460d5d81,ac85e04a,85607,rio de janeiro,ES
+0284bd5d,fe2d21a0,72696,belo horizonte,SC
+df81b34e,3b9a6454,62510,belo horizonte,PR
+9b0b7167,7ab2e34d,59692,rio de janeiro,RJ
+23788daf,af5871b7,62744,belo horizonte,GO
+1d11581c,2faeb2b6,16810,sao paulo,SC
+940d073c,b92a7870,6126,belo horizonte,MG
+6c7b8fcf,11a275de,31009,belo horizonte,ES
+f9940be5,21263f7f,91932,rio de janeiro,PE
+1779b70e,1a87957d,1192,sao paulo,ES
+303dcb2e,6b304ba3,37413,curitiba,SC
+b92f715a,732c0b6b,13816,curitiba,RJ
+8dda584a,e4359746,40082,porto alegre,GO
+c54ab429,266b579a,66048,belo horizonte,SP
+5304f5d3,55b97199,51940,belo horizonte,SP
+b37fe000,2bc14783,33130,sao paulo,SC
+cee6a734,148eabe3,41142,curitiba,RS
+82027974,dbe48eaf,37468,porto alegre,BA
+192f771a,31adb816,31698,sao paulo,ES
+8c7d0f27,9da0aa22,11655,belo horizonte,RJ
+3f551ea5,5f1bd5e3,48897,curitiba,ES
+6bff897e,3de54c6c,31075,porto alegre,MG
+a1e71d1a,8f8797a8,10359,rio de janeiro,SP
+13ff119e,c4291669,43056,curitiba,GO
+8853fb5e,03d4b863,52831,porto alegre,MG
+e09d43db,828652a9,60191,sao paulo,GO
+23961419,8a22bf04,34272,rio de janeiro,ES
+cad1c79f,fcc14333,15671,porto alegre,RJ
+e9120ba0,df1d97b7,28048,porto alegre,SP
+943fbd3b,8dafcc90,77274,belo horizonte,ES
+22d35224,ca8596f8,26963,curitiba,SP
+699e8bda,4ca19b16,44954,belo horizonte,SC
+ed34964d,b822d8e1,73309,rio de janeiro,PE
+99c1d99e,cf0b6e73,96430,porto alegre,PE
+1a461c19,8a0e2644,1717,belo horizonte,GO
+51d40cd2,6e8fa0b9,12676,curitiba,ES
+62f7edd2,7ae7fde7,5434,rio de janeiro,PR
+52ae0f66,464058a0,50810,sao paulo,SP
+89dec935,a9740671,95636,belo horizonte,SP
+a9ff11be,e25b6603,5994,rio de janeiro,PR
+cca75a96,df516089,5234,sao paulo,RS
+a7ea4ece,4695c766,70300,belo horizonte,ES
+03aed3ef,e969d6b8,44949,rio de janeiro,PR
+50c7156a,44fb15fb,38405,rio de janeiro,PE
+5fc879d4,4a0d9632,35872,belo horizonte,SP
+2ea618b5,383ecc65,43215,rio de janeiro,PE
+53623885,b97daaa7,24185,porto alegre,ES
+7794dd22,92621b68,44442,belo horizonte,RJ
+9b50c210,d7fddbab,52759,rio de janeiro,RJ
+b5562c6c,cc986d2a,42153,sao paulo,GO
+8f3893c2,36a190be,78535,sao paulo,PE
+1039b0f0,3a4d48ba,3581,porto alegre,PE
+d9153034,934ffec5,52717,belo horizonte,PE
+1f04444f,e7801b50,3763,rio de janeiro,RS
+87a6e4d1,1d0534ac,93910,rio de janeiro,PE
+7b82a846,46155f4b,56480,sao paulo,RJ
+9549826c,adb68467,39759,porto alegre,RS
+0afeb096,206e3786,77067,sao paulo,GO
+c6d78035,151e422f,26307,sao paulo,SC
+9f5fd793,1209d382,97371,porto alegre,MG
+c112a403,24624e31,12064,belo horizonte,GO
+2ca259c9,2f0e54bd,77848,rio de janeiro,BA
+21bc0cc9,0f06eb6a,38548,belo horizonte,RS
+b2a3ce3f,7d660542,37945,curitiba,RJ
+0700b147,73d31379,48937,curitiba,RJ
+fa72d30c,9ad2363d,7476,curitiba,ES
+d26329be,f7654e1f,52756,porto alegre,SP
+93a5141c,97664ac5,91101,sao paulo,PE
+27231cbe,2c75bdd2,3382,belo horizonte,RJ
+ae46efa3,9f6fc2e7,50683,rio de janeiro,PE
+d451138a,d70d51f4,88999,curitiba,PR
+405b8478,ffc5c5f0,46276,belo horizonte,SP
+8f775702,c1396ba6,34402,curitiba,PR
+c2bc731a,ada27df5,92881,curitiba,PE
+f7a10ec6,802697ab,27946,rio de janeiro,RS
+eb03106d,49578e96,80698,porto alegre,BA
+3e3ac1c0,272ebbe3,74933,sao paulo,SP
+1d23108e,02b4fba1,23335,porto alegre,RS
+3cc600a0,c47c17a0,46095,belo horizonte,RJ
+95470f0f,4df3a1fb,80930,porto alegre,BA
+ff5e1abf,1124ccce,28197,belo horizonte,SC
+226bcf59,203a6f84,23010,belo horizonte,RJ
+47b2beeb,a75c0f60,25123,sao paulo,MG
+f60cea55,a1c2234f,88923,rio de janeiro,GO
+7b6b853d,6572e600,3890,sao paulo,SP
+2696c20c,c0e0f81f,94305,porto alegre,MG
+1c5c07de,56818345,9026,belo horizonte,PE
+36cc6b3a,61d7a18b,65925,curitiba,SP
+7bffc983,85152ef1,69842,curitiba,GO
+88ca448b,024bdb94,34665,belo horizonte,SP
+7a018bab,fafbb72d,10277,sao paulo,RS
+bae2458c,3cb4d9b3,43239,rio de janeiro,PR
+ceff27e6,165b5b42,48664,sao paulo,ES
+93401c5f,418f876e,49008,belo horizonte,RS
+a0a051e3,01448c5c,15683,belo horizonte,GO
+aed5eb1b,1917b2aa,1670,rio de janeiro,SP
+64161b9c,5c3d54d0,90211,porto alegre,RS
+79ea4e2e,15e653db,18889,porto alegre,PR
+86a3764f,1036947c,56612,rio de janeiro,MG
+304aaeb7,a74a7cea,45535,porto alegre,RS
+dd4ac6cb,5afb3c68,79542,curitiba,PE
+425cd5a3,830f62ec,55319,porto alegre,MG
+441ec578,f2b5028f,93067,porto alegre,GO
+c9253917,a8b51387,22639,porto alegre,MG
+b85bcf64,77f98c2c,65712,curitiba,SP
+4c4343fe,94bf4998,17633,porto alegre,BA
+f342f0d3,c405b055,35660,curitiba,BA
+09883ba6,ec2acf9c,69975,rio de janeiro,SC
+9df80411,d1b46262,33172,sao paulo,PE
+becd3305,e5028f98,60197,rio de janeiro,SP
+6584d050,2b176a51,59847,sao paulo,GO
+46fabd19,66bb4995,12577,rio de janeiro,RJ
+6408cdb5,d246fd8b,78299,sao paulo,BA
+e0e48b4b,c08c8f94,21176,sao paulo,GO
+6b60eefd,0b84809d,45386,belo horizonte,MG
+73dd36a0,b76bc022,64972,sao paulo,RS
+d3962b43,a397377b,90791,sao paulo,BA
+8d9621fb,cf934d44,42003,belo horizonte,SP
+4392aad9,fb8f381a,20996,porto alegre,BA
+281a2808,97327976,87598,porto alegre,PR
+0546e4d4,5241ad52,36931,belo horizonte,PR
+1a614d77,984b3cb4,36710,curitiba,PR
+bf12ac57,72165563,35693,sao paulo,PE
+bbedfb4b,055e1371,36740,sao paulo,BA
+3a71842b,6705c5b5,78241,belo horizonte,SC
+a7e7353e,09311514,94583,belo horizonte,GO
+7da7bcac,7c2240f4,77502,curitiba,PR
+18b95074,68d2d012,18374,porto alegre,MG
+522d8e5e,c319c6b1,77674,rio de janeiro,SP
+c0c853ae,3ff231a7,82471,porto alegre,PE
+4cfa4f68,b43d55bd,46913,sao paulo,ES
+5e449cea,cd994b58,67025,belo horizonte,PR
+523d2b66,537afb00,45516,curitiba,GO
+13edfa96,29344076,88796,porto alegre,MG
+494c7cf8,81005fa6,27069,curitiba,SP
+7bb17d06,3edfc1d2,57233,porto alegre,RS
+96ff2edd,a01ac1d1,85811,sao paulo,RJ
+2e4d3714,27e6b0bb,60049,rio de janeiro,MG
+d60004a8,70a6615b,40178,curitiba,SC
+ba57044c,eeb888c9,33821,curitiba,MG
+fb8392dd,d076d345,52727,rio de janeiro,MG
+8b2938c8,344bd8b9,61935,curitiba,SC
+3ffe797d,964d27dd,17999,curitiba,RS
+27abd807,db70d3e9,63522,porto alegre,PE
+2d05bfc5,d3cb72ee,39712,porto alegre,BA
+a36e7535,fb3dcfca,65551,rio de janeiro,SP
+4343210c,c1382391,41172,sao paulo,MG
+624826cc,78d02bd6,34722,curitiba,MG
+cdd97efd,242e58ea,11625,sao paulo,SC
+09bc672e,d8f88fda,68165,rio de janeiro,GO
+c52103b3,73c226b8,77509,rio de janeiro,MG
+741adab3,f74014ea,7859,porto alegre,MG
+bde12ffc,f0018145,42609,curitiba,SC
+8395e0dc,2c9417e9,44307,belo horizonte,GO
+c6381a51,052d947b,22839,rio de janeiro,SC
+ad9f2dea,7f112234,28216,curitiba,PE
+85f3db1e,d516fd55,53953,sao paulo,MG
+77a01765,e009c5a9,85481,porto alegre,PR
+a88ff43a,99304fdc,61593,sao paulo,SP
+59215bfa,9280488e,73075,rio de janeiro,GO
+05f88465,7930d19f,50522,rio de janeiro,PR
+05334e4b,c52807ee,5886,sao paulo,SC
+55c67382,e6b57b13,8485,rio de janeiro,MG
+2a5c2be0,acb02341,32455,curitiba,SC
+71459c27,d861cbf4,17767,rio de janeiro,BA
+4f9b60d8,07e2fc7c,29453,porto alegre,BA
+f2637f42,d7dbbe12,77280,curitiba,PE
+2c4b1244,8fa4f81c,54442,belo horizonte,MG
+1135e5b7,01b7ac1b,52877,rio de janeiro,MG
+8c923119,c345d713,13226,rio de janeiro,PR
+e253080b,fa9c8ac3,94405,porto alegre,ES
+ff2ea679,ba9ec912,23588,porto alegre,MG
+5a9e17c8,9a52c7bd,79976,sao paulo,PE
+4421bf0f,5db463e8,32709,sao paulo,GO
+d9b98c8f,fd583265,48788,sao paulo,GO
+19803873,ee102ad1,89031,porto alegre,SC
+612f6f58,a5e048a4,38019,sao paulo,PR
+63732244,c930c47f,45948,sao paulo,RS
+457146e8,40615053,66133,belo horizonte,RJ
+d32be563,d38cccae,67458,sao paulo,SC
+81111e26,aad1c79a,28526,rio de janeiro,MG
+5e4efc44,30f0c19f,74493,porto alegre,SC
+d2036d43,008ed646,53198,curitiba,RS
+37999f04,81d6b928,44395,belo horizonte,RJ
+d7db694a,11f91e5e,25031,porto alegre,RS
+90d7c556,8a7ce8de,76542,porto alegre,RS
+45b9a3c4,8758fa86,38701,rio de janeiro,BA
+d5d0e496,7628c5a9,26939,sao paulo,GO
+f454cd99,6c7705e1,50145,rio de janeiro,ES
+da8f3728,47d61037,21324,sao paulo,MG
+d5280273,b778b57d,23867,sao paulo,PE
+3555ade0,2885b5a2,1203,porto alegre,PR
+a86d4a8b,40dbc01c,17544,sao paulo,SC
+7b347b78,09467157,16899,belo horizonte,MG
+82ff5cfd,3842f654,30063,belo horizonte,BA
+77731cc6,9804026e,91880,belo horizonte,GO
+20468d25,37fecd45,4748,porto alegre,SC
+709e65fa,7c9b370f,67629,rio de janeiro,PR
+3e39d5ff,b3b08e56,81764,curitiba,ES
+3625a891,9c86f545,21884,sao paulo,MG
+ffefea14,f011c8d8,26183,curitiba,PE
+2e490e45,3576fbca,82570,rio de janeiro,GO
+bf7060a9,9380cbfb,72246,rio de janeiro,SP
+863ddf89,01d61b43,20259,porto alegre,MG
+ce020f46,fbc655ba,36959,belo horizonte,RS
+5b1d2b01,5eb490ee,34457,belo horizonte,RS
+a4d64a2f,1133cdbe,86679,rio de janeiro,PE
+fcd091eb,53397b9e,3103,porto alegre,RJ
+6c796e34,0a857087,66901,porto alegre,PE
+a8abe8a5,e013be72,45535,sao paulo,GO
+a30f1ed6,6c1e9437,17103,belo horizonte,RS
+895ab401,a1abf29e,99046,rio de janeiro,ES
+552a4621,14ac26d3,91012,curitiba,ES
+833a88af,0bf9e5d7,79278,belo horizonte,RS
+d247b201,33ee8e14,13391,sao paulo,GO
+8f7d4ca6,7259b0a2,29901,porto alegre,BA
+0f61151e,3c49d7d8,98537,rio de janeiro,PR
+1197f4ae,8f7f82c2,82159,belo horizonte,PR
+9cf61efd,e549efd5,68914,curitiba,GO
+b80dfc78,ceccd04d,51357,sao paulo,SP
+3c782555,48b10b62,87908,sao paulo,PR
+156446d3,5f16b6c3,39437,belo horizonte,SC
+b0597625,d13fc6d8,36503,curitiba,PR
+bba5163c,7b140818,97282,sao paulo,SC
+652568f0,572c7d34,94459,rio de janeiro,RS
+f7c14522,03b52a3f,76403,sao paulo,BA
+09fc91f8,f6fe9eaf,42258,curitiba,PE
+156e1081,6fd89713,34724,porto alegre,BA
+21aaa979,33faef03,65286,porto alegre,PR
+673f752e,9f73ccb0,75842,belo horizonte,PR
+db9d418e,9e81f44a,15908,curitiba,GO
+9d2b5e55,1a4ed2c8,93617,sao paulo,PE
+87c99e0f,b4e33b62,51626,sao paulo,PR
+75970ec3,e71b420f,38228,porto alegre,RJ
+cd3dccaa,73aa3c47,24386,porto alegre,RJ
+2a811d02,fe761226,47754,rio de janeiro,SP
+8346d131,b696c866,29302,porto alegre,RS
+ff4c7313,cd1a3677,61815,rio de janeiro,SC
+3f50d1a6,d78df814,85748,sao paulo,BA
+836af345,2186ccbf,64344,rio de janeiro,RS
+6ec6e981,4704f890,36618,rio de janeiro,SC
+774b20ba,2a575e3a,77234,belo horizonte,SC
+c6209f5d,546295e0,62114,porto alegre,MG
+6dc4bb34,e3314e07,71130,rio de janeiro,PR
+5fbe1c0e,15d981b5,26525,sao paulo,SP
+1953860a,1ef93fad,80818,curitiba,PR
+bda98dc7,9d9592e7,15334,rio de janeiro,SP
+9417b804,fbfbd86c,95715,porto alegre,RS
+d4b3dd5c,db1d2c0d,63767,belo horizonte,GO
+28e35fec,2df2525e,7644,sao paulo,GO
+040fbb10,53275012,33933,belo horizonte,RS
+cb05ba21,0ca63cf1,44469,curitiba,PE
+d4c5dfad,12fa0325,34687,rio de janeiro,RJ
+124bb079,b634cde3,53656,rio de janeiro,SC
+ec1cdd5e,ef4bf3a1,18375,porto alegre,SP
+c86a894a,23d0899f,66206,rio de janeiro,ES
+25182ed2,63268ab4,97462,sao paulo,PR
+4788215a,d3ccda35,37607,curitiba,RS
+e1b0b9be,a90c6663,84178,belo horizonte,SC
+15c02e07,840f9504,24993,curitiba,SP
+29ba5391,5a0655f5,45386,rio de janeiro,BA
+d37e37a3,32a0f73d,47287,belo horizonte,PE
+7af49dec,4e7ebe68,87724,porto alegre,PR
+69502068,1c2337c4,99132,curitiba,GO
+96d4dd0d,a0a12a3c,94308,belo horizonte,RS
+f765405d,54fe5228,97393,belo horizonte,GO
+47f20a26,be2fdaf0,77312,belo horizonte,SP
+80b2e0df,fb15ea4e,99371,sao paulo,GO
+de2995c9,f269379d,76324,curitiba,PR
+b7aae70c,ccfcd5c3,72196,belo horizonte,RJ
+4532131e,6a9ef6bf,71014,curitiba,SC
+0e2379a8,4a516e04,9210,belo horizonte,RJ
+f1a5b88e,fdab46f6,11922,porto alegre,RS
+948ab616,bd7e5ac4,37289,porto alegre,RJ
+2fd0ee7e,7603979b,34340,porto alegre,MG
+9955a180,90b0e72b,40850,rio de janeiro,SC
+d3d5f7b0,83decc4f,57984,belo horizonte,SP
+d7b500f4,3a7537d0,85178,rio de janeiro,SC
+62b56d5a,bb0d9053,12094,curitiba,MG
+128dade3,11453082,88959,rio de janeiro,ES
+730434c2,8ae05148,34418,curitiba,RJ
+3e804167,04e16201,6741,curitiba,SC
+ab1234c6,c25da8c7,73374,curitiba,GO
+02a72299,2f2f8233,69798,rio de janeiro,SP
+2120eeb6,6875711a,71532,belo horizonte,BA
+450a6383,d80803dd,23164,rio de janeiro,RS
+8fa846cd,eaf4e435,36595,belo horizonte,RS
+d07acbdb,aa8bb80b,31257,belo horizonte,RS
+4bca9e90,e4c0ff49,15211,curitiba,SC
+10e86dd8,b6b203a3,96989,rio de janeiro,RJ
+acab3691,38afef3c,6232,belo horizonte,SC
+3960accf,66190138,68753,porto alegre,PR
+28dfc012,9567dcb0,53691,belo horizonte,GO
+5c5dadd0,a28bcc22,90765,porto alegre,BA
+e9ed4205,348d5948,80768,rio de janeiro,BA
+28a40b5f,cd06433f,26613,rio de janeiro,GO
+af91317e,8ba3b772,15026,rio de janeiro,MG
+8967f5a8,b8ac860c,54535,belo horizonte,PE
+18094b8c,283c719d,95090,sao paulo,PR
+fefc39f6,464bcf90,31908,belo horizonte,SP
+78ca5c3d,28ac4068,53113,belo horizonte,BA
+af9ca600,8645324f,20610,curitiba,RS
+5bb61db8,1799a36e,47646,curitiba,SC
+1ac7c72d,f3c041e9,64185,belo horizonte,MG
+be1622b2,af1e68fa,73567,porto alegre,PE
+a950fd90,033bd183,48574,curitiba,GO
+3e49434f,dff1b248,92051,belo horizonte,ES
+31d64465,973d9129,37182,sao paulo,SP
+8c569604,edf82cfe,1570,porto alegre,PE
+e2eb4490,60660b2d,98790,rio de janeiro,RS
+ddc3b960,f3b031ef,20288,belo horizonte,PE
+31704959,b83b7c25,79824,belo horizonte,BA
+b20a5b04,33a2e582,30877,porto alegre,SC
+5fec9502,3e7ae6da,85425,curitiba,GO
+cfb1dc1b,16879fb9,1917,curitiba,PE
+d370cd87,f87706a8,76602,curitiba,SP
+34148bcf,18b6dec0,96040,rio de janeiro,PE
+81e9bcd8,39cf1167,65575,porto alegre,ES
+8a5566e7,0f7f5707,73518,porto alegre,MG
+3f4eee63,056bce85,40104,curitiba,BA
+6c4d502a,69e1c23f,19062,curitiba,SC
+4cc231e0,490977b9,17999,sao paulo,RS
+8cfe96aa,f7967537,62845,sao paulo,GO
+2d262d73,65718262,10941,belo horizonte,GO
+b2a80d7b,2d1ed22a,62169,belo horizonte,MG
+f859d750,d863b9af,24470,porto alegre,RJ
+96e460f6,fe129687,60821,porto alegre,RJ
+d9e08a05,633ffc22,87669,rio de janeiro,RS
+065aeb19,945e51b4,45435,rio de janeiro,PE
+89475f29,a826446e,5529,sao paulo,ES
+8ac1b8e2,0b95cbc5,84055,belo horizonte,GO
+95e83ab5,a3a5338a,13192,sao paulo,PE
+92357801,8bfecc52,75102,sao paulo,GO
+9cbe881b,aaef32fd,73762,belo horizonte,GO
+9319e71c,e88431b4,87795,rio de janeiro,PE
+57cc2a9b,379b0221,35087,belo horizonte,MG
+1a2069f7,064a696b,67677,curitiba,RJ
+6a313f40,bfb1b4e2,5627,curitiba,PR
+4b299436,cf5d6237,57541,curitiba,SP
+ae7c7479,3227b9a4,69226,porto alegre,MG
+0f7cfe66,7442a68a,4255,rio de janeiro,BA
+3420290b,a22cf7e7,58433,rio de janeiro,ES
+2dac2baf,a1d998c8,6213,porto alegre,ES
+97dee6e3,6d1fc91f,20404,sao paulo,SP
+f0c1a7de,1c1b556f,26380,curitiba,ES
+191a3974,be8066eb,92056,curitiba,PE
+523c53ae,a48fe99a,20173,sao paulo,ES
+0d642b9b,e22e9af0,54027,belo horizonte,PR
+169c6427,8af26890,24989,belo horizonte,ES
+de462af8,4d174024,25519,rio de janeiro,GO
+5f291bab,71b0f28a,23439,porto alegre,MG
+b2ba1bd0,06815253,77949,rio de janeiro,PE
+dc030e7a,44c958b0,15995,belo horizonte,RJ
+12255ae4,97841506,24559,sao paulo,ES
+d4ef7d38,2b6d7720,90049,rio de janeiro,RS
+f554f826,0d568d09,6021,curitiba,RS
+be99cb73,cc271e5b,99000,curitiba,RS
+55adce3f,5b38dda1,22119,sao paulo,ES
+796d9d8e,447eb482,52539,belo horizonte,BA
+ce0faa13,f89f81bf,95835,curitiba,GO
+7af9adab,401a258d,40350,curitiba,SC
+b376b66b,b20f800f,47223,porto alegre,ES
+a12a81c0,2fef0833,26517,rio de janeiro,BA
+26da58a5,f99fc7e7,79653,belo horizonte,SC
+1d29a545,c1c51a6f,23250,rio de janeiro,SP
+597c8ba0,30fec6ea,85486,belo horizonte,PR
+098a0407,098c55c5,83895,curitiba,GO
+e9598619,cedf2a7c,90132,porto alegre,ES
+61378793,124487a5,92066,rio de janeiro,MG
+eeaa8947,dbd5b3a5,67798,curitiba,PE
+4fc43c4d,ffff4c3e,55199,belo horizonte,MG
+d763766d,92014324,60546,rio de janeiro,MG
+6200212a,36ae2c89,89151,rio de janeiro,SP
+417b9d5b,ca1a47c6,4327,curitiba,PE
+a769cb4b,48076866,30768,rio de janeiro,SP
+8f2b6c3a,9c70e7b5,65418,porto alegre,SC
+a9d96bd5,c8bb6da0,95386,porto alegre,SP
+3b4480f7,bdf57b57,43788,curitiba,RS
+e88dbb5f,5aebed38,83384,belo horizonte,PR
+3f3f27c0,5ac76d00,47830,curitiba,RS
+8a2b1a06,8ded0bb0,53446,porto alegre,ES
+e3322b84,b152a8e7,16160,sao paulo,SC
+5a9d897c,932f0c75,57583,sao paulo,BA
+d3602335,63c9e02c,34998,rio de janeiro,SC
+188cf94e,2e585540,28230,rio de janeiro,BA
+4b09c649,3262efc7,10076,sao paulo,PR
+b14b3f4a,379cbbd6,70341,porto alegre,SP
+55e3fe29,3a0f81e0,32085,rio de janeiro,SP
+178825ff,5bd80cd0,56571,curitiba,PE
+1e3bc8e9,d7060544,15715,curitiba,ES
+3e233380,9acc8364,6750,porto alegre,MG
+ad8e3f38,dad78afc,79768,rio de janeiro,RJ
+2305db35,b653ead6,36903,curitiba,SC
+b7bffacf,f794f903,73489,rio de janeiro,SC
+e0dfc4c0,0e5ef6ee,33093,rio de janeiro,ES
+eb62773b,287eb58e,92036,curitiba,RS
+8b1c6834,21e86709,88954,sao paulo,GO
+897753ec,a9cdf363,35314,curitiba,ES
+981f8d0f,fc938ff4,49225,porto alegre,RJ
+67db43d0,567f89d7,88985,belo horizonte,SP
+5ca3d841,601fa5c6,84014,curitiba,BA
+fb0c9c96,6bd19b90,36179,rio de janeiro,RS
+8fb576d6,69a43264,26338,rio de janeiro,RS
+b9a98abc,39fb650c,93435,curitiba,PE
+92ac1884,39373e08,70681,belo horizonte,PR
+75635fcc,e02fc885,33101,curitiba,RJ
+ac3d5fd3,f78d3e71,3775,belo horizonte,RS
+6f5529fa,5b3c7c4e,98183,belo horizonte,RJ
+d9ebcd13,fe144d58,46619,porto alegre,ES
+d353c375,9c066d3f,46838,rio de janeiro,BA
+71f98eac,f1ff7af9,20539,rio de janeiro,BA
+b53123d0,5033d67e,58124,belo horizonte,SC
+e1f15ac7,44b5c5f2,66149,rio de janeiro,SP
+83b6bcb5,2fe49a74,27616,sao paulo,SC
+0b3a48fd,5c7d3fbd,80655,belo horizonte,RS
+bc82713b,de6982e1,91695,rio de janeiro,PR
+b322672d,1f56cdc7,55567,sao paulo,SC
+d4826b46,7948a0b7,38099,porto alegre,SC
+5d9f31f6,a005dbe2,76831,rio de janeiro,SC
+e8c0e34b,895b5a87,62799,sao paulo,RJ
+8d812d1a,232bc657,91221,curitiba,ES
+6ff0d4f6,be567b77,26479,curitiba,PR
+b25425a9,532597c4,47172,sao paulo,BA
+aa992448,9cce9319,56863,belo horizonte,PE
+1e9b1920,8a2848b1,43043,belo horizonte,RJ
+78364fea,53afd3cd,83569,rio de janeiro,RS
+b836d17a,d11c6831,16408,curitiba,PR
+00990a4e,cb766fc7,58980,belo horizonte,BA
+f87d23d6,82610b17,83956,belo horizonte,PR
+47532d49,db3ea4eb,17351,curitiba,GO
+cc5e9e39,e6b4d5c1,5131,porto alegre,GO
+89f1174a,2fd34835,45825,belo horizonte,SC
+bc9950e7,312435ff,12349,sao paulo,SC
+74e27807,520a300e,61931,rio de janeiro,GO
+5aad2d98,3b7e4ea7,45254,belo horizonte,PE
+462a76ef,dd724101,39225,belo horizonte,BA
+047d7abb,19f2a0fe,13453,porto alegre,RS
+49bab249,bbff9b48,19814,sao paulo,SP
+006b644f,d2b44eea,19263,rio de janeiro,SP
+041e9a9a,3b950e6a,78694,belo horizonte,RJ
+3a5940c7,e802469f,16735,rio de janeiro,PE
+ebebd698,f7e3fd9e,16830,curitiba,PE
+9f8fe607,6d1af334,48893,belo horizonte,RS
+596c9c77,91db42c7,45673,belo horizonte,PR
+5da3026f,3edab07b,90462,curitiba,SP
+06830826,ed0f5e21,46066,porto alegre,PR
+75ed94de,891b3d28,4373,belo horizonte,PR
+796e1d23,bbf58903,11335,rio de janeiro,PE
+a534cc5a,ca22527d,24741,sao paulo,PR
+da6ab188,613dbcbc,11692,rio de janeiro,SP
+8fb4f1d7,445f955b,48295,porto alegre,BA
+81b3f8f9,28a45545,46541,sao paulo,MG
+4b93062a,a031ffc3,35057,rio de janeiro,PR
+5d5f637d,b3679f29,67983,rio de janeiro,RS
+9fec11dd,977bef48,20583,curitiba,ES
+e7399992,34c9cd95,23765,porto alegre,SC
+b6d1fe32,05af2687,60287,curitiba,RS
+ae154278,01ef28f6,24906,sao paulo,GO
+c9219f63,3618f993,86103,curitiba,SP
+9d53c2ac,a3a938d2,80675,porto alegre,ES
+8b0f126a,fad6881a,47525,belo horizonte,SC
+ba6a7756,ce98a5a8,39230,belo horizonte,RS
+81c0d253,2b160df9,20520,sao paulo,ES
+2ccefcbc,ef79bc1d,86238,belo horizonte,MG
+d7c77574,5314d0ef,52934,curitiba,SP
+b2c56342,f1b35ae8,26566,sao paulo,BA
+d293c18a,41abb7da,74193,porto alegre,RJ
+fa21cecc,1568ed81,31134,sao paulo,PE
+81ad4d64,726abdf6,11345,sao paulo,MG
+29777ab8,5d3667d3,42185,rio de janeiro,GO
+785a7d2b,90a84e94,93949,rio de janeiro,PE
+aa650807,59b4949b,71744,sao paulo,BA
+aca0475c,ce291cfd,34455,belo horizonte,MG
+c10a5bc9,268f7930,29018,rio de janeiro,SC
+2ec109ee,706bab36,55219,porto alegre,ES
+a97be916,0d590352,46991,curitiba,SP
+e338244b,c1db283e,74616,rio de janeiro,ES
+4efc2896,4aee946f,88438,sao paulo,PR
+43328c90,d910813d,10486,belo horizonte,RS
+86518967,fa25721a,39862,curitiba,GO
+84bcff34,0b02bb10,59870,rio de janeiro,PR
+737dd10c,d759f541,87694,belo horizonte,PR
+f66be501,327c13c3,44856,belo horizonte,GO
+d9791a72,439d7a02,87055,belo horizonte,RS
+14efa265,faeb8346,32379,sao paulo,SC
+2e46f009,7a818048,65729,porto alegre,RS
+4fff7462,9ba008b5,29378,belo horizonte,SP
+24279964,4b12d713,55353,curitiba,ES
+41ca1313,5e31470c,50996,rio de janeiro,SC
+d2a5c3c8,58e7e999,15031,curitiba,RJ
+117e46bd,c524af3e,81072,sao paulo,ES
+b3f69048,9a59ea45,66982,sao paulo,SC
+69184bd7,7dff00ac,37683,curitiba,RS
+50652fbc,49a10464,18618,porto alegre,GO
+5cca136a,e9fa710f,7587,sao paulo,RS
+09abd2b0,5b01499c,63790,sao paulo,RJ
+c2188233,3b96de08,32480,curitiba,SC
+4514f920,b8ecc550,99530,sao paulo,SP
+6062d2a0,dc199992,21527,porto alegre,RS
+f0cf4d82,0632b625,24569,porto alegre,SC
+9d502aaf,20ed2812,12151,porto alegre,ES
+58b4b4bc,92eb34ed,72094,rio de janeiro,RJ
+7cb76305,87f7c9da,60174,porto alegre,SP
+f3d9379a,b163adfb,45739,porto alegre,SC
+4a22f81a,523b63d5,33954,rio de janeiro,MG
+d6ba6076,54d2b8f7,36303,belo horizonte,RS
+c10c0fda,c7529411,35700,sao paulo,RJ
+982140d9,72c10a3c,94036,porto alegre,SP
+72cafc56,83c134ac,68568,sao paulo,SP
+7ad07d35,35e6c5ca,67788,curitiba,PR
+ca4cb803,026c73de,72045,sao paulo,PE
+47101d0d,d92b09bd,38842,rio de janeiro,RJ
+7da50286,5a190fdb,14900,sao paulo,SP
+d117c65c,961cdf00,81059,sao paulo,SC
+41f5ae01,f184f627,2881,sao paulo,PR
+8cab7b33,10668350,34037,belo horizonte,PE
+06a716c9,c7260a8a,2630,belo horizonte,ES
+5e064615,c24d54a8,21789,curitiba,SC
+42d8f8d6,1b39a843,89059,rio de janeiro,RS
+e362c845,0f56fc91,84494,sao paulo,PE
+51273e4f,6b398b65,47151,sao paulo,RJ
+858b4e2a,4fa138b5,49920,sao paulo,RS
+28b9a37c,3e4fe9e5,68231,sao paulo,BA
+5adddaac,8fc41321,81357,belo horizonte,BA
+472174a1,619c6d44,4262,curitiba,RJ
+581d0156,c960c8b9,67981,porto alegre,ES
+f91719a4,93726bfe,82972,rio de janeiro,PE
+c70879f3,02a3c28e,76485,sao paulo,PR
+f9357a7b,a5975352,55722,curitiba,MG
+cc1b43bf,6b1d91e9,90499,porto alegre,SP
+53b0a879,873b4eef,51818,curitiba,MG
+d1fdb8a4,6337ee5b,30932,belo horizonte,BA
+10c8d66a,ea245e94,7901,porto alegre,BA
+6c53f5d6,1dda511e,9597,curitiba,ES
+8c789e8a,d696d49f,64909,belo horizonte,MG
+1776a9cb,62666240,73391,curitiba,MG
+bff2be43,af7043f0,85214,curitiba,PR
+0983b457,c72f876d,9263,porto alegre,ES
+c89035a3,49fff05c,64293,belo horizonte,ES
+d11b2866,80035f6d,26805,sao paulo,RJ
+53d77b04,0f4ae121,92679,rio de janeiro,RS
+5d724df7,67058579,12874,porto alegre,ES
+79181b54,633d8473,94065,belo horizonte,ES
+edf8510d,59250ca4,87402,curitiba,SC
+5ecce8b8,d60b1ef3,15079,belo horizonte,PE
+b2933b2c,9cd87fa3,50850,rio de janeiro,PE
+715f94e6,7182f395,73779,rio de janeiro,GO
+f1579acf,5c14e777,96408,sao paulo,MG
+f07c79a6,83b7714d,10018,sao paulo,SP
+45c22b92,a462b424,50500,rio de janeiro,MG
+8868de5d,fa8f3208,13100,porto alegre,RJ
+fbe3747c,1ae08e8b,58021,porto alegre,RJ
+7b4d4bcd,af4e8dbc,20800,curitiba,RJ
+26ff6aab,0e9c9886,64400,sao paulo,RS
+5c317b81,498f5810,93446,curitiba,SP
+a5f7542e,bc5d7fc9,30437,sao paulo,PE
+ca392082,6442afe7,77537,rio de janeiro,PR
+5d3af240,791bc414,47675,porto alegre,PE
+6ca24bb9,786a4f16,20942,porto alegre,RS
+600b2541,aa26596b,21862,rio de janeiro,RJ
+95db3a62,ec65b772,12669,curitiba,RS
+dbca3b0e,14b43104,54772,curitiba,PE
+675cd65c,8d698691,16916,belo horizonte,PR
+a3b7e008,9dfd70f7,11878,sao paulo,GO
+65d1db2c,089a8ef9,3985,curitiba,SP
+21e9fc91,a48b2a2f,98905,rio de janeiro,RS
+82a65a4b,f5108ed4,74648,curitiba,PE
+8146f596,efb7f10b,42235,porto alegre,SP
+ec0934cc,eac139fb,19931,sao paulo,PE
+c180cd89,eb4f47d7,93876,belo horizonte,PE
+00d31e47,873d3cde,1336,sao paulo,PR
+9e5442c0,aaa69395,43933,porto alegre,GO
+5bff5f51,f86bd72f,85899,porto alegre,SP
+1f0b0a4a,5d00559e,46536,porto alegre,RJ
+18944d71,c5c6ac52,70504,porto alegre,SP
+4c14d274,5dcfe28b,52148,rio de janeiro,ES
+8783b149,534c38b7,17279,belo horizonte,RJ
+c0505b6a,e780aa2d,69665,porto alegre,SP
+eb100fd6,a496c508,72386,porto alegre,SC
+270504fb,24992f70,87124,curitiba,SC
+4ca87922,191ec985,78485,belo horizonte,PE
+b6bf68b5,3ddd70a5,75055,sao paulo,RJ
+9b054caf,9c87abb1,92911,belo horizonte,SP
+4a9799bd,d9f5d4fa,99618,belo horizonte,PE
+b16aa3ec,7d094cc5,78273,belo horizonte,MG
+d8a13835,f9f46457,67670,porto alegre,PE
+db287b8e,8f4f8191,77474,porto alegre,RS
+306eadf4,1e29d7ad,55028,rio de janeiro,SC
+3679df89,50901ab9,91022,sao paulo,MG
+5f89d5e5,285b5e27,92632,curitiba,BA
+976e480e,77189ea9,72128,belo horizonte,RS
+c944a86b,7018528d,19108,sao paulo,RJ
+1ae5e645,604b2a63,53495,sao paulo,PE
+f85f85aa,f6c48e15,83806,rio de janeiro,SC
+54ce8969,02b0f15f,94185,curitiba,GO
+c17d77fa,f40c8a93,77533,belo horizonte,SC
+52cf3388,db4dec33,57830,curitiba,PR
+9a7b4346,2923478c,75640,rio de janeiro,SC
+e790d0bb,fee8791d,53509,porto alegre,GO
+dd134b69,90d0015f,67406,sao paulo,GO
+f9bb9b63,57470c70,95220,belo horizonte,PE
+3a4fa162,f5485316,40519,porto alegre,RJ
+7901bea1,35234253,50649,rio de janeiro,GO
+52154eb7,f426b9db,35524,curitiba,SC
+65f39b5a,36667629,97493,sao paulo,RJ
+220c89fd,3494313b,34885,belo horizonte,SP
+ff6af538,19926838,45369,porto alegre,SC
+0d2510bf,92e81e9f,96402,porto alegre,ES
+d2fe5ecf,4c298cf6,31676,sao paulo,PE
+319af185,f04549dd,65093,curitiba,RS
+de14d1a2,2ae65e42,48764,rio de janeiro,PE
+0165d889,c8558fe9,51799,curitiba,GO
+a58934d2,cd6fd10d,80414,curitiba,BA
+40328475,5da6f90b,94095,curitiba,PR
+a4c639b9,9087ee36,73307,sao paulo,ES
+fbbd9785,a362845c,83062,sao paulo,GO
+143f566e,460c2b8b,96432,rio de janeiro,SC
+66019077,034f62a7,32923,curitiba,RJ
+7242944f,291ce645,79388,sao paulo,ES
+1fa0ea7f,d31b4f36,48574,rio de janeiro,BA
+9c9a2b25,bce5579b,44391,rio de janeiro,RS
+92c099c4,2f70fdd6,54664,curitiba,RJ
+8b838525,0d948dfe,68384,belo horizonte,PR
+24752ad0,c875372b,32027,curitiba,MG
+1c936887,ca942172,36464,belo horizonte,PR
+88cbc040,84f6ecb8,35485,rio de janeiro,PE
+dbf672b3,06222618,20456,sao paulo,ES
+d700c468,0150a3c3,75795,porto alegre,PE
+ffc3fa24,c9a14370,36554,rio de janeiro,GO
+5dc9c9cd,0c777da6,47922,sao paulo,SP
+07f98e96,53ed7634,14409,rio de janeiro,GO
+37bc9cd4,7eff6ee8,70327,curitiba,RS
+de8b89d2,3cb9eebe,92400,belo horizonte,ES
+0719c5c0,a68e3b09,37639,rio de janeiro,SP
+6ce6ca5d,e312cb50,64627,sao paulo,RJ
+397b67f6,8bb80285,84424,curitiba,SP
+03b82e00,f50ddbc3,20692,porto alegre,RS
+5dfe1944,49986297,90037,curitiba,SC
+52165407,f9255fc0,79840,belo horizonte,PE
+3fedf3cc,3d90fd77,55200,curitiba,BA
+30cc969e,b8f44642,94063,porto alegre,GO
+a7657eda,5ac04870,58415,sao paulo,ES
+764ef0a6,d859ab95,19074,rio de janeiro,RS
+74985533,d1430642,16549,belo horizonte,MG
+b8056d1f,b7611e19,30963,porto alegre,BA
+b5f31c68,11a3c73e,92456,belo horizonte,RS
+b0c12ead,c766d58d,97362,curitiba,MG
+04f8382f,342f0e27,53265,belo horizonte,MG
+7d75be49,e0e63a73,17061,porto alegre,MG
+d64c768e,2953a354,59226,rio de janeiro,SC
+7d4acc56,d55ae8a7,29810,rio de janeiro,SP
+d8798f56,34ac1a53,61006,belo horizonte,PR
+f711ce08,5fe7ae48,23800,sao paulo,GO
+e0018929,09a699c1,76476,belo horizonte,MG
+e302f2c3,2735ef39,70460,curitiba,RS
+d0b05466,6af63b13,58767,rio de janeiro,RJ
+91f9c85d,80967428,29054,rio de janeiro,RJ
+839381ba,1052af5f,76319,rio de janeiro,ES
+2de2f97c,0e4698ca,46397,sao paulo,PE
+739f7f4d,927b1886,14233,sao paulo,MG
+7332297d,d976f287,91020,porto alegre,RS
+caf0fda6,ba3231a5,26068,belo horizonte,MG
+9fcd997b,c71e229e,66727,belo horizonte,SC
+53f4c20e,a6f66fe1,91610,curitiba,PE
+6c8b4a9f,33ac9b6f,71453,rio de janeiro,MG
+ae352832,3978ecd9,26832,sao paulo,GO
+49945270,3e14d202,87242,curitiba,RJ
+62245d4f,389ec2b5,14682,curitiba,MG
+c18fda74,3e6fedb6,93298,sao paulo,GO
+116ae7d3,fac405d1,24383,belo horizonte,GO
+f4c91c29,691d32dd,59160,rio de janeiro,SP
+f04889dc,d169fb6e,94332,belo horizonte,GO
+01dfd76d,32712131,24666,curitiba,PE
+b1c37a22,631f141c,59817,rio de janeiro,RJ
+da008b3e,b9183eca,92198,porto alegre,ES
+1f5c94ff,3e7344f1,35642,curitiba,SC
+a2b88233,241d1d0f,42830,belo horizonte,RJ
+35f37f88,e31b1a5e,11234,belo horizonte,RS
+4394a4e9,5108e3fc,58616,belo horizonte,ES
+0c83a114,4bcd1e57,10221,sao paulo,GO
+5cd2873f,41edfc83,12410,curitiba,MG
+58abe39b,4d7b3751,81055,rio de janeiro,SP
+1b7f76fe,6164029c,62413,belo horizonte,ES
+f17d616c,1811cf7b,2051,belo horizonte,RS
+3e5d1d30,4e33fba8,76301,sao paulo,RS
+c55c9c41,b495525b,77918,rio de janeiro,ES
+63213f30,341a0594,79116,curitiba,SP
+0aedbdf4,b47ed294,57563,porto alegre,GO
+8303846d,2d409d4d,98859,sao paulo,PE
+6d6a2387,a40affe0,45757,curitiba,RS
+fb6fb285,873c431f,78475,porto alegre,GO
+035e6dcf,8df4e891,52257,belo horizonte,PE
+94980f08,cd004041,96500,belo horizonte,PE
+d70557b0,a3597138,1307,rio de janeiro,RS
+35cf5a49,078d948a,57889,porto alegre,ES
+d475cb2f,d69bc624,69895,belo horizonte,PE
+72297bb1,44b007fa,96184,belo horizonte,MG
+ea25d06b,76bf828b,36944,rio de janeiro,RJ
+f824ba55,6197eb1d,39134,curitiba,SC
+54b947d7,7dd1faca,28323,belo horizonte,RS
+c40c9eba,070957f1,72762,sao paulo,BA
+62c7de55,f0a2ed57,88225,sao paulo,PE
+fc7a39c5,85d67faa,97507,curitiba,PR
+fe7b2de3,49e2a4a2,26954,porto alegre,MG
+ae6ea3bc,bf092ee4,56021,rio de janeiro,BA
+14cfb11a,beeedf3e,90959,sao paulo,GO
+180e3e11,dbfff4d9,96927,sao paulo,SC
+88c7a105,5bce4b02,80866,curitiba,SP
+5b0f0546,bf57917e,71427,porto alegre,PE
+60736f3a,a4ffd0c7,5992,porto alegre,SP
+82a23e41,433fa668,2961,curitiba,SC
+798406b1,1e980062,13497,sao paulo,MG
+0e560d89,2ed216b6,33551,rio de janeiro,MG
+682368ed,e789b881,77384,sao paulo,SC
+f17b83de,ac608e00,56755,porto alegre,MG
+346273b4,0f0f2c34,14255,sao paulo,PE
+b34a8057,e8e54b85,5567,rio de janeiro,SC
+8e0e6cc8,b640ccdf,49847,belo horizonte,RS
+54569fe2,e22d3504,49003,sao paulo,PR
+9d8c906f,91c2f610,21389,curitiba,GO
+9bb21449,fc3eaf40,45523,belo horizonte,RJ
+74dd413b,79c4dee7,62576,curitiba,ES
+115f5621,3e2ce2c5,44919,curitiba,PR
+b3e708ad,b3ba6b77,83103,curitiba,RJ
+e9bcfb41,851c24b9,4358,sao paulo,ES
+82d10648,d03a613c,89535,porto alegre,SP
+ec2f7b68,15bbf32c,77524,belo horizonte,PR
+862c9cdb,d8b0b83a,98057,rio de janeiro,BA
+6642aa15,532e87ef,6698,porto alegre,PR
+e38163f5,cb462eff,67809,sao paulo,MG
+462907e6,b4f14784,94079,curitiba,PE
+c78de6ad,293d6710,56805,rio de janeiro,PE
+e1dc6f14,66fa5bd3,32349,belo horizonte,RJ
+28c4285a,79d34eb1,77777,porto alegre,MG
+abf143a2,c28113c1,51248,porto alegre,SP
+cfe94159,66610bb5,76033,rio de janeiro,PE
+1534c9bd,f8ce1c12,99239,sao paulo,GO
+7e63f015,a0c07303,45041,belo horizonte,SP
+16e36580,f51b2991,32954,rio de janeiro,MG
+49e01c26,318bc8e3,9002,curitiba,MG
+28a79b97,9ec88442,70783,belo horizonte,RJ
+9ad70e29,97748bcd,88234,porto alegre,RS
+4a232785,16da762e,20738,rio de janeiro,PE
+2fa0b3ae,a2806877,11703,porto alegre,MG
+c44342d6,c1dc39d5,50422,porto alegre,MG
+44c0bc46,d2fe8611,84106,porto alegre,GO
+739f8100,95f606ba,62899,sao paulo,PR
+7ef08233,613e5958,13392,porto alegre,PR
+df8151aa,ab79eea3,45724,curitiba,MG
+6d1936cd,c58a39f0,33299,curitiba,SP
+606669ab,9853f593,16641,belo horizonte,GO
+cb5fd8e3,4d432fbd,80534,porto alegre,SP
+9a8f2b0c,bae00168,7305,porto alegre,ES
+13b016ce,ffe08764,99262,rio de janeiro,RS
+7a8863ad,d8b50bd1,19782,sao paulo,PR
+551ebacc,524afde2,79257,belo horizonte,PR
+9106c7ab,81102173,78963,porto alegre,GO
+76c754c3,f9871ada,21566,rio de janeiro,SC
+637c5dd2,8736c9bd,68766,sao paulo,SP
+26bdb9da,605116fe,7511,belo horizonte,PE
+6bce5414,5c29b5ff,27177,belo horizonte,GO
+9cb18941,7325f584,5765,porto alegre,RJ
+8213e2b7,2fd51abe,21354,belo horizonte,SC
+b403a054,025ae5e5,24929,rio de janeiro,BA
+5fd6f7f7,007cf3f3,29820,belo horizonte,SP
+3212c457,c20778bc,30523,curitiba,SC
+ecaa7e7f,d2cc7cd1,72088,rio de janeiro,GO
+c830284c,be065602,67163,sao paulo,PE
+b57bf843,0ffac3fe,78525,sao paulo,RJ
+3ef75c00,33e40d32,14780,porto alegre,RS
+22ed2214,dbaa7a81,7589,porto alegre,SC
+3b454097,c4d15de1,35812,curitiba,RS
+3fc10ca0,efc64bf9,94664,sao paulo,MG
+d8d71ab9,d12c5732,46939,sao paulo,PR
+e536c3a0,21da685d,52493,sao paulo,ES
+ad939dbc,c109ab6c,94326,sao paulo,PR
+0aeb9903,d597dac8,41953,belo horizonte,BA
+ba389df6,739660ed,66785,rio de janeiro,PE
+0c871da8,3bec0c9e,20309,rio de janeiro,RJ
+307e12cc,1f9a0019,55195,curitiba,RS
+1cba9d6b,4258b426,26901,belo horizonte,GO
+39e8da6e,9ab86961,24576,sao paulo,RS
+deb85c11,37bb058f,32508,sao paulo,PE
+5d72e109,a06d4724,75711,porto alegre,GO
+bf97a34d,71a0d3c4,26464,porto alegre,GO
+59c4a25f,16ba3d84,61281,curitiba,BA
+90358977,2d8dd752,17260,sao paulo,PE
+4560f6b0,03739472,36440,curitiba,SC
+23ccd16b,f2a98805,96082,belo horizonte,PR
+f16958ed,be77b2af,57683,rio de janeiro,MG
+c9b014bd,9aeb48d7,42430,sao paulo,RS
+ebe88ec9,e246d05d,2987,belo horizonte,SC
+673592bf,d008ecea,26105,sao paulo,MG
+5a6c6744,fdd2a1df,79484,porto alegre,RJ
+a963caa3,5c353c27,14026,curitiba,ES
+2879f926,c056536f,69309,porto alegre,RS
+8479eabb,04c0f8e6,46927,rio de janeiro,BA
+1d17d5c0,1342f4c6,76414,porto alegre,MG
+7e5f2af7,fbcfade1,58535,sao paulo,GO
+1cbd260e,500f99a7,43946,porto alegre,SC
+c22ab6a4,2920fd59,57561,sao paulo,PR
+d3a4f9d2,61499d05,11377,rio de janeiro,BA
+ff039049,65cc374e,54592,porto alegre,RS
+a4f824dc,e8dabeff,8347,curitiba,PE
+a46a5ef3,217196c5,34776,curitiba,SC
+d3d6f954,1a463493,4783,curitiba,BA
+fcc38acd,e832e06a,56798,porto alegre,ES
+2bab9b96,1f713658,5298,porto alegre,RS
+3f279d6e,587a40cb,71204,porto alegre,RJ
+797fddb5,58c2ca77,87207,sao paulo,PR
+eab26c1f,6ab2262f,56161,rio de janeiro,RJ
+ed945128,c931ac8f,61652,curitiba,MG
+14e0c965,783e9644,35484,sao paulo,PE
+a7f40e65,7eded982,99614,curitiba,MG
+183a3505,9246bde7,21922,sao paulo,PR
+3ccfa180,0163cd14,35028,porto alegre,SC
+e42a53ed,c3647a7c,21316,curitiba,MG
+59d76739,1ea78b06,77996,porto alegre,PE
+82f5cf29,0afecc12,17968,curitiba,SP
+88bc2d9d,f683c043,31266,belo horizonte,SP
+890a653d,a9a91a74,96745,sao paulo,BA
+d80f26a2,a718f81a,25000,belo horizonte,BA
+8ac0c157,87ba5a93,15011,sao paulo,RS
+f614e965,90407267,3866,rio de janeiro,BA
+c76b45c5,88a5fbe6,6898,curitiba,ES
+b64d441a,8cd28236,19395,rio de janeiro,BA
+18992c96,20480ec7,40019,rio de janeiro,ES
+b9307df4,a0cb56b9,5006,sao paulo,BA
+507363fc,cb0ec996,35393,belo horizonte,RJ
+d9447a49,fed62224,11956,porto alegre,GO
+b9fe9f5b,984ace60,51042,sao paulo,ES
+58d41d50,95e7a464,97199,porto alegre,SC
+1581c448,5a3da998,7078,rio de janeiro,RS
+9ae3116e,c8e7d5ea,30631,porto alegre,PR
+e88e3790,4de9d2b2,96676,belo horizonte,ES
+b1ea681d,c868ff69,63901,sao paulo,MG
+03c6eb58,4c4fc280,70497,belo horizonte,GO
+50e37750,cbff192c,95813,belo horizonte,RJ
+da71e555,e7deaa02,42574,sao paulo,SP
+ba56677b,939150ab,32417,belo horizonte,RJ
+2b72d167,e482ced3,89020,curitiba,BA
+4dbedda4,2f9155a7,84639,curitiba,RS
+ea39f666,29c10ed6,66006,curitiba,GO
+743a6793,441d0550,95881,porto alegre,MG
+f232731e,ffc88013,40454,belo horizonte,ES
+77719698,016e05a3,2587,sao paulo,RJ
+8b357621,fc363b3e,55710,sao paulo,GO
+0f162a7b,a8525d73,87567,porto alegre,ES
+c47f0f2b,1437dc10,92748,sao paulo,RS
+4f979120,23fdf493,76886,curitiba,PR
+d04030c5,58e057eb,19816,belo horizonte,SP
+37015cc3,1bc8365f,86824,sao paulo,RS
+487e5f6f,aee19d4e,30432,sao paulo,BA
+ef5c6093,40da2303,49617,rio de janeiro,PE
+0daaff27,910f2679,73373,rio de janeiro,PR
+5d6a494a,ca8e486b,35217,rio de janeiro,BA
+02cd0770,ed6b589d,21884,belo horizonte,RJ
+d5eebfd2,6010f15c,6454,curitiba,PR
+9ed7ec64,7c846156,75960,curitiba,BA
+ac90baa4,419763bc,44618,curitiba,PR
+6f976f26,56ac039b,84948,belo horizonte,RS
+ec323fb9,c28d8b9a,63671,belo horizonte,GO
+d3ec3ae9,e1252e91,48111,rio de janeiro,SP
+287c0ed2,1777bc6d,40613,sao paulo,SP
+acf9757f,7b81f149,86678,porto alegre,BA
+43e2fe7a,313cbb9f,60993,porto alegre,BA
+2e24492f,a74e20f1,9848,sao paulo,PR
+c369db12,86bef7a5,79672,rio de janeiro,RJ
+f1983bc0,46bfb8c2,67125,sao paulo,BA
+f278f595,7aac787f,87444,sao paulo,PR
+914bf55c,9c8bc540,62602,porto alegre,SC
+d9b7e009,e9015ecc,73045,rio de janeiro,SP
+18796603,ba34f69b,43222,belo horizonte,BA
+4e512446,768f6dc5,50223,porto alegre,RS
+6a60bd4d,7472117b,66333,belo horizonte,MG
+bd65d313,79653602,53732,rio de janeiro,PR
+94f44c9f,52601f54,50420,sao paulo,SP
+d904a6ec,af2ee103,76504,curitiba,BA
+342d841b,30c0c553,3462,curitiba,GO
+39d62698,ef77d2e7,10460,rio de janeiro,PR
+acfeb069,8ec0e8fc,10275,curitiba,RJ
+1f9d3faa,d78a733f,95213,belo horizonte,BA
+f1bc5de0,0a4fe305,14269,curitiba,PR
+8110fba8,e1149f9b,66942,rio de janeiro,BA
+d47e82e0,748c7998,73920,rio de janeiro,PE
+cb1271a9,527a5fb1,23553,belo horizonte,MG
+34187438,05985b5e,25366,curitiba,ES
+9b8d7933,29d7beb6,45036,curitiba,ES
+c662c3ce,44303ae4,18369,sao paulo,PE
+483eb7a1,1f8229c9,12795,porto alegre,PR
+c84d2986,ad3b1fa2,71021,rio de janeiro,RJ
+79f8b689,375b407f,69154,sao paulo,BA
+23e0a3e3,71206981,31143,rio de janeiro,PR
+ba100c6c,47799c35,30425,sao paulo,GO
+180fc5f1,4ca0b585,89209,porto alegre,RJ
+f6f9223a,6af2a5b5,76139,sao paulo,GO
+927efc3a,9a84f0e8,6368,rio de janeiro,PE
+e436a002,6122c0d5,5621,curitiba,RS
+6ae3a891,99a86069,59829,rio de janeiro,ES
+f2bfb336,1c49abb0,61294,belo horizonte,ES
+a8e0e150,9dc2b29e,15719,belo horizonte,BA
+63f37e40,0ab4cc8d,30227,belo horizonte,MG
+021d252c,831b12d7,8566,belo horizonte,PE
+e1b23eee,0b7f0be8,13306,porto alegre,PR
+afb6aace,eb62fad8,54822,curitiba,PE
+2bbc20a6,660c8c63,25042,curitiba,PR
+10ec056e,8157473f,16086,rio de janeiro,PE
+d0a8e06a,11baa335,18387,sao paulo,RS
+90a593d4,ded9c7c9,28042,rio de janeiro,SC
+5903412c,58032710,90424,rio de janeiro,MG
+0de6b0d4,34e0e9cd,52618,rio de janeiro,PR
+4a30f46a,10f7d303,93050,rio de janeiro,MG
+d376a25a,66907d95,19323,curitiba,RJ
+f3284f3b,efc0079e,19019,sao paulo,PE
+aacf684c,a3a4e3e0,76426,rio de janeiro,BA
+0a772b9b,c340c6d5,41863,curitiba,SP
+02df3354,50b43ace,11283,rio de janeiro,RJ
+11e7a9cd,9570d5a7,19279,belo horizonte,GO
+b1cee4b1,b005bb62,47999,rio de janeiro,ES
+8cdabfcc,e8c61b83,63780,rio de janeiro,SP
+911c1f4f,7aada269,23908,porto alegre,RS
+fdcea25c,74567205,62584,belo horizonte,PE
+2a829458,e79d33fe,51225,sao paulo,SC
+faca94d4,3b01d43b,38952,rio de janeiro,RS
+3c0ab9da,b57749ad,38663,sao paulo,PR
+83ce08f9,e9218120,62381,belo horizonte,SP
+fc182d47,45b6856c,48929,rio de janeiro,ES
+fb80534e,ae0e753b,10343,porto alegre,BA
+e7d56c44,52fe5f12,77173,curitiba,SC
+680fe676,53450f71,40791,porto alegre,MG
+e3f1e3f3,26a45a3b,30134,porto alegre,PE
+8fa31f67,af61cd6c,48101,curitiba,PR
+a1379d7e,36daedfc,70443,curitiba,PE
+587aa047,0db920c7,58530,curitiba,RS
+2a544f07,32dc7989,47799,rio de janeiro,SP
+d4ffa3e2,4d14a234,5827,sao paulo,RS
+277a973f,9fd71526,97143,sao paulo,SP
+2883a975,dcdf9734,63653,curitiba,BA
+219763dc,cecd3a24,14699,porto alegre,ES
+d0b3b972,a9e6d97e,92419,belo horizonte,MG
+632a04c0,2c3c91d3,6313,curitiba,BA
+da2c75a0,1fbee2ba,14598,porto alegre,RJ
+310d1256,3b107923,29807,porto alegre,ES
+3cb745d5,f11ade1b,71423,rio de janeiro,BA
+d3afc156,42f2ab5d,70390,rio de janeiro,SC
+492eb07e,7a108471,46226,sao paulo,PE
+b19d67c5,f5276a12,60550,sao paulo,RS
+76964a09,6488aefa,81072,belo horizonte,ES
+4e0f82bc,044fd3d1,4558,belo horizonte,SC
+af0e59e8,bac09481,76308,belo horizonte,RS
+3b6ed07f,5971af05,51113,belo horizonte,RJ
+66b3c6d2,5a8680c6,53999,porto alegre,GO
+fa4f914c,6748f31a,56878,porto alegre,ES
+70668b0e,4585077b,37343,sao paulo,SC
+5b144818,c7b94725,59219,rio de janeiro,RS
+070540cb,ee0fe78e,36186,rio de janeiro,RS
+ae8adf51,355c8c7c,37966,curitiba,BA
+b95b4d43,e8b2fd31,34769,porto alegre,SP
+2509bbb4,5adf8be9,54218,belo horizonte,BA
+1f1eeb0a,4706c93f,20229,belo horizonte,SC
+f26f9eb8,155457ba,76209,curitiba,PR
+e098a96c,ae076fba,28877,rio de janeiro,PE
+78c350ea,61f65bb7,59001,belo horizonte,ES
+769efa48,2f417ee1,98137,rio de janeiro,BA
+9915fbcf,a3586190,39084,curitiba,RS
+a13a42c6,bc242976,82780,rio de janeiro,RS
+49136800,c535f615,93892,rio de janeiro,GO
+9b00dc8b,c0cdd0b5,17806,rio de janeiro,ES
+fb1aadcb,b6f5e5f7,89635,belo horizonte,GO
+7bb36217,6ce176e1,38034,sao paulo,PE
+9407a0ab,5c6065cc,41317,porto alegre,RJ
+e150635c,7c4b0b9c,56468,rio de janeiro,BA
+117ba214,2b5a1bdc,20094,rio de janeiro,MG
+bd88b940,928f31b2,58796,rio de janeiro,SC
+7fa303d0,618432d0,11589,sao paulo,SC
+abdcf93c,9c199020,58221,curitiba,RJ
+57e4d654,73c02354,2657,belo horizonte,ES
+3a188334,a9cfd755,99300,sao paulo,BA
+be948ee9,ba4988d4,40531,rio de janeiro,PE
+9d925270,1f3d1a81,53227,sao paulo,SP
+dbab24ca,2f60da1c,4164,sao paulo,GO
+3453d3a2,4c7185cd,94078,sao paulo,RJ
+eec60298,bf6edb48,84973,curitiba,SP
+c662f125,930ef26e,42247,porto alegre,GO
+9e95f420,4da67d58,20601,belo horizonte,RJ
+f1a75b4d,c8ff83d5,94966,curitiba,SC
+f148ead4,52ec5c68,51599,curitiba,SC
+ea340a7d,25bb6952,72545,porto alegre,RS
+762656ae,26d5b908,5552,curitiba,GO
+02ff79b0,7e0a74c8,10417,sao paulo,MG
+50b9b472,046ce2ea,59579,sao paulo,PE
+21d67171,fddbc943,69207,rio de janeiro,PR
+943ed054,79e515e0,73055,curitiba,ES
+382f7cd6,7ff5e83a,79270,rio de janeiro,ES
+05fb0a08,188a2880,4722,belo horizonte,GO
+f0755cc6,db37b8a9,71442,sao paulo,RJ
+3b45cc51,2b3dfb7f,96632,belo horizonte,RJ
+2dbb6d62,95281405,41031,porto alegre,PR
+caca41ed,9d6731c5,80235,sao paulo,PE
+11ac5143,ea476c22,22438,belo horizonte,BA
+c0de3a56,a7ed82e2,59819,porto alegre,PE
+95d414b4,c8638812,44856,belo horizonte,BA
+e8a59e90,3dfbe73e,34576,porto alegre,PR
+5cc6b9b5,2c0df30c,42938,porto alegre,BA
+a0bfadb8,4b585581,50028,sao paulo,MG
+7859d4f7,a5332bce,60807,rio de janeiro,RS
+c770771f,0fd52824,50877,porto alegre,PE
+82394c86,b14b1f3e,98783,porto alegre,BA
+71263687,1f788ccd,44461,sao paulo,SC
+9565ded5,55ab4ec6,94474,rio de janeiro,MG
+98fa35ee,ff7a38ca,41469,curitiba,PE
+e9515426,bbd58fab,84136,curitiba,BA
+b88277c3,0024960d,21435,rio de janeiro,SC
+b04659af,77d38ee9,85117,belo horizonte,PR
+de95f4f2,0e60f121,15191,sao paulo,PR
+4c692cb7,d19f6ce0,85726,rio de janeiro,GO
+d338e2c9,eacfb970,28386,curitiba,ES
+5a1a98b9,94b6a71c,32721,porto alegre,SP
+5fe99ccd,5ffabb92,55786,curitiba,SC
+c7f08a21,b9b1d303,14704,porto alegre,GO
+613715f6,9327a11a,57635,sao paulo,MG
+4bc270e2,50fb441b,3123,porto alegre,BA
+2ba3641a,9ebdff12,91710,rio de janeiro,PE
+8191bf49,369b397c,63993,porto alegre,RJ
+bd2e9576,bf16ab02,81122,belo horizonte,SC
+5de10d7d,fc8c63c2,98512,rio de janeiro,SP
+0062d09f,5e473155,26416,sao paulo,RJ
+9ef51aeb,247e2781,2814,rio de janeiro,RS
+330189dc,aea6a721,79537,belo horizonte,SP
+e0561b44,cefd769e,51258,sao paulo,GO
+d8783792,5ab43b81,17508,curitiba,SP
+7618f44e,41d65bf4,86166,belo horizonte,BA
+a6e1bc1f,a3f35a52,79916,sao paulo,PE
+03f22bcf,a591a55d,36699,porto alegre,MG
+c1a9a8c4,db2f7743,47335,rio de janeiro,RJ
+34b85299,a67c13f1,47806,sao paulo,SP
+10793e05,f8f773ce,78853,rio de janeiro,BA
+b808ecde,ad5a292d,64768,porto alegre,PR
+d9139cb9,a33e177b,36739,sao paulo,SP
+25e1fa7b,7058ce4d,35785,curitiba,SP
+e01ea267,8d47da24,32980,belo horizonte,ES
+7758ecd1,7d3cdc18,90335,sao paulo,RJ
+cfc3cbad,ef91aa48,95702,porto alegre,ES
+13c4aa1c,c950c0b1,86016,sao paulo,ES
+08679e0d,24481606,2609,rio de janeiro,PE
+9db0fca7,e03e9ab7,67253,sao paulo,BA
+f681fa6f,167cd7c9,86481,curitiba,ES
+68d8e31f,86102f5d,92128,sao paulo,SP
+a66f7bfd,9efd127d,29141,belo horizonte,GO
+f5271411,781a34c8,31009,sao paulo,GO
+6cda33b9,1de6816d,7782,rio de janeiro,PR
+506686d4,2051290a,93072,sao paulo,GO
+7cf4f58f,202381f0,26933,curitiba,PR
+ca662670,73d64bff,78154,porto alegre,GO
+72364e4c,0cec9a90,9307,sao paulo,RS
+091cfcc6,138ae67e,93207,sao paulo,PR
+965edcc3,8a607086,76874,belo horizonte,SC
+a4a699c0,7939bd78,39346,curitiba,RJ
+58842f06,350abe1e,51772,porto alegre,RJ
+b6a9fe08,dfcf2a5d,73084,rio de janeiro,RJ
+39906160,25e42497,41149,sao paulo,BA
+02bc0931,9579437f,87700,porto alegre,PE
+a23a4fd7,8f1d6e64,28526,rio de janeiro,MG
+90202a94,915ce834,97758,curitiba,PE
+e6b5d792,670e8223,86712,curitiba,PR
+b9196f18,08c607b1,69477,porto alegre,PE
+7fd375cf,045265fa,6695,rio de janeiro,GO
+c17b9b36,667825a8,40169,curitiba,PR
+597eddf1,d9baf08c,48947,porto alegre,PE
+9b62ed2c,573a1103,48224,curitiba,PE
+7c983fce,d1cb89ab,46865,curitiba,ES
+1634721c,bac6888e,26553,curitiba,RS
+04fefce6,df23cc44,61410,belo horizonte,BA
+3cf73db9,6aee03e8,91895,rio de janeiro,PR
+393ed73e,54dc8617,25816,porto alegre,MG
+54c96e5e,8a678d46,56026,porto alegre,RJ
+825d541e,d2663c01,51705,rio de janeiro,SP
+436acc54,1fe03911,62922,rio de janeiro,SC
+12a30ffc,bac40581,74914,rio de janeiro,PE
+04a4825f,4324f328,2881,rio de janeiro,RJ
+011e871d,20dc37f0,40567,sao paulo,GO
+f14f215e,0f29c8d8,48365,porto alegre,SC
+7a318820,43ebfcd8,80211,sao paulo,RS
+46a78de1,c75c373f,71122,curitiba,RJ
+db9d7e5d,5bf53000,26006,curitiba,ES
+3a90973f,0793e0f8,42198,porto alegre,RJ
+64df1a23,eb0d6e01,23831,curitiba,RS
+fa6c0e4b,a87be6dd,17459,rio de janeiro,RJ
+8e23a7d1,a2f29d97,33443,sao paulo,PE
+99dd0677,cbfc1d41,43316,rio de janeiro,RJ
+5992316c,0dbf0fc3,97131,curitiba,ES
+ec8a9604,9de635c2,65486,sao paulo,BA
+b8b45e31,ec4ab1d3,6877,rio de janeiro,RS
+b55409d8,990bda9f,40553,porto alegre,ES
+25751f91,d34dbd74,5922,rio de janeiro,PR
+40a71eef,bfbb61b9,5686,curitiba,RJ
+bc2e5ce4,4d6702a4,33766,sao paulo,MG
+bd33cba6,b0269ddf,80943,porto alegre,RJ
+bc458b58,ad2a3231,33006,sao paulo,RS
+339d672f,53407401,32422,porto alegre,SC
+edf2cc21,dc296390,13205,sao paulo,ES
+67ac726a,2768bcc7,87590,curitiba,MG
+fcf190a1,d381e90e,24527,porto alegre,PR
+efa88e77,d0ab6868,19443,belo horizonte,GO
+11bf5d67,fa68725f,17524,sao paulo,PR
+78f4f44f,e6b8f4db,29202,sao paulo,ES
+aeaca0f3,fae4d81c,66552,rio de janeiro,SC
+c2edc825,b2ef31a3,47142,porto alegre,ES
+350f5311,b2b7a28b,62692,belo horizonte,SP
+04e56336,1e055d8a,83384,curitiba,MG
+602a77d8,3c02134e,21855,rio de janeiro,SC
+ce11c3b7,468ad358,84747,belo horizonte,MG
+b00a2b45,0ecf72ea,61372,porto alegre,ES
+9f208b56,c00a4788,26095,belo horizonte,BA
+7406a29c,25ce1dc3,39724,sao paulo,MG
+98ea0287,55cf0c89,50241,sao paulo,SP
+69161295,01d62619,53003,rio de janeiro,PE
+70df9d2d,f40c08a0,69379,porto alegre,SC
+0a7ac1d9,f4896c5e,95837,porto alegre,SP
+bc5d9043,fafc3c6d,92996,belo horizonte,SP
+725979b6,9f4bd632,98454,rio de janeiro,GO
+56fcf562,8e7c2cbb,95283,porto alegre,BA
+00b785d1,b818b3b1,16972,sao paulo,RJ
+24781d90,4735ab88,94846,belo horizonte,BA
+614d16f3,be80045f,23927,curitiba,RS
+059b2211,10e3cd5f,67630,sao paulo,GO
+25f8e871,a72b2cb2,53347,rio de janeiro,ES
+d44aed65,d80b0658,89860,porto alegre,ES
+6a960d6b,862dc01c,87210,sao paulo,PR
+9e2a1b28,5323e8aa,70518,curitiba,RJ
+8c9788f7,3f0556cf,46283,curitiba,RS
+4689824c,254c26a7,82326,rio de janeiro,MG
+8248bf97,d9ac4b2b,13205,sao paulo,BA
+a6a57719,4648cab0,90874,belo horizonte,SC
+52e8bd6d,7317f74c,13748,sao paulo,SP
+8122dddf,f400fffe,22097,curitiba,MG
+6472009d,b5481f22,4092,rio de janeiro,PR
+1d8a64bd,6ed8a472,54311,rio de janeiro,BA
+4950c839,6850dcc7,23692,belo horizonte,SC
+0a9b071f,6116b756,24862,rio de janeiro,PR
+7e8db413,14850a26,91396,rio de janeiro,SP
+3ab7d63f,50991b85,80507,rio de janeiro,GO
+8357ba4e,a8a4ee04,81152,rio de janeiro,RJ
+03f65d07,247e1348,71469,rio de janeiro,GO
+559add03,7000eb3a,5926,curitiba,SC
+951251b9,b17411e1,92299,sao paulo,GO
+9c2456ea,a4aad18f,4969,porto alegre,SC
+aa1aa952,22595763,36733,rio de janeiro,RS
+c884a56c,2798c594,70855,porto alegre,RS
+39070f0c,a51b3e8e,42743,porto alegre,PE
+e15f9ac3,9a179e85,40876,curitiba,PE
+e1462be4,1b5543da,21323,rio de janeiro,GO
+2443428c,87fc6217,17428,porto alegre,ES
+25c2ad95,ece382d5,35578,rio de janeiro,GO
+fa479546,95fa8056,87486,belo horizonte,GO
+b0d7910c,fc32d1bc,65140,belo horizonte,ES
+89c98b6c,03783753,84829,belo horizonte,RJ
+40e529ae,09dcc3d7,7364,porto alegre,BA
+53a9a14c,cf3e9bcf,36349,belo horizonte,ES
+d7e5a383,aa9c0d4e,1691,curitiba,SC
+e8c1fd76,74549ae4,96598,curitiba,BA
+6c501b98,e8bf3457,67467,porto alegre,SP
+ddce10f6,e9dedea6,46896,rio de janeiro,RJ
+cb9c2278,02827ef5,58062,sao paulo,SP
+fcb1172c,45cfe7a9,98266,rio de janeiro,PE
+afbcebd8,8d70072d,80762,rio de janeiro,MG
+d5d75abd,43533cc4,14861,rio de janeiro,RS
+d5774fe1,3345a970,97837,rio de janeiro,SP
+9db93843,9d5a546a,89302,sao paulo,PR
+b317707b,bd79b585,64928,belo horizonte,GO
+aa4d573c,21594e95,84231,rio de janeiro,SC
+1df220bc,64606a89,42347,curitiba,SP
+024847bd,76fe199e,4121,porto alegre,SP
+ce84b976,ad5ed266,84793,porto alegre,MG
+961731aa,6122cd8a,29164,curitiba,PE
+24e6774d,d98b6974,26491,rio de janeiro,GO
+f158be6f,cb516f3c,60222,sao paulo,GO
+599506b2,10a43ad1,24165,belo horizonte,MG
+6e19266a,ddddd8bd,4748,porto alegre,ES
+cca2e643,dabd291c,99581,belo horizonte,MG
+13046eb3,6094562e,27553,sao paulo,PR
+1c2472c4,e21fb106,61380,porto alegre,BA
+be32c638,665eb31d,45331,belo horizonte,PR
+78dad646,ad393a77,97033,sao paulo,MG
+9bb67918,4be8de58,97844,belo horizonte,RS
+ddea4592,f03b1083,40560,rio de janeiro,ES
+f5f8e767,ce100b3b,54865,sao paulo,RS
+ecbaab9a,2eba06c9,47686,belo horizonte,PR
+0bd7c4d8,8219dc6b,76910,rio de janeiro,GO
+9bc316a7,def57efd,5675,rio de janeiro,PR
+e665eae5,54e7096e,67706,sao paulo,RJ
+d1a2e429,b7713315,78986,curitiba,PE
+246a2409,d380699e,77216,porto alegre,SC
+c112e95f,74393262,11068,sao paulo,RJ
+cf931256,f546e87d,55460,rio de janeiro,MG
+ecbf7b15,1ccd905b,47418,rio de janeiro,SP
+ad3a4061,25d477f2,27206,sao paulo,RS
+dbe652d5,9a159b92,1287,curitiba,BA
+fc60db83,d3f1b579,23337,porto alegre,RJ
+b7528830,c0483a92,21666,belo horizonte,ES
+da085b01,5232d2fb,2161,sao paulo,RS
+d9da7190,4153d48f,91071,porto alegre,RJ
+ad317cb8,c753981b,99064,porto alegre,GO
+5ab8c62a,cdb5ae0b,39751,rio de janeiro,SC
+41b68569,996036ce,83063,belo horizonte,PR
+edb60bf6,a318ca32,90389,sao paulo,PR
+732cec2b,c2052486,15758,rio de janeiro,RJ
+12fb32ff,6e812844,66780,rio de janeiro,MG
+c92d541f,9794610b,4178,curitiba,ES
+c869a4ae,0b4f08a1,32831,porto alegre,MG
+df05cde1,ed528b2e,3176,sao paulo,RS
+e40e0c40,7fad7a83,34654,sao paulo,PE
+bd7d0b96,69d535bd,27627,sao paulo,SC
+cd638a47,26d86b2d,53550,rio de janeiro,SC
+ba504284,d123a587,45910,curitiba,PR
+03d36078,6eea6ab5,91417,belo horizonte,SC
+9bab0322,f40d0464,59251,rio de janeiro,MG
+c3b9ad98,cf7ece8f,36422,belo horizonte,ES
+a05b6cc9,55352227,12984,curitiba,ES
+58533a46,9ee94df5,90312,porto alegre,PR
+dec31c91,b6c29f4a,62386,sao paulo,RJ
+76a30295,74858545,84291,belo horizonte,ES
+34a32d70,edb3d530,8135,rio de janeiro,MG
+30d37880,f65c7f2e,1320,belo horizonte,SP
+82dc4546,cf7956d9,95171,porto alegre,RJ
+71f2405f,68281de2,22684,sao paulo,PE
+0268b29f,0cb5f266,56913,belo horizonte,BA
+66def57f,21983eb4,89774,porto alegre,GO
+23d3cbc4,f46e928d,22889,rio de janeiro,SC
+b876bd4e,aafc0e6c,96849,curitiba,SC
+4173503e,d559c319,99071,rio de janeiro,SP
+bde73501,84f56abb,49899,sao paulo,RJ
+61964ee7,826a410d,11770,rio de janeiro,PR
+d9563509,2e4418c0,40321,rio de janeiro,MG
+65745730,e18c81bb,86962,rio de janeiro,SP
+c89f1f9f,2bd5e33b,42777,rio de janeiro,GO
+0e9f4d6d,5308bd29,47250,sao paulo,ES
+f0ed8532,c8dff9eb,74034,porto alegre,PR
+fa4442c8,af158f30,41130,belo horizonte,BA
+d8098233,0d2c29e4,82931,curitiba,PR
+030bfb49,cdc5dbcb,50346,belo horizonte,SP
+05f9fd2d,d1bccad6,3537,belo horizonte,PE
+18e62c83,700b584d,85762,curitiba,SP
+271556c5,0e7c6d23,16216,sao paulo,SP
+c137dee7,227648d5,85149,curitiba,SP
+c05d7abd,8c3dd787,4009,sao paulo,PR
+ab600572,77f214a1,90904,belo horizonte,SP
+90e8f872,b2340894,30327,sao paulo,RJ
+76462790,50f18cb9,15209,porto alegre,PR
+6f182206,a2e682cf,49443,curitiba,ES
+df45da94,645f206d,16029,porto alegre,RJ
+4320064c,1a3abae2,68613,belo horizonte,GO
+293b092f,2a3d8399,80443,curitiba,ES
+1822bca9,516a00d6,57997,belo horizonte,BA
+d1d16705,f554c61a,63559,porto alegre,SC
+ef27f67e,e2291333,65892,belo horizonte,PR
+76146d2e,9f5d68b0,71409,curitiba,SC
+c7bb887c,0e6b0f0d,9635,curitiba,PR
+cca36c45,e9612b1e,34065,belo horizonte,ES
+155b63c5,9acb6375,34783,curitiba,BA
+bba124d4,6cbb1b7b,35152,curitiba,MG
+2e50986c,bd6262c9,59741,belo horizonte,MG
+11f0a75e,1e6a30e0,52502,porto alegre,RJ
+8286c7a5,5590f004,30092,curitiba,SP
+14b8a9f2,1d5336df,18653,curitiba,SP
+1bb562c3,904c47e4,98999,curitiba,MG
+9fc52f78,8376ce72,41469,curitiba,ES
+f9576bd9,a8192fce,87483,belo horizonte,BA
+1ca76166,44cff825,60754,porto alegre,RJ
+c8c124d3,75c3d195,30978,porto alegre,ES
+31782265,2d04bbe0,88592,sao paulo,SP
+5cd17bcf,35c78419,95543,curitiba,RJ
+0bdb3e7f,4db5b473,44169,curitiba,SC
+1e2a753d,8169eb49,49287,sao paulo,RS
+577a2df3,8f8228ca,55745,porto alegre,GO
+8d7906c4,11ef90dd,6543,rio de janeiro,RJ
+277908c3,0f58ce36,57392,rio de janeiro,SP
+50069d55,2e24ccd4,22067,porto alegre,ES
+c620467b,6b222cb8,52033,curitiba,SC
+7b249b3c,ea08bc40,46256,rio de janeiro,GO
+32a8b737,2498f1b5,91633,belo horizonte,GO
+adf4d30f,6581385a,70345,belo horizonte,RJ
+71371b5b,d19481d4,23191,sao paulo,GO
+2ea90b21,d9795497,87803,porto alegre,SC
+777953cd,ecc85757,73742,porto alegre,BA
+2d9321d1,af663cdd,87593,rio de janeiro,ES
+7bee573c,e63c59f8,29992,curitiba,RJ
+c093dd89,19d6a03b,82531,porto alegre,GO
+af0c5f77,24abca65,49803,rio de janeiro,BA
+bfad9ac9,0eacba13,64477,rio de janeiro,ES
+8d0bc55f,04467b51,14210,porto alegre,PR
+366f59bb,c414d9cf,84329,rio de janeiro,BA
+a81bb4d0,b18afefb,27270,sao paulo,PR
+7dc3c578,333d8f88,63008,sao paulo,PR
+48133843,7cbfd40f,6197,porto alegre,BA
+84538466,c91283c3,8452,curitiba,GO
+fbf65d0e,2838895c,42486,sao paulo,PR
+1bc80e96,28ad7b67,15859,sao paulo,GO
+7ed66e67,9f83bb83,28236,porto alegre,GO
+246d00d3,cfd50c78,32899,belo horizonte,ES
+1af6a636,6d6e8cbf,33083,rio de janeiro,PE
+e66fa75f,8a8cce46,68708,sao paulo,SC
+074fc9ee,0bdaaf89,17663,belo horizonte,GO
+eb950575,87af1c0a,94076,curitiba,ES
+9d50fc81,01be33c5,20053,belo horizonte,RS
+442a0718,88205006,12085,porto alegre,PR
+5a897244,366bb787,31564,curitiba,RJ
+fe90edd3,a4baa85f,90745,curitiba,GO
+ca2f8e57,9bcd2cc3,60095,belo horizonte,BA
+bc90bd2f,be307c50,70517,porto alegre,PR
+89e27e22,5712209b,22153,sao paulo,PR
+c7b972cb,de6d3a7a,6247,belo horizonte,RS
+c156539a,9519160b,11553,sao paulo,RJ
+f8ff1467,70a362f8,21811,belo horizonte,ES
+4f027198,1dc59c02,96381,sao paulo,RS
+5dbcd5a6,ecf9625c,7135,belo horizonte,SC
+02d84074,0c463169,6573,curitiba,PR
+2ef02148,5f88759d,80267,rio de janeiro,GO
+fd813d1b,03aa7118,8189,curitiba,GO
+7b8f6a73,1f9c1783,81077,sao paulo,RS
+0ba142f6,ce40df87,44646,porto alegre,SC
+d4ab020f,1fdac7bd,77623,curitiba,MG
+9045ca74,648f780a,54687,rio de janeiro,SP
+3290be29,52a82149,69312,sao paulo,BA
+c18a1ce8,9034229e,28564,curitiba,BA
+9f8e1adb,f3d36311,29835,belo horizonte,MG
+0fb7db56,ba405b19,62587,porto alegre,PR
+e2fa2770,5794ac51,8697,sao paulo,ES
+d27cb02e,4bdf6e21,81165,curitiba,RJ
+9b9ac85c,a24c33d9,74922,sao paulo,MG
+53f79b95,e9656658,18046,belo horizonte,SC
+1fc7c8d6,20009bac,58823,rio de janeiro,GO
+71bf4b9d,a788cde3,74580,curitiba,SP
+98977f9b,975fad01,54370,sao paulo,PR
+b4b91c14,ac0fe58b,10615,sao paulo,SP
+fab3cc5a,355804fc,6060,sao paulo,RJ
+a5afe1bf,f56f3871,77436,rio de janeiro,GO
+41b9274f,a88484f8,61519,sao paulo,SC
+d5be3cf7,92645b68,72117,porto alegre,BA
+d9e36416,dc72118b,62158,porto alegre,RJ
+e94de761,647eb786,35782,sao paulo,MG
+f464a75f,259f63b9,86709,porto alegre,BA
+35b98e6d,7fb4ef21,79533,curitiba,BA
+fbe6cf4a,db62afa0,59255,porto alegre,SC
+d6d699c0,34b36820,73684,sao paulo,MG
+91ef42bd,0fc1c2a8,57918,belo horizonte,RS
+79593ff3,a8dd674e,85284,curitiba,RJ
+69a2830a,bbea7c29,80558,rio de janeiro,ES
+40a0af4b,efe662c1,86549,sao paulo,PE
+517fe4a5,99280f94,82422,rio de janeiro,GO
+ca154930,da2cc875,26256,belo horizonte,SC
+f26e0735,651b2eb7,31005,rio de janeiro,GO
+4d6dc579,3450ed48,7638,sao paulo,RJ
+f2825f8b,f656fe77,38419,sao paulo,MG
+98bb37eb,5d609453,34377,belo horizonte,ES
+08dd885e,7f22ad1f,44116,sao paulo,PE
+e1e8e108,e01b05b0,37634,belo horizonte,SP
+f2245137,818264b5,83291,belo horizonte,ES
+c137c318,22de2587,24382,sao paulo,SC
+8b22610c,0d23b4ae,57063,porto alegre,GO
+73d45dc8,44f0d604,23394,belo horizonte,ES
+060c052d,83f8df3a,68789,sao paulo,PR
+d924c93d,9cd1fafd,1864,porto alegre,MG
+43a44e06,bb5c72b7,41222,belo horizonte,MG
+b98a9118,c60da2dd,14666,porto alegre,PR
+35406617,161cb8bb,21955,curitiba,BA
+e04d2c6d,6cff6b67,82845,curitiba,BA
+fbe0db7c,920728a1,70590,porto alegre,RJ
+9b48754d,1402d683,67471,belo horizonte,RS
+818a3a4a,d69688a1,89314,sao paulo,SP
+cfe3a69d,7c14d77f,44298,rio de janeiro,PR
+bef7d0f2,66633848,64108,sao paulo,RJ
+755df0ce,bad0fddb,49924,rio de janeiro,GO
+f295f01b,e770db9c,17709,rio de janeiro,PR
+dca1e0a4,5df7f4bb,10726,belo horizonte,RS
+1e88b9bd,84e146bd,61824,porto alegre,PR
+38d38ab0,cf0dec2b,41542,sao paulo,RS
+25286ddd,a2b27f15,21245,porto alegre,RS
+0144e65b,8f992393,35753,curitiba,RS
+bbd00ede,1b028af0,80788,belo horizonte,MG
+6f858623,1f74d0c7,22316,belo horizonte,ES
+a35b34be,95b49493,85698,curitiba,MG
+86699ad7,aaaa1916,16960,sao paulo,RJ
+dd927c57,880eb6ed,31791,curitiba,MG
+b3d1aff8,1129f412,26216,sao paulo,MG
+1bafa8c8,899f5f55,33467,rio de janeiro,GO
+2ab558ec,efbeafa3,65427,belo horizonte,PR
+5c0baa48,9cac6813,63047,sao paulo,MG
+7a88ea48,17f943d1,74290,porto alegre,PE
+8a2ec47a,5244abba,48014,porto alegre,RS
+d334520b,aaae1784,5078,belo horizonte,PR
+cd08bfdc,e52278c7,79389,curitiba,BA
+bc597a87,963c29a1,51519,curitiba,GO
+27247e41,e21a31a8,5042,sao paulo,ES
+96f86397,78f4dca1,50052,curitiba,GO
+456c3f62,b3ad32d0,15389,belo horizonte,RS
+9251d138,20aa4d2d,96961,sao paulo,PR
+583ad289,8d5b53a1,69111,rio de janeiro,ES
+df297db4,f91e49c7,94715,curitiba,SP
+52340606,4c64ee6a,51733,curitiba,SC
+b046c3ed,93a5b0be,35754,sao paulo,GO
+fc88770b,cddcb389,19624,porto alegre,ES
+39ac39a4,67c0ed7f,86886,curitiba,RJ
+69913721,bb3a98b0,27681,belo horizonte,ES
+b559db48,caf03046,90524,curitiba,SC
+cf2d6276,b3a7cf25,82006,rio de janeiro,RS
+d20f950b,1474725e,25704,curitiba,PR
+71fb2f1e,f5b2ba19,95913,porto alegre,SP
+10b1d537,41d4c38a,95108,curitiba,RJ
+44ab3b5c,85417575,8493,sao paulo,ES
+dbc88af8,18912289,70639,curitiba,PE
+be7ca773,7d937f41,55383,porto alegre,MG
+ccd91b69,bb3eba60,3994,sao paulo,RS
+7e2ee6a2,93498ca1,70280,belo horizonte,GO
+cc6c975c,67ae5f98,48234,sao paulo,GO
+ee6db312,ef2cddf5,48291,rio de janeiro,SC
+1af5bce6,601add3d,93868,sao paulo,RS
+c126054a,f49bc3b0,6594,belo horizonte,RJ
+4c57037c,957f1c61,8371,curitiba,BA
+2520aa3c,4857c340,48315,sao paulo,SP
+318edd4d,bf55951f,84564,sao paulo,RJ
+0d7c3a75,733b64d8,80526,sao paulo,SP
+5fc28fa1,9121f88a,17626,sao paulo,PR
+c227408a,c876491e,87005,belo horizonte,PR
+b29be548,b84e7ce9,8130,porto alegre,RS
+cc794b6e,0f2c57ca,7828,porto alegre,RS
+d5f85366,bf6ce734,58514,sao paulo,GO
+243ae7a9,42651145,53664,belo horizonte,MG
+ccc3bd5d,14377a10,18883,belo horizonte,SC
+230c0432,68ace5a7,44059,sao paulo,MG
+20e32e06,4f544a20,85078,rio de janeiro,RJ
+3133bead,a7e3dc1e,43932,sao paulo,GO
+661bce82,b7dea2ea,62269,rio de janeiro,SP
+a5def80d,670d61a8,76986,sao paulo,BA
+b20425f1,1535949f,86959,rio de janeiro,ES
+0f008d2e,aa140d04,3035,rio de janeiro,PE
+6eecd994,674a1852,41745,sao paulo,PR
+5023b406,0feb1b74,18241,rio de janeiro,MG
+f1bbe728,86491ee1,53975,curitiba,SC
+fa435ad4,3bafbd42,24154,porto alegre,BA
+8fa64b5f,a7a5b1dd,26625,belo horizonte,BA
+d9f7e580,1de99542,45950,rio de janeiro,PR
+3795ea17,7ef90c4a,99602,rio de janeiro,PE
+32f1fa41,5f2e3aea,57396,belo horizonte,RS
+c2731b2e,b8e48f83,14331,rio de janeiro,BA
+7dcd83f1,cbe0e740,64927,belo horizonte,RJ
+1fc3e345,50201aeb,87226,sao paulo,RJ
+9f7192bc,88c34e6f,85719,curitiba,RS
+10cc1a97,0e204308,64014,curitiba,SP
+32077e44,3a317b96,40346,porto alegre,GO
+f5b33a61,1af16d1d,71411,rio de janeiro,RS
+43f94ec4,de5a56d1,55478,porto alegre,PE
+abea1b14,11d73f12,13254,sao paulo,RJ
+dbf2b99d,8b177de1,56734,curitiba,BA
+60096d3f,1889234e,29621,sao paulo,RJ
+1c1c365a,b2f207b0,77441,sao paulo,ES
+8f0a8858,7acd59f8,47121,rio de janeiro,GO
+a63d087b,fc9ad873,82418,sao paulo,SC
+fa97b160,cdaa47b8,61197,curitiba,ES
+a27f40a3,261c1124,85577,porto alegre,SP
+ed1687df,45634b65,95634,curitiba,PR
+fe0a7803,1bb3ea5d,43431,rio de janeiro,ES
+04da8145,bab18899,5837,curitiba,SP
+2c5d01a6,50182a7f,91025,belo horizonte,SP
+524d475b,0a5e979c,84163,porto alegre,SC
+66451f34,0b289aa3,72232,belo horizonte,PR
+e0db29eb,4d8911dc,49994,belo horizonte,MG
+9b7383e7,5e0f81e3,80079,rio de janeiro,RS
+bc845f79,e8681308,13615,sao paulo,BA
+4ce2126c,18ec56c4,2466,belo horizonte,PE
+b7aca014,a8bc9cb6,31771,curitiba,PE
+3577eea4,c13bc799,84886,sao paulo,PE
+bce42f65,8dc07f12,66911,curitiba,MG
+c7ce61b7,9c18cc3b,99566,curitiba,RS
+8d3b9f67,9636d0b5,21746,sao paulo,PE
+81c5835f,bfc91b36,89422,sao paulo,RS
+53695d20,51a51730,61739,curitiba,BA
+c16d63b6,1f0e6f89,99187,rio de janeiro,PE
+dd0f28d8,f7eb3961,74369,porto alegre,PR
+7121380b,c975e7e0,2893,porto alegre,SP
+4f36de5f,6d8157fb,31573,rio de janeiro,PE
+a4cee0d6,336bdfce,97907,sao paulo,RS
+9cc498ef,0d5aa0a2,41874,curitiba,SP
+45054c32,05266172,78362,porto alegre,SC
+81d55959,373e5235,88460,curitiba,PE
+0b3f7f52,8ffee316,34367,rio de janeiro,PE
+f20f30a9,fd2f8af7,22199,curitiba,ES
+6c04b2c9,d6f901a3,92404,rio de janeiro,SP
+a803dc0c,6fc733b0,75328,sao paulo,PE
+24f7fbb3,3f94732e,58724,rio de janeiro,PR
+6c7120ef,ad19afa9,87133,rio de janeiro,BA
+9e7afb7b,30d9efd2,37405,porto alegre,SP
+7d4f7b37,45d7753f,99232,curitiba,BA
+595abbf0,26e72b32,16989,porto alegre,GO
+e1506109,d3c04c6e,29931,belo horizonte,RS
+d5c67032,35bb71c5,10290,rio de janeiro,SC
+1f34d225,366d5a12,39367,belo horizonte,ES
+64f2df60,590201bb,80878,porto alegre,PR
+68b0e83c,fab472cd,91477,curitiba,SC
+554f6201,53f9e5d8,80481,porto alegre,ES
+f327c507,d48e3083,77298,curitiba,SC
+57854c1a,b51c2dbf,31133,curitiba,SC
+cf63f26f,9568d211,28052,sao paulo,RJ
+bd317d7b,d6c6c2d7,86489,rio de janeiro,RS
+d811b643,582755a3,41475,porto alegre,MG
+7a908fd2,ee15fa9b,83666,curitiba,ES
+62551535,2f2433ae,97622,porto alegre,PR
+922c1f32,eeb3f5eb,58656,porto alegre,SP
+704d015e,44e86bc8,5633,curitiba,SC
+0fa0f640,4b00b60a,18304,belo horizonte,SC
+b12c43b6,a1151e45,98820,rio de janeiro,ES
+11f90b98,9e230c23,47546,rio de janeiro,GO
+f6c062a3,2d3f63b7,8008,sao paulo,MG
+f79d2627,86333d0a,49291,sao paulo,SC
+13c6af07,f0c2ae2a,28405,sao paulo,PE
+dcfd87de,c9af6b75,37386,rio de janeiro,RJ
+46a02683,0c01a379,91909,belo horizonte,BA
+3f2f8501,fe54afdf,21827,rio de janeiro,RJ
+8e087557,ca272705,34040,rio de janeiro,MG
+822bc6a1,d2ac6cb2,61354,rio de janeiro,PE
+4a4bd4e0,8445d389,79543,rio de janeiro,RJ
+c805a1e4,9249558a,19157,belo horizonte,BA
+69bdf5b8,22a48e61,98693,sao paulo,SP
+ab80216a,5aa4c011,36315,porto alegre,RS
+123a67df,80f0944d,36932,sao paulo,SP
+21802908,945136d5,22164,sao paulo,RS
+77efb681,789b302b,15414,porto alegre,GO
+c65d6d1a,857cf50b,15327,rio de janeiro,GO
+0c84a909,2288955c,1946,belo horizonte,GO
+c25e05e0,0d7c9b02,15693,belo horizonte,RJ
+04c92496,b25e2115,28241,sao paulo,GO
+c42790cc,e8b7797d,96790,porto alegre,RS
+fdd61a55,5919ad28,16540,curitiba,SP
+2fac84cc,c9d5d267,73255,rio de janeiro,ES
+fb634c0a,4c1f715c,65757,sao paulo,SC
+f66e3187,c51a2ba0,42203,belo horizonte,RS
+a7788c48,c93328e9,26081,porto alegre,SP
+d5c56639,5058a640,62861,porto alegre,SP
+3f350c02,d24f8727,12350,sao paulo,SC
+384d29e6,72af3ed2,56512,curitiba,PE
+f758242f,90d9a13b,57809,belo horizonte,ES
+b4e47359,aec150ad,98557,sao paulo,PE
+c7c46e8a,24172e74,43832,curitiba,PE
+ddfe86c1,b87540b2,29369,porto alegre,SP
+d42ee2da,b9e01666,32728,rio de janeiro,BA
+b418989e,4ed26310,18576,belo horizonte,PR
+fd01c39c,c42e4dc8,30001,belo horizonte,RS
+8f37c4e3,12aa437a,84384,curitiba,RJ
+f5a3a00f,31155024,1390,sao paulo,PE
+293e5314,6df0eb5e,88535,porto alegre,GO
+a99370c9,79679d11,46436,curitiba,RJ
+ca64d1e1,1833369b,12569,rio de janeiro,MG
+5b31f515,0dc834dd,14029,rio de janeiro,BA
+7ccdf65a,75f43ef1,23490,rio de janeiro,RJ
+887896f4,9a6c5ec2,46875,curitiba,SC
+b8e8b546,77300217,6867,porto alegre,PR
+fe5862c7,66331c3c,81820,belo horizonte,ES
+5c4a2bbb,9ae2ef30,10121,sao paulo,SC
+7c90fedc,a4a9d72b,2539,belo horizonte,PE
+65ebfce2,819cfe9b,92024,porto alegre,BA
+442f5901,fcb1783f,18027,belo horizonte,BA
+e0c4ad5f,c2187885,75229,curitiba,PE
+de0c52ef,221c276e,9921,rio de janeiro,PR
+c4f58319,f2a8ce02,51435,porto alegre,SP
+4f7527c8,05d4400e,11310,porto alegre,RJ
+3a6e5ebf,9dc8286f,64965,belo horizonte,GO
+1e989889,16e029e6,97444,curitiba,PE
+182c997d,24e61f9f,70922,belo horizonte,GO
+7e235edb,298a393a,98799,belo horizonte,RJ
+bd2feceb,b8ecd950,94948,porto alegre,PR
+f9c8bd10,68da55db,83839,belo horizonte,SP
+deff6a45,6618fdf9,13242,rio de janeiro,ES
+79b382fd,31cfa722,9947,belo horizonte,PR
+7abed55c,bdd91120,72466,rio de janeiro,GO
+6e41ccd3,95c183b8,62816,porto alegre,BA
+fca70ca3,5c10d231,49785,curitiba,BA
+36ee1269,cd24d3c7,1507,rio de janeiro,MG
+507473c1,b926be15,67972,curitiba,RS
+1c4cc6e9,8e138892,28151,curitiba,SC
+a42c15bf,79fa37ee,12618,rio de janeiro,SC
+2bce5b19,48c0ef63,75286,porto alegre,PE
+74e697af,5e3ae04d,17122,sao paulo,GO
+168c843e,b0a5f53f,8354,curitiba,SC
+41b27b21,fb54d7bf,31979,curitiba,SC
+4c8ca2d8,c30d9c24,87436,porto alegre,PR
+e1649157,f37d43c7,80376,porto alegre,ES
+6a586bfc,e8c93117,53774,belo horizonte,GO
+25687575,b058a7c6,6037,porto alegre,MG
+a4fde0e5,48c11ce3,29633,curitiba,ES
+c0d5fea2,fae8829a,25495,rio de janeiro,MG
+14535758,92731f50,65550,sao paulo,GO
+8761efc9,47f1fc17,82384,belo horizonte,SP
+b3c65918,f7c8a6e8,37483,rio de janeiro,SP
+3cf8c5f2,b2db7bb8,74373,sao paulo,SC
+f9f86ee7,9786e428,35069,sao paulo,PE
+f68bd296,6551a928,8370,sao paulo,BA
+22434895,bf788219,72947,rio de janeiro,PR
+692b9748,66752fb8,40133,belo horizonte,SC
+6cd42993,521280cb,97035,belo horizonte,RS
+33029319,cd9b554c,96761,sao paulo,SP
+3a5fe95c,81a336ff,1692,rio de janeiro,SC
+112cc38d,609af8a8,29926,sao paulo,BA
+b0dc5611,8ce41fec,74984,porto alegre,MG
+87c478a0,735ef66b,44390,belo horizonte,MG
+dc4ee45e,d3d3ce21,50593,curitiba,RJ
+581fa8bd,0f79a0b6,76609,sao paulo,PR
+aeb0d460,bdaf4467,6209,porto alegre,PE
+dbe0205a,825344e7,7533,belo horizonte,MG
+a3d96feb,a783bb13,87597,rio de janeiro,RJ
+947cb182,35861882,8211,belo horizonte,SP
+360f1a91,8d2fe00e,10927,rio de janeiro,MG
+06f31ab1,c64bc158,78463,rio de janeiro,PE
+3f3538e8,df53d6f5,25594,sao paulo,SC
+dc3012fa,799261b0,75852,sao paulo,BA
+7a1b3be5,f1a7cb7a,78713,belo horizonte,RS
+c140a249,503923d3,77382,porto alegre,MG
+2c09bd3d,14706cac,8933,belo horizonte,RS
+800ee091,c6864487,41696,curitiba,RS
+6d85f02f,45863495,66449,rio de janeiro,RS
+4fae67f0,7f4951f9,68616,rio de janeiro,ES
+9cde27f5,6e0cded0,7089,sao paulo,RS
+1fb8e000,c2c31ca3,57548,porto alegre,ES
+b4010368,f37acc71,27123,sao paulo,BA
+9b6b7fd8,6f52cec0,8797,curitiba,RS
+71cc3b36,c06e1308,51013,belo horizonte,RJ
+3b2cee99,bd541fd8,9346,belo horizonte,RS
+7f404593,bf921b3c,86414,porto alegre,GO
+124a9356,eb312250,34672,sao paulo,PR
+b3e149b2,ea23ca39,18653,sao paulo,RJ
+183d1d12,18d836fb,50556,curitiba,PE
+81d4dfbe,c2e387a2,27140,belo horizonte,MG
+2130c1ee,d9c63bb0,2184,sao paulo,BA
+d390c267,570496d5,35493,porto alegre,BA
+b64d02f7,def17c73,45148,belo horizonte,GO
+2769811e,49ee081c,25846,curitiba,GO
+791ac53a,116b8759,23195,porto alegre,GO
+6004af70,e784f213,6606,rio de janeiro,GO
+d627f0b7,560174d6,4956,curitiba,GO
+e8e65a32,38b27368,17555,porto alegre,SP
+4a093465,bb6131b6,91385,sao paulo,SC
+2ab3494f,ade3ab34,19690,rio de janeiro,BA
+b348c553,7945b75f,59502,curitiba,GO
+2f26fc8f,718cac7f,49849,sao paulo,MG
+e3b9bb8b,5976f107,27347,rio de janeiro,SP
+efaaf9af,2b4f9c0d,99725,belo horizonte,RJ
+4b07bf40,c4e53162,92321,sao paulo,RJ
+a7dc52b8,3a7bbaca,50056,porto alegre,ES
+e3646224,da40eb4e,64851,curitiba,SC
+de6562d3,45e12943,99234,rio de janeiro,RJ
+4d97e546,599864d3,82502,sao paulo,GO
+495490ce,410fdbf9,97633,belo horizonte,BA
+49bf91af,4c8d2281,82418,curitiba,ES
+1d218a38,8a5aad6b,71211,curitiba,PR
+30327161,27126c01,42850,sao paulo,SP
+ea4e2d65,13f8d046,79545,belo horizonte,PR
+11e1a347,3dd2df42,28843,rio de janeiro,PR
+fd6ee0ca,38fcf094,63320,sao paulo,GO
+f8d65ae8,7da0470f,30793,rio de janeiro,PR
+072a5570,fea8b924,40516,curitiba,PR
+2585260d,c9bc193e,18857,rio de janeiro,RJ
+ac1c05fe,870c392b,20627,belo horizonte,PE
+c5fa1b05,a2bd5fe4,62822,porto alegre,ES
+d3ccfba0,6385db6f,85101,belo horizonte,PR
+9cc4898a,ec586f95,92561,rio de janeiro,SC
+8892a2d9,c75f0db1,53248,sao paulo,MG
+5e8b6d1b,6f5e7261,56798,curitiba,ES
+ede11a52,b6d8a9bf,94368,porto alegre,SC
+7f04288d,55b1e2ad,45116,sao paulo,MG
+abadaca1,2439603a,76318,sao paulo,PR
+04e0f6de,62dc7580,88902,belo horizonte,PE
+0d86d364,80ba5a56,29557,rio de janeiro,RS
+29c7cb79,a9c7cea0,72334,belo horizonte,BA
+21e9c148,bb0ad34a,76163,rio de janeiro,SC
+cf43125e,291eb6c6,79002,belo horizonte,PR
+65c90609,f6c21048,43614,sao paulo,ES
+ae568c82,6af6d6ce,13720,curitiba,RJ
+e89dc25c,3e79ab18,58608,rio de janeiro,PR
+70983f2f,5aa5c070,73095,porto alegre,RS
+3f12f636,f351688f,85694,porto alegre,PR
+29218a55,a95c2378,97452,sao paulo,PR
+876ebe7b,4da43ac6,88593,belo horizonte,BA
+e8322519,59d2e8c3,36892,belo horizonte,RJ
+b5290b5a,a7ab91f6,78242,sao paulo,SC
+1cf55291,26da8d7e,78606,porto alegre,GO
+9355272c,275e570a,1924,porto alegre,GO
+8cdd4016,3de15243,52322,belo horizonte,ES
+1b12b67a,cd8eed19,27478,rio de janeiro,PE
+9ce5932c,9c239908,72042,curitiba,PR
+c17e62e5,a6f9bd38,47418,rio de janeiro,ES
+b0567783,2e3a1cbc,63217,porto alegre,PE
+9ec53356,ba035b6c,91140,rio de janeiro,SC
+eefcfba9,46f6e96a,81846,curitiba,SC
+418f363b,4393c602,74762,rio de janeiro,RJ
+fa658a16,db9a575a,12781,rio de janeiro,GO
+267290f5,c55d15c2,6515,rio de janeiro,GO
+fdf017ff,281a4bc5,37133,rio de janeiro,ES
+11069807,72e7d822,83508,sao paulo,BA
+a2be2332,4453a8b6,98628,porto alegre,GO
+d360ee4c,906b70a0,77946,curitiba,BA
+3864f049,69979bf1,86058,porto alegre,BA
+aaa811b2,3b19d842,10095,sao paulo,SC
+ea0d30f6,70bfe393,89583,sao paulo,RJ
+6c3dc80a,26171910,21470,sao paulo,ES
+eb020292,f24d05f5,44129,sao paulo,MG
+6dab8037,7f817db1,9531,rio de janeiro,ES
+48b03143,421bd126,38038,porto alegre,BA
+74eea587,c0d361a3,88939,belo horizonte,PE
+38370f4c,4bf6228b,43674,curitiba,PE
+31cd633a,6120303e,95658,sao paulo,RJ
+d09a23e2,76526c68,83476,porto alegre,SC
+85651f8f,b65cc2e9,30831,sao paulo,SC
+f9d2aaa0,7ca02b21,58174,sao paulo,BA
+922b7201,a43f8067,12279,sao paulo,BA
+a9034164,249bb67a,39220,sao paulo,RS
+ef536921,5e3e6511,61610,sao paulo,RS
+2eae110d,dc09efda,53719,curitiba,BA
+823fdef9,93bb1041,54051,porto alegre,GO
+6d03c7f7,51108ff3,73013,sao paulo,ES
+e558a57b,3d8d2311,57652,sao paulo,GO
+11541e6b,a38f0f6f,66524,sao paulo,SC
+c280de22,2382399a,83936,sao paulo,MG
+12ad9e3f,de68b3b5,7470,rio de janeiro,ES
+ea2199a3,15d0fefd,68598,rio de janeiro,GO
+53d0c416,02eb111c,42798,belo horizonte,GO
+a0c39bae,3a8e72dd,54473,sao paulo,SP
+4d4bd54b,68b280ec,20880,belo horizonte,ES
+07c9e3ea,780559bb,45439,curitiba,MG
+3ed81873,c7052f31,15308,belo horizonte,RJ
+5f5dd6ef,360f390b,92563,porto alegre,RJ
+b52bab93,0be8c746,97256,rio de janeiro,GO
+b4f7c5c7,368b5548,36081,rio de janeiro,BA
+d8b4d5ff,aea347ac,76242,sao paulo,MG
+a8eb2ea7,721fd9cd,51383,sao paulo,MG
+792a8f8e,8f02d693,10837,curitiba,SC
+f5dba273,20409305,53151,curitiba,PE
+53465822,911f8471,37824,porto alegre,SP
+16dd2977,34f5863d,34073,sao paulo,SC
+e3d4415c,45f8cdbe,98624,sao paulo,MG
+13747f25,70bee643,94648,curitiba,PR
+3e6f5c15,a0229487,27299,curitiba,BA
+cb3e5ce4,9ce9abe1,59861,curitiba,MG
+796a37aa,8c317cf8,31063,rio de janeiro,SP
+0f86c5d7,aece396c,70453,belo horizonte,MG
+a78944d1,456c3630,69472,belo horizonte,ES
+6c983e17,df8cc966,15506,sao paulo,ES
+5720facd,253b81d3,95341,rio de janeiro,RS
+4198815b,5054e426,80854,curitiba,SP
+055e89cb,e7430371,27026,sao paulo,GO
+93f43fbe,a25eb0fd,28672,rio de janeiro,PE
+73a1964d,8ce20341,39417,porto alegre,GO
+c8b6a4d2,4a94898c,53413,rio de janeiro,PE
+769db883,9abc434e,66066,sao paulo,PE
+0f1f7614,e7aaadfc,60213,belo horizonte,PE
+c1221fcb,c490d201,51971,curitiba,RJ
+4552ceb6,ce3b1356,28281,porto alegre,PE
+3b12320b,e4b1d1c6,29091,rio de janeiro,MG
+85fdb793,32618479,51494,sao paulo,PR
+a5eb82ed,d42abe68,19610,sao paulo,SP
+90108a31,a9fa735d,2079,curitiba,PR
+7100ff24,d0db064b,96386,sao paulo,RS
+015d608d,2e28c2ae,47751,sao paulo,MG
+08f97979,56e8c54c,87126,curitiba,PE
+89fe7b22,cc1db27c,56432,porto alegre,RJ
+56085f5d,2cd4c028,31951,belo horizonte,SC
+8a28f4d2,6ff2342c,81863,belo horizonte,GO
+bbbef968,0f0f6822,79291,rio de janeiro,ES
+1d2582a0,f70f4a0a,60872,porto alegre,SP
+ab59fc51,6e42e8cb,8235,rio de janeiro,PR
+76c46a8f,634dda13,83733,belo horizonte,MG
+ff754e37,1fb6d0f4,63712,curitiba,SC
+5916306b,94b6e354,22473,sao paulo,BA
+0798c38b,496f5e69,68567,belo horizonte,BA
+b13e709e,efe42f6d,80823,porto alegre,ES
+b391377b,bd31029a,33230,belo horizonte,BA
+1c35a717,a137dbd6,85573,porto alegre,GO
+0c97ba94,08121d19,93588,porto alegre,RS
+f5d7047b,20201c89,69876,porto alegre,BA
+9be675e1,c1861356,41644,rio de janeiro,ES
+fa094be0,7337977e,49664,curitiba,RS
+89e70eb0,9ba74c05,46203,belo horizonte,GO
+9573b1be,b8dd1c1d,67677,curitiba,ES
+44d30c38,23bfa98c,26425,sao paulo,BA
+b20fd29b,d7cbd2df,85817,belo horizonte,PE
+7143f205,ed5d6769,86961,curitiba,SP
+87efb4b1,3773f4c7,98649,curitiba,BA
+614e3c79,571906da,70806,sao paulo,ES
+230af920,dee095ea,43814,porto alegre,SP
+6ebc7aea,69f350c6,71219,belo horizonte,SP
+76694eed,4c2e18d5,50646,belo horizonte,RS
+90561143,7834d1af,40884,sao paulo,GO
+d3a2d2a8,6f56e426,96345,porto alegre,BA
+ac01248a,9ebc30d4,70322,belo horizonte,SC
+8b5e455c,f3b13f4c,22650,belo horizonte,PE
+647c019c,ddbae48c,95242,belo horizonte,GO
+b70a89a1,38cc7089,10190,porto alegre,SC
+1ec223ed,b69004a7,39196,sao paulo,SC
+df5f548f,241a154a,40449,belo horizonte,PR
+db5c6f14,e9170e77,40661,curitiba,RS
+fcf69bf0,782417f0,30709,porto alegre,RJ
+ca5554d5,04cb2ee5,81428,rio de janeiro,MG
+40d3de03,5cccae53,76179,sao paulo,MG
+7dc92497,9fac94dd,10943,curitiba,RS
+dea99ecf,1976b6d2,44240,belo horizonte,RS
+63db1d21,9eb4316f,46760,rio de janeiro,SC
+a55035ed,b68e3e6d,22042,sao paulo,RS
+d5b4ac41,9209b3b1,44894,porto alegre,SC
+a094e18a,775fd951,7869,rio de janeiro,GO
+5df3d863,bf0317f9,62078,rio de janeiro,RJ
+78575ae1,9cd03481,57759,curitiba,PR
+df54d72e,c06a1861,45306,sao paulo,SC
+25b5d9e3,c4b1ec48,56371,curitiba,RS
+1f9225ec,d176737d,21918,curitiba,SP
+5191af26,d0ff562f,29379,belo horizonte,BA
+623536ac,de64f93f,91810,porto alegre,MG
+32b57ef6,96c696ea,84232,rio de janeiro,RJ
+a27b1ec0,70705359,3962,sao paulo,BA
+16e00900,aa209a5f,14851,porto alegre,ES
+3c52c7d3,0ac324be,46747,porto alegre,RS
+1e346c17,74d026f7,53349,sao paulo,SC
+9394daec,38fbe90c,71832,porto alegre,PR
+f2efcabc,973cfb39,57356,belo horizonte,SP
+08c30afb,468315b5,15745,porto alegre,PR
+74064487,abf4fd8e,6730,belo horizonte,BA
+30f7a084,662c0f96,14921,rio de janeiro,SP
+b507ba36,8ad81f81,99430,rio de janeiro,PE
+20306f74,43e50a31,72138,curitiba,MG
+3a92bc53,fb04ef9f,84111,belo horizonte,RS
+ff2fb3f4,ba721d4e,20023,rio de janeiro,ES
+3fd3839f,7a1ea281,46349,porto alegre,BA
+389bcee2,8f29deb3,82533,sao paulo,SC
+e4b3c238,d8867f7e,84286,sao paulo,MG
+ffb410f1,5993ffd8,42979,belo horizonte,ES
+ba7015cf,3a41ff38,23837,curitiba,PR
+fc0ae329,e106fd56,15997,porto alegre,MG
+b99c3344,0855ab6c,89603,belo horizonte,ES
+9877a7d3,4d27ffee,46039,sao paulo,ES
+195052ad,9c9c29b4,21923,belo horizonte,PR
+5dd40564,3cbcca74,9876,porto alegre,ES
+f37e44d9,516397dd,61973,rio de janeiro,RJ
+a40bfe5b,bafc5994,3887,porto alegre,SP
+21808e40,352a2136,64723,rio de janeiro,RJ
+3d726055,f832b61b,43422,rio de janeiro,PR
+4278e08a,868e3320,52413,rio de janeiro,GO
+2f7f4117,6b3ee2d1,3841,belo horizonte,MG
+4d51e9e9,341937ce,29756,sao paulo,PE
+d8c1f6b5,cdd1bd83,72576,belo horizonte,SC
+6cd1f1a1,40737a74,11304,sao paulo,SC
+10d8c7d5,c8451ac9,31341,porto alegre,BA
+be5c414e,7023dce0,5758,curitiba,BA
+a6314193,ecd145d4,18010,porto alegre,PR
+de06fbc4,baef5c09,61758,belo horizonte,BA
+e0179fe4,6d663727,32658,belo horizonte,SC
+f8b5a5e7,0791ef2d,50002,sao paulo,RJ
+6a910383,44007747,2375,belo horizonte,PE
+03fd7ffb,8b23123f,23092,rio de janeiro,SC
+cdeb365a,865954ce,1490,belo horizonte,RJ
+9f5e0b33,cbd24e78,4729,sao paulo,GO
+e64d7aea,a17bc6b2,6974,sao paulo,PR
+0b07aa27,b3d0051e,86216,rio de janeiro,RS
+474d005e,c6d5bd4c,84860,sao paulo,GO
+5fa7582b,5a095e88,97870,curitiba,GO
+65066405,4bf184c1,22398,porto alegre,SC
+a8acedd4,9398640b,35650,belo horizonte,PR
+c50c8895,82987eef,22292,curitiba,SP
+fb4fdf36,dc31e62c,4159,belo horizonte,ES
+a466477d,6b9286fc,99162,curitiba,GO
+66e9530f,b47db9fc,63766,belo horizonte,BA
+355c9c17,5aecc244,95887,rio de janeiro,RJ
+71c5f56a,2ce3d9ae,18065,sao paulo,SP
+cda8546e,0e468c21,22638,sao paulo,PR
+50765484,bd69ea72,2073,rio de janeiro,RS
+c719154b,0aff9a30,47511,curitiba,PE
+00a995df,19258396,85307,porto alegre,SP
+f46d5b12,7189ef0d,30320,curitiba,RS
+233924e0,e2cfc944,70876,sao paulo,SC
+fc2390c1,bbe8a6be,35924,porto alegre,MG
+f7f42872,7017870c,82720,belo horizonte,ES
+0c0b0bba,7d469e88,41734,porto alegre,SC
+e6399daf,a3da0623,69116,curitiba,PR
+00a83735,b1d0ec17,41025,rio de janeiro,MG
+0e70b1b0,04c920c5,95503,belo horizonte,RS
+0f998690,3523a3ed,3159,curitiba,MG
+e09dee68,02e31540,49940,belo horizonte,PE
+e25458fe,0fc52ea6,80436,porto alegre,BA
+f2d5f504,cec04157,77976,sao paulo,BA
+f3f02093,576e0a78,15678,curitiba,SC
+cb5e4c0c,0f2db1e5,62075,rio de janeiro,SC
+cc013ec8,a430c2eb,48204,porto alegre,PR
+1545060b,be181b6c,13021,curitiba,PR
+d610db69,4ae4f4a4,7772,rio de janeiro,RJ
+e7be1f40,3513f166,68163,curitiba,PE
+f6284877,f774f8f6,74755,porto alegre,PR
+30f7dd48,45113fea,24464,curitiba,GO
+41886fb5,8db8233e,52137,belo horizonte,PE
+b033338e,35140d26,31232,porto alegre,RJ
+c0ab2b3a,1a409bab,62497,curitiba,BA
+1e94e69b,8f4c82f6,75024,sao paulo,SP
+8dbdecfd,422d1f79,52448,curitiba,RJ
+f18189ac,2523f8d5,85517,belo horizonte,RJ
+c7cf4115,3bc4c12f,1901,rio de janeiro,SC
+f9d2daa4,93fc0c01,88980,rio de janeiro,ES
+e38a0fd3,6ea8965e,84597,rio de janeiro,MG
+0d73defe,e7e36226,3881,sao paulo,BA
+8a1ef2e0,fa7d8533,30863,belo horizonte,RS
+41747533,00221709,6622,porto alegre,RS
+5b37f389,125f4281,2378,rio de janeiro,PR
+5c5342f1,227546e3,84168,belo horizonte,BA
+aa1bdcb8,a1e57ec2,94847,curitiba,GO
+5eedba67,3f0ec3ff,72186,sao paulo,PR
+9e73962a,670afa08,46201,belo horizonte,PR
+b54d6913,1fe80c6f,60251,belo horizonte,RJ
+a3879180,637c07d7,73572,porto alegre,BA
+e6ac1ef7,1feae458,40255,belo horizonte,MG
+ad73eb07,02228d66,64212,porto alegre,PR
+767367a0,b64e093e,51210,sao paulo,ES
+52ebcef1,ffa57bd3,23499,sao paulo,PE
+a6d8cf05,5fba3a89,52628,curitiba,GO
+7e701bfc,56472feb,62360,porto alegre,GO
+e4515e06,c7f4f805,5603,porto alegre,PR
+f535edfc,cd9c313f,94309,rio de janeiro,ES
+7062af52,a209bb54,86473,rio de janeiro,PE
+0e15b795,3c56972e,13632,curitiba,SP
+35667951,b8afeed4,31607,sao paulo,SC
+e2c99f94,6349131b,92873,rio de janeiro,SC
+3eb95d92,be4f90a7,66756,belo horizonte,SC
+a0b91754,48826aea,47994,sao paulo,RJ
+3f8fbbe8,c6b5a121,64382,belo horizonte,GO
+8819c621,29cb1d40,71354,porto alegre,RS
+fa7b834e,3cb154bb,57344,sao paulo,RS
+22fe83a0,ee49cc77,54775,curitiba,RJ
+8102a173,2637f4b3,8349,porto alegre,PR
+705f3e37,7e8104cb,72154,porto alegre,BA
+6280f1aa,8b962b9b,28464,belo horizonte,BA
+8ce416ce,39514c2d,43624,porto alegre,SC
+ca1c01b4,14cd5a8c,38344,rio de janeiro,BA
+fbedc82e,256ccce7,84791,sao paulo,PR
+e2c672e9,00aeabd1,25299,rio de janeiro,SP
+63cf9b1d,1cc9d9dd,48975,belo horizonte,RJ
+7fb0d79c,639e563d,2462,belo horizonte,SP
+ab402eef,ab1dc77b,82441,sao paulo,GO
+33acc6e2,e9fc941e,91456,porto alegre,BA
+10d886d3,41d15d80,82788,curitiba,PE
+d0bb7810,d611f114,41581,belo horizonte,SC
+74b3e785,e685df8f,72289,sao paulo,RJ
+1d46c518,d3cc72ea,15175,curitiba,SC
+13ccb621,7e56674a,7191,porto alegre,BA
+8f8bf074,387ee985,84434,belo horizonte,MG
+f6fc6253,7b22da5a,85518,sao paulo,BA
+fce7c1cb,ff8bcb6a,81158,sao paulo,RJ
+68f4a585,f7070834,67537,sao paulo,RS
+56864b36,2419f285,48645,belo horizonte,RJ
+da3f91c6,e356216f,24283,curitiba,ES
+2215ea54,4e1f98fb,87971,sao paulo,PE
+c722d13f,54fb5aeb,93759,porto alegre,BA
+33c20183,32402138,60123,sao paulo,ES
+ad8ec462,0a82b92b,31024,curitiba,RS
+fe59006a,4a4c1986,50630,belo horizonte,PR
+d0d98c96,ddf6dd5f,31734,sao paulo,PR
+b7e179ff,7b675a18,1515,sao paulo,PE
+45e80c72,4bbdbcea,67727,porto alegre,GO
+387fbb74,bdf8c541,98800,porto alegre,PE
+f11a0412,515148b2,47216,sao paulo,PE
+bea5aa18,f37e7a8d,72833,sao paulo,PE
+424f6978,d0e65361,59755,porto alegre,PE
+985333d2,695e1b9e,28856,curitiba,PE
+bcfee3d0,c5adbfcf,74870,rio de janeiro,SP
+7016bbbf,a5a71db1,25162,rio de janeiro,RS
+57256261,e01d65cb,7008,sao paulo,RJ
+86f1ce5a,022c9406,8987,porto alegre,BA
+d3ba51e1,3fc93a73,63532,belo horizonte,ES
+9b582421,c7d722d4,97502,belo horizonte,PE
+9da8c3d2,eac848c4,4332,rio de janeiro,GO
+8024dce7,c2e239eb,67323,curitiba,SC
+fb97c2cf,7e4ecb2a,39990,rio de janeiro,BA
+55203c8c,4f4f8951,10873,sao paulo,SC
+4e8fab24,d329e3b2,83542,curitiba,ES
+5777f990,9f2090c4,86761,belo horizonte,ES
+3d859756,d63b5d86,37444,porto alegre,BA
+c6539881,22dff9e9,36340,porto alegre,GO
+8d0e3e2e,f8e76c71,6033,sao paulo,SP
+2d701140,23a9158c,74324,rio de janeiro,PR
+b9c10fc5,4275398b,16689,sao paulo,ES
+aede1c41,e2650699,88134,porto alegre,GO
+85c52883,4dc14bb9,96239,belo horizonte,ES
+e9097d0b,4a21dd77,1066,porto alegre,MG
+4cab0aca,01293afb,46246,curitiba,PR
+feb3a383,d7c0663b,8533,porto alegre,ES
+6dcc41ab,6841e5de,81639,porto alegre,GO
+30c665f5,ba01fa2e,71152,curitiba,ES
+38f94efe,60727839,60658,rio de janeiro,SC
+f71f4612,3eb45e35,39498,porto alegre,BA
+ec68b635,d46d0d83,12772,sao paulo,BA
+b4e8ad98,5230990c,90385,porto alegre,ES
+825eeb08,6b85854c,50036,sao paulo,GO
+fc9bfb34,cd266d8c,59531,curitiba,SC
+a158dfd5,a0cc2ea1,13940,porto alegre,SP
+a581cea0,e0d28480,17932,curitiba,SP
+c710defb,13342ce8,96305,curitiba,SC
+ce8447ec,64713670,57827,rio de janeiro,RJ
+9bc0e7d6,cfa713b1,62431,porto alegre,GO
+f8d75af3,7a354cb8,25648,sao paulo,SP
+4cb37efe,a8aba4c0,33966,sao paulo,RJ
+cd549ddc,9989236e,28777,porto alegre,GO
+7dc2b8c9,382f7bef,33567,rio de janeiro,SC
+79dda319,82509a68,18174,rio de janeiro,PE
+499b695a,659e29a6,43598,rio de janeiro,RJ
+9a7e7757,855d5d8d,60199,sao paulo,RJ
+a693da9e,67a81e38,14798,curitiba,ES
+569c8b95,2574416d,66364,rio de janeiro,RS
+d62a2b73,bc32c862,18558,sao paulo,RS
+da9506c5,73e4042a,62084,sao paulo,GO
+71268d3b,5e89e7ca,45237,curitiba,ES
+583a235d,12762451,66497,porto alegre,BA
+53d69dc9,b029cdac,1178,porto alegre,PR
+bce50058,de59f18c,87006,rio de janeiro,PE
+33c73e96,70c19539,18118,rio de janeiro,PR
+2e0be7ca,f7155ce0,23616,curitiba,RJ
+63b1dfff,6e446dca,1798,rio de janeiro,MG
+2c1576b7,26b4abc1,8601,curitiba,SP
+413cd89d,7e6df2ef,26363,sao paulo,SP
+f3ac12aa,f23381d4,3795,rio de janeiro,ES
+93c51fd7,495b5895,98462,sao paulo,RS
+ee8461b6,ced50ead,46264,belo horizonte,MG
+5a6601c6,baf33f32,73833,curitiba,ES
+ecbf164b,7161d1f1,4084,belo horizonte,RJ
+f09b20fb,7108429f,96865,rio de janeiro,MG
+dc97d6c5,51199e24,77646,sao paulo,SP
+58bc6f57,449140c2,1731,rio de janeiro,GO
+4f72c627,a238ec8f,2129,belo horizonte,RJ
+226eba98,60d99715,29022,rio de janeiro,ES
+c847d0c7,4905ba51,2605,porto alegre,BA
+6e15a2be,a4170a06,78506,belo horizonte,SC
+a71a7935,0828fed2,45130,rio de janeiro,RJ
+db3bfec5,ecfc8c1f,30265,sao paulo,RJ
+ba34a5f2,3bed62e8,33330,rio de janeiro,BA
+3e912bd5,b4567124,69469,sao paulo,PE
+92f0a8e8,40963539,16187,porto alegre,GO
+6b20b8cc,b87d21fa,26791,rio de janeiro,BA
+da48e720,3b1802c5,91436,porto alegre,PR
+4c494436,b2befbaf,71610,belo horizonte,PR
+648c72f0,3de5d844,92962,sao paulo,RJ
+9c7c8119,12d7571e,40867,belo horizonte,PE
+dda1bf7d,acc647aa,1893,sao paulo,SP
+1c9244f3,b568c5bd,20773,porto alegre,PE
+afe09295,4826c0e4,5239,curitiba,PR
+4a17a015,8ef17e1b,21863,rio de janeiro,PE
+5e895872,0f6f0db5,52415,porto alegre,PE
+aff3cd20,f97b08a7,69968,sao paulo,GO
+64c2b46c,7883667d,61430,sao paulo,RJ
+352b5da1,f6900eff,2515,sao paulo,GO
+821cd588,84a72783,98206,sao paulo,SP
+4a489546,0062e032,15605,rio de janeiro,SP
+0e34a100,ae8d9eff,57240,belo horizonte,PR
+9e4c6899,d5fdd5c9,6586,curitiba,ES
+9ec322c2,fc4e5ffe,32186,rio de janeiro,BA
+a7d96f66,adf4ee7b,27928,sao paulo,RS
+963b522d,976c1bed,99264,rio de janeiro,RJ
+5047c182,a087a995,84087,porto alegre,ES
+e965a0b2,8ff5c23c,88029,sao paulo,RJ
+dcce0b4c,839116b7,21711,curitiba,BA
+03c71fb1,dabcc53d,55962,sao paulo,BA
+902a6fbe,bfd7809c,21039,curitiba,MG
+d0b89df5,ab207346,37561,curitiba,GO
+a8e1786a,a2046c37,76483,belo horizonte,PR
+e0ca9a8e,ee16f796,98871,belo horizonte,MG
+d988cd46,eea21abd,82395,rio de janeiro,SP
+6fa80a87,bc82257f,89658,rio de janeiro,RS
+45efd52b,00be21bf,2577,curitiba,PR
+81ad9b6e,8c84594a,29350,sao paulo,SP
+3a2748de,42713180,34798,porto alegre,PE
+57fa0eaf,eaaae3ff,98434,porto alegre,GO
+d312f196,522b12ca,82417,sao paulo,GO
+369d85b5,6b47f9f5,11785,sao paulo,GO
+0a16b7ad,a3bcb187,73227,belo horizonte,MG
+db05383d,94b2e3a2,62957,porto alegre,SC
+36ce8a6a,e5f615b0,66431,curitiba,ES
+98ada1de,78a1038f,18297,rio de janeiro,BA
+5aba7a13,e67419dd,72894,belo horizonte,RS
+4805434e,391396b8,64772,porto alegre,BA
+5bd8a537,e5a7ccb2,20581,sao paulo,SC
+232bc734,26e7b91f,56192,porto alegre,PE
+350cf9ed,0755d031,2462,curitiba,PE
+aa8ea2e1,aec4567f,65173,belo horizonte,PE
+8f6b3a07,cec958a5,16511,sao paulo,PR
+54364084,efb3fbbd,77106,curitiba,SP
+20cc9c32,29b11bec,49665,rio de janeiro,SP
+7e83c881,6f3aef19,45414,belo horizonte,PE
+5c3233ac,9697212d,82010,curitiba,RS
+d6ca5b1b,83accd9e,73573,curitiba,MG
+7f81ec9d,c1e0176b,94665,sao paulo,RS
+504e1ee2,f6bf1cfa,14386,rio de janeiro,RS
+38a617c1,913a0285,55460,curitiba,SP
+bb697557,b6be6577,7221,belo horizonte,GO
+166916c4,b4375430,24474,curitiba,RS
+f142c008,846a6ef8,22045,porto alegre,RS
+aaf07599,23556039,92319,belo horizonte,BA
+1583b7ae,3e54bdad,5922,belo horizonte,GO
+6bd24651,edf5c8fc,23706,curitiba,SP
+882c6b68,8122c25f,43771,sao paulo,MG
+1fca46c0,4544fff2,53335,belo horizonte,ES
+191c1336,06603339,99015,porto alegre,SP
+2f2cffd4,57f43f93,53949,sao paulo,SP
+db462b6c,eaf566a6,71714,sao paulo,RS
+08992b61,a689f523,96558,sao paulo,BA
+0de57290,fca67ae7,16240,belo horizonte,SC
+11436880,99513bcb,92756,sao paulo,PE
+18338036,8b2c8520,3716,curitiba,RJ
+ff301d63,cbbbe4b7,17574,sao paulo,BA
+fe99f79b,eab6d9d1,84255,porto alegre,SC
+c77306c8,084ad423,74717,rio de janeiro,RS
+855d9b3a,0dcccc03,45066,porto alegre,RS
+54e1c702,17ee63c8,62826,belo horizonte,MG
+6e20c71f,9633a95c,21213,sao paulo,SC
+1a46af7e,a6aeabef,72916,sao paulo,PR
+a61b8534,0bf78ab6,67151,curitiba,PE
+323c4d46,1a99182b,51906,sao paulo,RJ
+57ffa468,e346f40b,1463,porto alegre,MG
+5dfeb96a,974a5219,32973,belo horizonte,BA
+7e0a5555,ec508d86,75694,rio de janeiro,BA
+9dfb0c83,a7188b7c,21651,sao paulo,SC
+da1bfa3b,5cfd6fa9,69694,rio de janeiro,PE
+cd36c314,779e9478,21008,sao paulo,PE
+ff92e1c8,1959d921,71474,belo horizonte,BA
+eb665978,2916264a,39185,porto alegre,PR
+3922415b,a729b538,88924,belo horizonte,RS
+15f1922d,f4014203,75417,rio de janeiro,PE
+7c58e8b3,584769be,72139,sao paulo,SC
+c5718070,413805a6,35980,rio de janeiro,BA
+d3804c43,ea80245d,23504,porto alegre,RS
+8a560cb3,38adaafb,55970,belo horizonte,GO
+2be2ddff,de0c3410,17766,rio de janeiro,SP
+8abc1dc5,2731a840,94922,rio de janeiro,RS
+6643cd68,b23130c6,12695,porto alegre,PE
+193d4d92,492fb1c8,18796,sao paulo,SP
+eac557e7,0652b1aa,43543,rio de janeiro,PE
+1b2d546a,1bd76add,15559,porto alegre,SC
+d832510f,10a83b52,34139,sao paulo,ES
+cf4b6c1a,1449fc4a,9802,sao paulo,RS
+715e7903,381a2d31,74843,belo horizonte,SP
+9abb6d84,e824750f,41205,porto alegre,SC
+a0896fad,28df836c,99750,sao paulo,PE
+141110e7,fd51965c,35159,belo horizonte,RS
+1b7ee927,41a96875,12516,curitiba,SC
+0f1f32f4,020ecc91,51492,porto alegre,PE
+f5dba3ab,5b22de06,30086,curitiba,ES
+34f8fc65,d6a004d7,31480,sao paulo,ES
+bd3cca7f,c6912a02,53091,porto alegre,RJ
+7c379722,27f95cc6,48766,belo horizonte,MG
+09722b5d,1845bac1,39737,sao paulo,SC
+f36cae99,3365a8d2,10265,porto alegre,MG
+cfe58399,d4c3192e,71990,porto alegre,RJ
+31a679a2,b3095f1c,92717,curitiba,PR
+deb7f088,6eba358c,16386,sao paulo,RS
+1bd4eca9,f7494aa3,38425,belo horizonte,PE
+f59adb23,38d9c1ef,44254,belo horizonte,BA
+ee9c6464,13cc8909,90863,sao paulo,MG
+ad908fe6,f246872d,54634,sao paulo,MG
+52987581,6131f63f,87717,rio de janeiro,SC
+a2bde03e,8acdd020,48662,curitiba,RS
+8a2e2a66,41f29aad,87988,sao paulo,SC
+aabafaa3,2a38caa4,88527,sao paulo,ES
+227f2464,882360be,76452,rio de janeiro,MG
+cf25498a,2a21fbd4,11143,rio de janeiro,RS
+d163493f,5654f5cb,92391,porto alegre,GO
+9d46e6dc,4bc61135,16581,belo horizonte,PR
+9f5c34ca,f398eb26,68443,curitiba,PE
+08432fbc,d17e55ab,30424,porto alegre,RJ
+7c344d36,678f1d3d,89844,sao paulo,PR
+2e317308,86ad3faf,42984,rio de janeiro,RJ
+a86ea534,b1e5c030,42505,belo horizonte,MG
+403df03a,4aa40d9e,63699,porto alegre,PR
+9ef3e6e2,c75b34bf,27957,belo horizonte,PR
+edaec46e,e6ff1087,26464,rio de janeiro,PE
+c1480d4f,2b84e288,24649,porto alegre,BA
+12a3f15d,545722c4,43065,porto alegre,PE
+d4fadbe8,8fb37f34,93661,belo horizonte,SC
+cf29a066,ff1e7461,35758,rio de janeiro,BA
+76d4a946,b323dd28,6596,sao paulo,PR
+68c2f11c,c8a6345c,17374,porto alegre,BA
+e63a48f6,083e6bba,4775,sao paulo,BA
+3bcd2d27,12b9d9fe,28388,rio de janeiro,SC
+142e30ad,a4b35581,22029,porto alegre,RS
+5977ebae,439fc693,84981,porto alegre,MG
+74c86c15,9cbb4bf0,54639,sao paulo,RS
+5ebb495a,2337f483,15645,curitiba,MG
+bc2a8e27,49b7ed08,32105,sao paulo,RS
+c9944135,90d03e89,14668,sao paulo,RS
+83898a5a,689dd1be,16960,curitiba,RJ
+52436115,27247733,12357,rio de janeiro,BA
+42f60a6e,bfd8e506,65604,rio de janeiro,ES
+a135ad5a,8e06eddc,52796,porto alegre,SC
+044c42ed,5851636f,16804,belo horizonte,RS
+d548738d,b27d3df5,15626,belo horizonte,PR
+e62d8495,d9029016,29132,porto alegre,GO
+f8e6d5d4,04931994,8951,belo horizonte,RJ
+e35bc33a,c416866d,7449,sao paulo,GO
+15e9ff1a,14c28c26,20065,sao paulo,SP
+3ef524eb,812b4a5a,10130,curitiba,PE
+57122ab0,0fe4521c,90360,curitiba,SP
+3e626e6e,d0181ff3,63287,porto alegre,MG
+80d31b97,dbba20fe,52702,porto alegre,RS
+9a319eeb,0ffbd132,37993,porto alegre,SC
+35a839c3,51f72918,32875,sao paulo,PR
+2db44c60,79fb0b0e,7054,belo horizonte,ES
+7673d752,ba6676ca,49517,porto alegre,ES
+5c7ba2fe,eb76c589,77368,porto alegre,RJ
+07442bbc,3c22db30,30670,sao paulo,RJ
+57c0eceb,5af9578f,50112,sao paulo,RJ
+951a4ab3,26e279da,89388,sao paulo,RJ
+cb9229f5,6f932dbd,90156,belo horizonte,BA
+e2e279ee,19395e86,29307,porto alegre,RS
+3a4dce2d,f00ff700,68087,rio de janeiro,GO
+83f042d9,71035d1d,48922,rio de janeiro,RS
+8d334e0c,beeea946,64080,porto alegre,RS
+4d2b95dd,93a553df,94348,porto alegre,SP
+051cd385,bf3480eb,80335,porto alegre,SC
+558f7376,52310730,27312,porto alegre,PR
+6994bfe8,dee41522,67985,belo horizonte,MG
+05bedc0e,09a745f3,58608,rio de janeiro,SC
+324cf4ed,38d6de40,90962,curitiba,RJ
+c6f711c4,d26b062e,41277,rio de janeiro,GO
+40debb21,a8446394,32551,rio de janeiro,SP
+5795a24b,568f3a8f,90813,sao paulo,BA
+b57031b3,653f34ba,57597,porto alegre,GO
+ec5c7198,ad4c0da9,46212,porto alegre,SP
+0c618cc7,afeec874,10637,porto alegre,PE
+2fd9618f,0dc3c853,44258,sao paulo,BA
+5f3a82dc,08b30f20,36693,belo horizonte,RJ
+f727e1da,dea46ba4,10824,belo horizonte,MG
+742eb681,1f9f9f85,27950,curitiba,RJ
+4fa5aeb5,c2689b7b,24488,belo horizonte,GO
+08faf4d4,39a04e68,1215,belo horizonte,RJ
+75cfd666,4ed68fdc,12523,porto alegre,PE
+afb1e8cc,8e5ea34b,76900,rio de janeiro,RJ
+f5a05531,e972b596,69689,belo horizonte,SP
+ffe25f08,9a1a0281,24834,belo horizonte,ES
+8218ac8e,8452393d,35474,sao paulo,RJ
+d8825abd,806f7865,44066,curitiba,PE
+d7d74ff9,14c45feb,11400,sao paulo,RS
+856fb5f2,823d2f1b,11345,porto alegre,RS
+982014b4,fb2d82c8,34896,rio de janeiro,MG
+1444b0b6,9af33f63,86430,curitiba,MG
+3f26c68e,a9c95f05,29899,sao paulo,MG
+37540e0a,23226b79,29229,belo horizonte,SC
+5ac00539,674f446f,6583,belo horizonte,PR
+13a1c2fd,886d797e,5897,curitiba,MG
+84600eff,367c5c17,72537,belo horizonte,RJ
+010e6e0e,ca88989b,5567,sao paulo,MG
+9b7efb71,4b20ccec,75807,sao paulo,PR
+83d1be55,8b74d289,78239,belo horizonte,SC
+a0a198d0,8a5f167b,14329,belo horizonte,PR
+eb6534c2,c614d0cb,72792,porto alegre,GO
+be4a5e92,c8bc56c8,1228,rio de janeiro,MG
+98124ef3,4e771188,91282,curitiba,MG
+dc7c5727,4a4ce43a,83214,sao paulo,MG
+0546d8f9,9ea6b305,38052,curitiba,GO
+355c9107,5c3b582a,58769,porto alegre,PR
+98cfcbf8,1c8f2708,47032,sao paulo,SP
+6dea454e,fb471f6f,89721,porto alegre,RJ
+b523dbbe,31252962,34686,porto alegre,PE
+cd9fd16c,fa6770ad,77981,belo horizonte,RJ
+e5056568,8af4d5b7,99802,curitiba,MG
+9993d65c,7686a95c,64261,curitiba,SC
+964371b5,bcc0c7cf,3809,belo horizonte,GO
+77e3773a,a2299983,42785,curitiba,SP
+da1e711d,b62e2727,37547,belo horizonte,BA
+21833043,813ebe7a,43818,sao paulo,SP
+cb51316d,4fa39b83,72927,porto alegre,PE
+eff84bfd,f4845131,66681,porto alegre,RJ
+918e615e,0ed40d81,80465,curitiba,MG
+5b8ebf08,d0c6dc31,90862,rio de janeiro,ES
+4ffc1339,f6554cc1,96527,porto alegre,BA
+eef48b55,f42ae54e,38333,belo horizonte,MG
+485ff5af,80a2f9b5,17576,rio de janeiro,GO
+d40525b1,4e25ebbc,40405,rio de janeiro,BA
+4016c5e1,eebcd391,95000,porto alegre,PE
+48c024e3,56316d25,74779,porto alegre,ES
+9554f4b4,9ac95501,32601,porto alegre,PR
+830874cc,3dc817fb,68946,belo horizonte,PR
+68ccc1f5,fe021636,68356,rio de janeiro,PR
+e4704ea6,81120c81,53116,curitiba,SC
+4abde8cb,b94bbd7b,63894,belo horizonte,PR
+cff52ba4,76a46e0b,35635,sao paulo,RS
+3c727144,4d1b44f1,8465,porto alegre,BA
+5755f8c4,4123b285,57754,rio de janeiro,ES
+28eee3a1,0520188a,98975,belo horizonte,GO
+aa47775c,91a2d4e9,93850,sao paulo,RS
+539aac79,a150f26f,86119,belo horizonte,RS
+e6323982,d22d92c1,93691,belo horizonte,ES
+89e43b8d,07ec6f6f,39871,curitiba,GO
+d31aa34a,2ea6d6f5,63874,curitiba,BA
+3bf42d1f,cda494c1,78733,belo horizonte,RJ
+505181df,2f57ffec,30511,sao paulo,MG
+0ffd932a,3810d31a,81960,rio de janeiro,RJ
+7053f73a,4df302d9,49821,rio de janeiro,PE
+fc1e6b87,1fce85af,66776,porto alegre,ES
+5d1074ac,9c094f7b,71167,porto alegre,RJ
+3b77ab36,7e591538,76135,rio de janeiro,RJ
+36d02909,3a1095ca,45462,belo horizonte,RJ
+63c3dd95,278fbada,62382,belo horizonte,PR
+13b94a6e,eb382640,91194,curitiba,SP
+e24d168e,d025c5db,33574,curitiba,RJ
+9b46b7f5,edc3a476,42910,porto alegre,MG
+2df45f99,f08ec9f9,74531,rio de janeiro,ES
+3f0bbca2,2b59706c,26186,belo horizonte,PE
+93de9c82,47325a69,95781,rio de janeiro,SP
+c06d0af0,eb5ccbe2,23813,sao paulo,SC
+fdac5fe4,4d460b8d,79812,rio de janeiro,MG
+dfb6e5e2,b1b91c6d,86525,sao paulo,MG
+dd362259,c8f58b02,79282,curitiba,PR
+58be0339,d1d803ea,19557,curitiba,PR
+4654629b,ad939672,29060,porto alegre,ES
+f2366e76,31836d37,59866,rio de janeiro,MG
+c8f9440c,6140db53,73104,rio de janeiro,GO
+3be9e77b,5a4ae488,85577,sao paulo,GO
+6598f909,2b56efe2,7080,curitiba,ES
+b09e1177,c5d34120,14854,sao paulo,RJ
+7b7b35f1,df23efa4,68695,curitiba,RS
+b33ca2e6,bac5cd81,28025,sao paulo,SC
+afe6b6f5,0b900623,53982,curitiba,PE
+30085ae2,255a1393,42081,sao paulo,PR
+6233281e,5fcc4251,5368,curitiba,PE
+7374ef07,83495c8c,28094,sao paulo,RS
+1cf1c05e,1a805d69,47040,rio de janeiro,BA
+1ac1a58d,d810d69d,67766,porto alegre,ES
+96e81c59,b3d531e9,84053,sao paulo,RJ
+3828c76f,30bc9281,24991,porto alegre,SP
+69fc377b,81c9641a,2301,rio de janeiro,RJ
+e82e071e,cf643ec8,29610,rio de janeiro,MG
+a30344e3,6a874fca,82463,curitiba,RJ
+655c9956,8ce47692,35678,porto alegre,MG
+356b1534,2f1cfd08,25466,belo horizonte,PE
+73ede8c2,c9fcf673,81440,curitiba,BA
+f5e3cd32,54d23627,41875,porto alegre,PR
+c6486e43,0ed04449,27081,sao paulo,BA
+2d75e976,07c05012,25354,sao paulo,MG
+edd73617,0f54df7d,94297,rio de janeiro,SP
+53d96512,08778aeb,19300,belo horizonte,RS
+5e73c689,7dc625fd,65384,sao paulo,PE
+5c045ab0,14186ec1,96027,porto alegre,PE
+731c97e3,a2115c2b,61892,porto alegre,RJ
+235ac97d,65595520,36525,sao paulo,PR
+2fd47230,95238c18,27532,porto alegre,RJ
+11e30c9b,76d755aa,7464,porto alegre,RJ
+fc4f6291,c279fe73,17562,rio de janeiro,MG
+1ea918c7,8138583c,56514,belo horizonte,RS
+2f3d30dd,1cf6e975,75219,rio de janeiro,PR
+94460702,a6c88b22,33634,belo horizonte,RJ
+13385600,f63afd71,1060,porto alegre,PE
+80969602,0f661119,10269,belo horizonte,RJ
+1e358309,873ac1ad,64143,porto alegre,SC
+902f6f41,155c9e67,24065,porto alegre,ES
+b107a072,ccee21b7,3895,rio de janeiro,PE
+ce7a772d,b82ba426,81859,rio de janeiro,SC
+cf14c367,8ab6cf88,13352,curitiba,ES
+419b30d3,4a9583e6,50737,sao paulo,SP
+74aa0889,61dbff70,97426,curitiba,SC
+d52738d7,8d09f99e,33016,curitiba,MG
+7bd267ab,9d6359f4,62304,belo horizonte,SP
+cc388b8f,5a4c99fb,12962,porto alegre,GO
+d9808511,0e689b9f,34302,porto alegre,PR
+741d826e,212e26c8,86382,porto alegre,PE
+9f179239,087a81cf,5011,sao paulo,GO
+a18b79bd,0dfbb019,20782,belo horizonte,PE
+fe658b70,4b25f9f6,68691,belo horizonte,PR
+89798678,e1d4f8ae,40725,porto alegre,PR
+e463b662,70b1da38,10196,curitiba,PE
+d3a56eff,f6ffe843,44459,sao paulo,PR
+a5e802a2,7a5d6b02,88245,curitiba,SC
+059dc6f2,0563226f,79863,rio de janeiro,BA
+a47192ae,84546509,33769,belo horizonte,RS
+1e2de0d5,d1fa4854,25700,belo horizonte,PE
+70fbce52,49736074,81356,curitiba,GO
+bdde10cf,965b3760,77427,sao paulo,GO
+b9ec79e0,57a81cd5,6269,belo horizonte,PR
+d9336974,98745e3f,44880,curitiba,PE
+98da7b7c,22e50bde,9320,sao paulo,BA
+8477adca,40b259ce,50589,curitiba,BA
+e3d343fb,96f79505,77276,sao paulo,RS
+65d5f139,72bcb29a,36897,porto alegre,SC
+24254c53,59c9d645,59565,sao paulo,RS
+8bb18bf1,d2f140f1,31930,rio de janeiro,MG
+c0f83408,9fc7a5a8,58233,porto alegre,GO
+afd30c90,400c32d4,83821,curitiba,BA
+faca5b9e,74b30612,15380,porto alegre,PR
+7f8cf762,7bf45bcf,77896,porto alegre,BA
+43703966,3ad08aa8,71934,curitiba,BA
+9d023b29,5e2eb683,56830,curitiba,ES
+357e334f,3597a637,6529,rio de janeiro,GO
+ec5a70be,ff56618a,95598,curitiba,MG
+dfd4bffc,6564474e,83987,belo horizonte,RS
+66b82d27,c543fd1e,50178,belo horizonte,MG
+53281cb1,877b3215,7937,rio de janeiro,ES
+959574e0,70c2f26e,40886,sao paulo,SC
+3c8c9030,9505ff07,50699,sao paulo,MG
+b8da092e,cc23c166,77396,belo horizonte,BA
+a883be63,097b4dd3,91678,curitiba,SP
+a4dc6924,34d81442,26279,rio de janeiro,PE
+2ddc6c5f,9d3c3165,39106,sao paulo,MG
+01ce364d,b605b8f0,80737,sao paulo,PE
+4458819f,02a1c6ef,41544,porto alegre,ES
+7f05677c,d57d2500,9997,belo horizonte,MG
+bf37871a,736bfd9e,86711,curitiba,MG
+0014f1a0,5e0698a6,41860,rio de janeiro,RJ
+ccb73a2a,5beda789,4225,sao paulo,BA
+6a7d6cd1,78a2ce55,60470,porto alegre,PR
+779ddb8c,f67da6cc,64656,belo horizonte,PE
+53aed3b7,3588bf9b,52880,belo horizonte,SC
+30d3f756,23c1a070,62078,rio de janeiro,RJ
+4a72387c,4d4a8b4c,89646,sao paulo,BA
+685196fa,b0b4e132,77290,rio de janeiro,ES
+ccba11ff,bfbe9b00,57633,rio de janeiro,PE
+375eec33,7cf638e5,27655,porto alegre,RS
+4139965f,5fb3fb51,44601,belo horizonte,ES
+64133ea2,a2a870a6,4114,curitiba,PR
+df7a8dff,2e69ab1c,27502,belo horizonte,PE
+08e74df6,5092bd77,50768,belo horizonte,ES
+4449b72a,cb79b376,49128,porto alegre,RJ
+7a63bd91,75271a5f,21028,curitiba,ES
+adcf9540,b1af25d8,56565,sao paulo,PR
+1519ebde,9b923639,84123,curitiba,PR
+93b92355,59078d81,36333,sao paulo,SP
+0e148a77,a43d1ccd,4174,curitiba,MG
+4b66d88d,2a726174,36398,rio de janeiro,RS
+e8a91534,ae161f0b,36929,curitiba,RS
+498857ba,4d62a1b2,5321,porto alegre,RJ
+ca76dbad,92f2b734,96971,sao paulo,PR
+ae15ec26,2593aab1,56421,belo horizonte,SP
+45408e24,5e0ed1b3,73635,porto alegre,BA
+885a7fa5,ef900107,24760,sao paulo,SP
+541d25c7,a4e72a6b,12360,sao paulo,SC
+5b9277fd,920edfe2,11313,belo horizonte,ES
+a9f13eb9,a6f47480,86998,rio de janeiro,MG
+c5cf72b4,44287753,6801,porto alegre,SP
+f81a3661,0bc97c9b,15130,belo horizonte,ES
+713e5bcc,0ad8a6c1,15271,belo horizonte,MG
+a92b5361,9aab2e42,17075,rio de janeiro,PE
+569356ce,8c3382b9,19984,porto alegre,SC
+e3202f32,54f3c5a1,89095,belo horizonte,SC
+fc83b2ec,e54f9626,61942,rio de janeiro,PR
+84de55fd,ea3f0e03,13861,porto alegre,SC
+566d8421,6d7071bf,99970,curitiba,PE
+726a5867,77e9f17a,83203,sao paulo,PR
+82a16896,d137b077,72376,rio de janeiro,GO
+f57df1ae,bb75ec6c,62247,sao paulo,BA
+bf585e17,67e3a109,70101,curitiba,RJ
+c2a055cf,93772f16,21977,belo horizonte,ES
+144bc7a6,a66f875c,51617,belo horizonte,BA
+67c378cf,6cdd0bdb,58473,porto alegre,BA
+be4fc6e7,7b51e3c8,87654,rio de janeiro,RS
+40ab91e4,e78ecfb5,89177,rio de janeiro,SP
+e25bc6ed,fdf24e93,73902,porto alegre,SC
+ecba7f98,a5768367,93172,sao paulo,GO
+f11696ba,08559ec6,16630,belo horizonte,SP
+535e76c3,6376811f,21056,belo horizonte,RJ
+1665d163,c90218e2,8382,rio de janeiro,SP
+55d1fbcb,8ec2633a,56739,rio de janeiro,RS
+78542da9,096b7a3a,82685,porto alegre,RJ
+05c3ada9,5a1985b3,49639,curitiba,PE
+5a958571,3c3e79b1,60838,sao paulo,PE
+3296b37d,4af4b06e,47041,curitiba,PR
+43524ed4,5eea260e,1992,curitiba,SP
+5369a96d,b7d4c8d5,73394,rio de janeiro,ES
+e26e8eee,b793ea65,68657,rio de janeiro,GO
+ef653908,41dd8093,28160,rio de janeiro,RS
+ec38d147,528d61e4,46156,curitiba,RJ
+f0b79cf9,33cb553d,52375,sao paulo,GO
+a1f9d755,7868d805,87442,rio de janeiro,SP
+411ce6ed,4562aba2,20572,belo horizonte,ES
+99255203,33624db5,5136,sao paulo,SP
+f69e5663,017e0e77,62868,belo horizonte,SC
+742e572b,2b5cf51f,83263,sao paulo,SC
+a7c3923f,51dc950c,33167,rio de janeiro,RS
+8dd13a80,4e92f18b,16479,porto alegre,RJ
+4dce55bb,8876cf14,32376,rio de janeiro,RJ
+7aa36315,e48b659a,5823,curitiba,BA
+19936fa5,67c953c5,71456,curitiba,RS
+c2453cb2,c8d64255,20585,sao paulo,RS
+960a0427,30307ff0,18272,curitiba,ES
+6cc1538d,18541e11,27619,rio de janeiro,SC
+3ecb1f4a,319c5ddb,76069,belo horizonte,RJ
+512ef0e1,4a9b75a9,40895,rio de janeiro,SP
+7d82aff0,d861664b,4720,sao paulo,RS
+887de5a5,57c3cff6,20267,curitiba,PR
+f46c1b2d,5a39661c,16696,belo horizonte,MG
+87ea1c82,c5fc2272,30968,porto alegre,RJ
+59a8dd03,40ef476b,54364,belo horizonte,PE
+9377d242,8ec4f7e1,24345,belo horizonte,RJ
+2dd0a1d4,5f2ffc83,52567,rio de janeiro,PR
+cf1e369a,80912bf9,92229,porto alegre,RJ
+b5a674b5,32bee6cb,62607,sao paulo,PR
+27fc3b73,5c8dab0d,20385,sao paulo,MG
+34be60fa,d9806fed,84658,belo horizonte,BA
+4907ecee,935bbec8,67900,belo horizonte,ES
+b3097145,4a39b78b,69244,curitiba,MG
+fcff8def,064a607e,66425,porto alegre,GO
+50979032,86c49d9b,79518,belo horizonte,BA
+495d6590,9b394a89,83844,curitiba,ES
+8b256491,9631412c,33919,porto alegre,SC
+24a4131d,b27c7ae6,91697,sao paulo,PR
+eb105ad7,b46040dc,58196,curitiba,RS
+0cb13dd1,3bf756c1,80401,porto alegre,GO
+356ef64e,f0fe1dd4,1495,curitiba,MG
+76546fca,799b6e16,45755,belo horizonte,RJ
+7d42e167,becf253a,68684,rio de janeiro,MG
+a1bbd625,b2b18c47,34324,sao paulo,ES
+34d3816f,c5e2a13a,79929,belo horizonte,GO
+4b339579,3fb0486d,2552,belo horizonte,SP
+f254115f,07517ef1,52272,porto alegre,ES
+e3b9e47e,88fb7ca0,36853,curitiba,BA
+d3686b60,28846830,33924,sao paulo,MG
+ec553eb2,5e30c1fb,75462,belo horizonte,MG
+9d523200,42d1c68e,97387,porto alegre,GO
+6f75ecec,0606c2ed,24889,sao paulo,PR
+b028816d,f6e5a386,55675,curitiba,GO
+9089a7f2,f692e07b,74591,belo horizonte,RS
+ea2cb243,ab3a731c,71190,belo horizonte,MG
+fec09a27,77c538d5,23634,belo horizonte,PR
+fbd537f4,18e7f263,33363,sao paulo,PR
+1c296cc3,d020d0eb,64752,sao paulo,GO
+a343e00c,eb4bb5ab,78004,sao paulo,SC
+ab77666b,997b32f8,57398,sao paulo,ES
+709a5cf2,d30689ab,99458,porto alegre,BA
+e486e13e,a7a47c1d,41718,rio de janeiro,SC
+9aed0f51,8af3e4b8,83916,porto alegre,MG
+6792dead,8e0abcb2,27870,belo horizonte,MG
+e1e06d24,fed004b4,38394,porto alegre,MG
+50c2cac8,20a7413f,53057,curitiba,PE
+2dad37a5,0a084a9f,80795,sao paulo,RJ
+85bf77aa,753e19d6,81409,curitiba,SP
+44d2ba0c,8fc5dae1,14016,curitiba,PE
+d1cdf172,5531c3cf,43137,belo horizonte,SP
+3a52b140,d22e707b,1153,sao paulo,PR
+e5e8d43c,daf292f1,8853,curitiba,MG
+a2435691,b41a77a3,13379,belo horizonte,RS
+8e00d215,04a1b5d7,16792,sao paulo,BA
+cddab3ba,51eb26e6,39367,rio de janeiro,GO
+0572415c,ec590150,19100,belo horizonte,BA
+5030b0eb,ed503aa2,64456,porto alegre,RS
+94df4824,f9e8a1cc,12049,sao paulo,GO
+f49bae85,06d36307,1786,curitiba,PR
+0bcdaef5,5d959c1d,70904,curitiba,RS
+72f5c2ea,2e549cc0,31699,porto alegre,MG
+a4e980b1,85313e94,48691,porto alegre,RS
+bdb33b99,873ebf7e,38040,curitiba,MG
+2db411cf,021576d4,93990,sao paulo,RS
+28e2f280,872f64b2,58986,belo horizonte,RS
+7db01537,1ca478bf,39762,porto alegre,SC
+81d4b59b,ec152e17,24600,porto alegre,BA
+abf4d69b,995d2ce6,95774,porto alegre,SP
+1a93c6fa,f744e470,91777,rio de janeiro,PE
+a67a7049,f9696646,20810,sao paulo,SC
+af6d1038,a3da9557,86703,sao paulo,SP
+2704962e,007c0d1d,88347,sao paulo,SC
+8964f9df,60251f9e,58204,sao paulo,RJ
+48bc47b3,2149f4ab,21085,sao paulo,GO
+c3c6cd34,b56d684a,47854,curitiba,MG
+0a4c8b6c,9aabf2d8,75797,porto alegre,PE
+c00f9143,2f64da72,85269,curitiba,SC
+9b91fe98,2e618efa,40779,rio de janeiro,SC
+a8e70a4d,1569d740,57207,belo horizonte,PR
+d94010ae,ed15b752,95615,porto alegre,RS
+337f1e2b,afc4015f,34980,rio de janeiro,RJ
+311c4acb,1483051e,57117,curitiba,PE
+71b036cd,75b59826,15141,belo horizonte,PE
+b8b549ad,a260aefd,10344,rio de janeiro,GO
+98283d4c,d17dfa2c,16896,belo horizonte,PE
+05cb1414,49c7b1f9,90353,rio de janeiro,ES
+97f39cfe,0fa34aa7,30813,curitiba,PE
+de5f59b2,2281227b,85431,belo horizonte,SC
+32ac6ffb,120672f4,66679,rio de janeiro,ES
+40b25f9e,889795b6,11681,curitiba,SP
+0632de92,d567258f,73903,porto alegre,RS
+8031d5c4,fd346291,4228,curitiba,ES
+22556787,416fc217,5582,curitiba,SP
+6e699ec0,0e0b6481,79683,porto alegre,RJ
+4d4aad9f,8b50047a,12397,curitiba,BA
+e0f619f3,916cf933,39799,porto alegre,MG
+6e9cc4fd,2b2bb422,38011,porto alegre,SC
+6cdc3413,e3888b3c,80183,porto alegre,ES
+823a5c5d,dc4c40e6,94254,rio de janeiro,BA
+fecc6c1c,0e504d25,45264,belo horizonte,RS
+18895376,8c7a99e1,43317,rio de janeiro,PR
+58b6644a,e8cb2b0b,48914,porto alegre,RJ
+f1fdc49f,4b3e93d2,85633,belo horizonte,MG
+d9c632ea,728247cd,46254,belo horizonte,RS
+7852219e,5a70aa16,41096,porto alegre,RJ
+0a460f02,97cf0e38,54785,belo horizonte,PR
+b13b419c,ae88d6b3,53344,belo horizonte,SP
+2af7fc2d,70aeda47,83643,rio de janeiro,PR
+5c55827e,f9906346,69546,belo horizonte,ES
+69ad4d0b,b1f675e3,72091,porto alegre,MG
+c4dcd7d1,14615aa4,66603,sao paulo,PE
+e275e3a0,c560a6a9,29412,sao paulo,GO
+511039a4,95d99580,52658,sao paulo,SC
+26a00608,7ff82fed,50549,porto alegre,SC
+39cc7c21,4c82f833,12549,sao paulo,SP
+2156f79b,f6f2bed6,72216,rio de janeiro,RS
+2885aee2,29b08026,26739,porto alegre,MG
+95d8c788,72a741da,22209,porto alegre,PE
+27ad0a9b,7f46407b,88968,porto alegre,SP
+3386f42d,05552e43,16116,belo horizonte,GO
+ec6a5d2e,a39c34d8,21045,belo horizonte,ES
+8a563a4f,4c8e4649,27327,belo horizonte,ES
+e51e471c,c5644b12,36709,curitiba,PE
+1abfa7d5,e8405b91,44617,rio de janeiro,PE
+1a7577f0,6332e62b,61139,porto alegre,PE
+8e3cf1c9,285e6e3e,27905,porto alegre,PR
+687e09dc,54cd7a55,65148,belo horizonte,SC
+7acda71e,b026ca2b,73603,porto alegre,BA
+fe0ec296,db013a2e,99095,porto alegre,MG
+39690cae,3d8077ba,43919,sao paulo,BA
+b4b1dfbc,6aea280e,84521,porto alegre,PR
+cab8d53f,2a1be408,93905,curitiba,RS
+399110e6,7c4ecd26,84400,belo horizonte,ES
+98ce4dde,4e2da941,89150,rio de janeiro,SC
+95df2a8f,25dc3506,59446,rio de janeiro,PE
+eadb7367,f5a50c8c,53428,sao paulo,GO
+6fbcc063,2cf9d8a3,48894,rio de janeiro,GO
+c6944bb7,331e0226,82149,rio de janeiro,GO
+b7690764,4f95d82f,7447,belo horizonte,MG
+5412d1f4,ffe0ca00,6499,belo horizonte,PE
+5feb6f3a,45a28cb0,40041,curitiba,SC
+5d816df2,9fa2f761,32315,sao paulo,ES
+d3572b6a,aa716610,2299,rio de janeiro,BA
+baff609d,d8bd7b44,5994,curitiba,PE
+112e5a90,4b8a7ee9,96414,sao paulo,PE
+c3845858,c3c62547,82163,rio de janeiro,PR
+8fa2443f,970755b1,8489,rio de janeiro,RS
+4ba05861,bfbfa574,92647,belo horizonte,GO
+0e3fd083,30888222,33355,porto alegre,SP
+ca1c5932,b8b49f9d,74805,sao paulo,SC
+63794e42,64cf3f95,69367,rio de janeiro,PR
+a15f5cb9,ec1681ef,78355,sao paulo,RS
+0b583253,3d3a258b,91349,curitiba,RS
+d2be2d73,e4d71188,88173,curitiba,RJ
+7c4df75c,37f3d155,2996,porto alegre,GO
+a7d31715,036cfe6c,45387,rio de janeiro,RJ
+e45b6e27,643912f1,4089,belo horizonte,PR
+57c692e6,a8a3ab2e,99827,rio de janeiro,RS
+eb79a9af,595e67be,21659,sao paulo,SP
+057351e7,fdec128e,46178,curitiba,SC
+a27cbb21,4de07d2d,96965,sao paulo,RJ
+7eaecaa7,2ea5c8b8,82268,porto alegre,RS
+52fe39f6,1f09e304,86042,curitiba,SC
+5101d244,35a69102,71726,belo horizonte,GO
+f0f87d0f,b536df80,71111,curitiba,BA
+3f4c3b70,2d5f8bd6,35565,rio de janeiro,SC
+95db2e4e,9a3081b4,90242,rio de janeiro,RS
+b2ee7fe5,af0c4734,23884,curitiba,PR
+34206f1b,61a743a4,18199,porto alegre,RJ
+8c4f1693,19da3d11,61038,rio de janeiro,RJ
+d275c519,1b453f39,58786,rio de janeiro,ES
+eb3878e8,c0dec92d,50294,belo horizonte,RS
+671d1698,08fc160d,79015,curitiba,ES
+d2ab005c,4d7e67b3,35178,rio de janeiro,SP
+66975e18,f017380e,13665,porto alegre,SP
+a300a1ca,16adb336,1534,sao paulo,RS
+c7cc403a,247b944a,92828,curitiba,RJ
+1b0ba6da,a41c2f72,37132,belo horizonte,GO
+5cdb8d30,20bf27ec,37110,rio de janeiro,MG
+51077afe,0a1cc3ef,59754,porto alegre,SP
+d5d1195a,d1b2ac55,64580,curitiba,RJ
+dcd08b82,0940b301,23469,porto alegre,PE
+6560542f,1eb00d4b,65016,porto alegre,PE
+5372857b,2b72ba8a,47233,belo horizonte,ES
+323bd29c,74a287fd,67708,curitiba,SC
+1fd6577d,37736acf,59232,rio de janeiro,GO
+07be8f32,e734ab2c,94450,belo horizonte,ES
+e720240c,a372ebfd,87437,rio de janeiro,PE
+c614f428,464f7c58,35409,sao paulo,GO
+de0196d4,f581992b,20324,porto alegre,MG
+0915a498,1f291d36,9738,sao paulo,SC
+5b302967,25cec6ee,25054,porto alegre,ES
+366613f9,87b7b9e4,30709,belo horizonte,PE
+5df621de,a62ef4d1,86643,rio de janeiro,SP
+20650cf1,c257cf5c,1363,rio de janeiro,SP
+8775301c,0044f2ad,11358,belo horizonte,ES
+d6fa1e61,e25bdd0d,4240,curitiba,MG
+c366fc7f,66601142,73201,sao paulo,MG
+0fd59d43,e8151fe3,46689,sao paulo,RS
+b0c4ddb4,d156df45,2936,rio de janeiro,SC
+93d2ac38,9459c840,92074,rio de janeiro,RJ
+f3abff23,64385379,44965,rio de janeiro,MG
+1e12e8d3,426de713,78534,belo horizonte,SC
+cd71e5b4,fc5ee204,1882,curitiba,MG
+f040ae45,97d55aed,21224,sao paulo,RS
+4248e682,e73f622a,31825,porto alegre,BA
+9aea08a8,1e531bc4,71740,belo horizonte,MG
+730aa6c5,5c0e4c57,29885,sao paulo,SC
+5a875dcd,8eccdff8,41056,curitiba,RS
+91a42ba2,57c33ccf,4203,belo horizonte,RS
+2f4d7867,7645e89f,61241,sao paulo,SC
+ab063a56,92a43a33,3244,belo horizonte,SC
+e676eb65,b874b8c8,99322,sao paulo,SP
+d40e7286,54bb51f2,69619,sao paulo,BA
+8b4ec101,391dcdc6,22584,curitiba,RS
+77844abc,9254369c,9521,porto alegre,SP
+6e85c510,27e05eee,51017,curitiba,GO
+c125d366,736b626d,34541,sao paulo,ES
+e60834b1,440c35f2,30063,belo horizonte,ES
+5b68e8da,337b77a5,71268,curitiba,RS
+55468d8b,bc59b1b4,65952,porto alegre,SP
+f8ff0568,cb8b525b,94054,sao paulo,BA
+3fa7db7b,814b9a93,40563,curitiba,BA
+28e3a129,eac1c36b,40752,curitiba,GO
+26c2c38c,c35eb3e0,96233,curitiba,RS
+a473f87c,b857b904,3567,curitiba,MG
+8b92499d,75888a74,17121,belo horizonte,GO
+bf407c03,4b89e2f4,2674,porto alegre,SP
+329e303d,19a15ba0,77411,porto alegre,MG
+2e577762,dc2ae479,67275,sao paulo,ES
+b96d9fa6,c4ad8972,68081,rio de janeiro,PR
+ed8fdcf1,62bd41c2,30140,belo horizonte,ES
+71be9b5e,7c5dc084,10327,sao paulo,RS
+85e15ea9,47770fb2,71663,sao paulo,SC
+da687ef8,c38f7cb7,24331,curitiba,ES
+ab476a67,4ef2af0e,24004,rio de janeiro,PE
+fd953544,8840a7ba,11492,rio de janeiro,ES
+b4767eb8,e045f554,55797,belo horizonte,ES
+23fd83d4,0f6fd8a1,59095,rio de janeiro,ES
+16815c72,204c6223,14749,sao paulo,ES
+3abce549,0df213fe,64217,rio de janeiro,MG
+e5f64267,4e15b172,90044,rio de janeiro,MG
+8a3c8a16,e97779d6,10045,porto alegre,ES
+f0566c84,f85610fd,21116,sao paulo,RJ
+ed843e3f,9985bcbc,19667,rio de janeiro,RJ
+5c5d8d35,539dacaf,76057,rio de janeiro,MG
+2b200813,2dd53bc4,75205,curitiba,PR
+730f27d0,4357031e,28302,rio de janeiro,SC
+2a4d33de,c4670e1f,12283,rio de janeiro,GO
+a40bcbbb,59633004,31935,porto alegre,PE
+76a7243e,f19a6d45,73534,sao paulo,PE
+0dac39c2,91593bcc,95342,belo horizonte,ES
+8aa63391,c5a217be,32624,sao paulo,PR
+e04a136e,7457b740,14440,curitiba,RJ
+fdb7ee8b,63da8ea7,47501,sao paulo,RJ
+90727b02,a7dff063,88333,rio de janeiro,PR
+727d20d2,47b520e1,2269,curitiba,SC
+b3405248,00869743,8868,sao paulo,MG
+2cf15382,b9696338,31251,curitiba,SC
+c092c95a,26495f68,78909,belo horizonte,RS
+dc69e87b,23efc417,85523,sao paulo,RS
+b47d26d0,fd5b4d61,39729,rio de janeiro,RJ
+9096416c,cb60ed03,16734,curitiba,GO
+a7ecd11a,a3f2b7aa,43429,porto alegre,RS
+7181829a,0bbb1c4d,42337,curitiba,RJ
+97071933,04066286,41325,porto alegre,ES
+0d33fb86,60cff183,84600,rio de janeiro,BA
+f15d5e66,0dd9703c,63514,belo horizonte,BA
+85dd7b8e,f0c483c7,9433,porto alegre,SP
+b10e4a9e,e959de36,10111,belo horizonte,ES
+4d5db914,e572a33d,64753,curitiba,BA
+8eff7783,4fb31026,81583,rio de janeiro,SC
+ab1fa04f,ab915526,74620,porto alegre,SP
+cc4a73e1,dca1ce5f,22751,curitiba,RJ
+855d0cf3,e6f1e0a8,17453,sao paulo,PR
+2666cfdd,aadd0aa3,86844,curitiba,PR
+c196d32d,ccabeebc,39968,belo horizonte,RJ
+d1eb878f,e8365ac2,31077,rio de janeiro,GO
+548cd922,43f29bc2,35775,rio de janeiro,RJ
+0dba911d,bafcae0a,59144,curitiba,MG
+b5daf1a6,26ce0db1,49570,sao paulo,PR
+afb934d2,9ce0c207,47097,belo horizonte,BA
+0b95002a,63f39aaf,25503,curitiba,PE
+6320c18a,f1351ff8,3779,curitiba,SP
+7c2ade15,f04e1d35,87840,rio de janeiro,GO
+5a220f57,a84dabf5,1755,belo horizonte,RS
+1c49eee4,64db4e94,40263,sao paulo,ES
+5765e6b7,cd2bc129,56087,rio de janeiro,GO
+376b038c,cfe04f85,43281,curitiba,RS
+de1ffdf2,26602893,52482,rio de janeiro,GO
+e7d56030,307d0667,55857,rio de janeiro,PE
+99627311,09e1795f,18400,porto alegre,GO
+c55d2394,ed9116ee,41115,rio de janeiro,BA
+b1d8172f,6354e0c8,15249,rio de janeiro,RJ
+f9463015,3056705c,47825,belo horizonte,MG
+880d0282,abb21893,25600,rio de janeiro,SP
+5409cc5d,071acd17,38706,sao paulo,PR
+8dade820,1dde55ba,20222,curitiba,RS
+adb7bde4,50868ea1,42139,belo horizonte,SP
+976dd076,528a727d,42302,rio de janeiro,GO
+fbea0a8d,044e6fdd,95684,sao paulo,RJ
+7c724de7,26fd7bb4,88838,curitiba,SP
+84173a72,b0b40f70,69159,belo horizonte,RJ
+0316de16,ecb07ab1,9646,sao paulo,RS
+135da70e,b664e820,14543,rio de janeiro,BA
+7a91d550,ab635599,95496,porto alegre,BA
+c6a184ad,41e9f819,23785,porto alegre,RJ
+10a07a58,a2b4ee7d,79353,belo horizonte,RJ
+09c9247c,86f890d2,32406,sao paulo,MG
+f67c2264,9e652935,89992,curitiba,ES
+54b76a72,fd4c4205,52428,sao paulo,MG
+221328e7,ea714ff1,24777,porto alegre,SP
+138d2575,76e9acde,58939,belo horizonte,SC
+dcb1cb04,26f792ee,54026,rio de janeiro,MG
+9078fa71,fef44434,87450,sao paulo,SP
+0fc727a4,7d50cd28,30553,porto alegre,PR
+be3d53a0,5c36270f,24548,curitiba,SP
+e47a8b01,5f1aba1f,64221,belo horizonte,SP
+4acbf9b8,35729ffe,38265,rio de janeiro,RJ
+3cc2dd95,d232803e,41701,sao paulo,PE
+c2780837,f47632d7,52287,curitiba,GO
+37a1b5f4,d219bc2e,7727,rio de janeiro,RJ
+315edef1,7ff7e963,51717,porto alegre,RJ
+bde71009,d6cdb691,33427,porto alegre,PE
+1e004640,3bea8e70,17692,curitiba,PE
+3eaec037,a881b206,32625,porto alegre,GO
+16357d61,138b3fcb,25918,belo horizonte,SC
+589b214a,f37cff4f,42136,curitiba,PR
+7bb1598a,3b3fc8c0,53409,porto alegre,MG
+01b3ba55,5e998294,16577,sao paulo,SP
+451041bc,0f8f14b9,86155,porto alegre,MG
+9c27738f,41501081,82731,belo horizonte,BA
+4e562a27,b68edc05,28689,rio de janeiro,RS
+86156a9a,3bb3eeab,12154,rio de janeiro,SC
+2c4b9fd5,56383567,95948,porto alegre,RS
+6b2c5299,bfdefbd7,22341,rio de janeiro,SP
+09f0f101,f78d7902,98554,porto alegre,PE
+73de1e76,d909fca1,75681,belo horizonte,SP
+8ee21fcd,5571b17a,47330,rio de janeiro,PR
+f3d42a4f,5a088009,88759,sao paulo,MG
+cb7b4056,341ff4bc,69416,porto alegre,GO
+faf950fd,c7c3e866,87807,rio de janeiro,ES
+3fc2114d,1b6c8a25,34313,belo horizonte,ES
+b1a0a44b,9fd392c8,47900,belo horizonte,GO
+ba1516cb,a2439716,79840,sao paulo,PE
+0898b51c,0bad53ba,35695,belo horizonte,ES
+6a5dfad3,7fd26d59,31225,belo horizonte,PE
+524c0415,18490516,87072,rio de janeiro,RJ
+dbb5237d,6012d535,97367,porto alegre,PR
+39483d6a,519fcedc,50156,curitiba,SC
+b97483ed,aed1f341,78209,belo horizonte,MG
+d430f575,5ea9420a,88453,belo horizonte,MG
+89f01cfb,f20f16ae,28829,curitiba,SC
+00a1c67c,7d75ca6e,81908,belo horizonte,SP
+0d925003,adb14fc2,26938,rio de janeiro,SP
+d9e5f550,8f7dbd90,60164,rio de janeiro,RS
+7c0e6894,41d7ff2e,55530,curitiba,SP
+074a431b,bb43c6fd,69199,belo horizonte,PE
+71c1856b,1cecb307,61282,belo horizonte,GO
+d838b16d,2171a9fb,48801,porto alegre,RJ
+d07159a6,455f7c18,10465,belo horizonte,SC
+e854928a,814d0112,4326,rio de janeiro,PE
+b3db1094,b56a4d49,4659,sao paulo,PE
+44f39bb1,796d02bc,61289,sao paulo,RS
+2eebff47,6821392e,28594,sao paulo,PE
+20b80618,e0c9289a,5763,sao paulo,PR
+2b1c846a,dd816b05,89657,belo horizonte,SP
+3ab72d91,95418dc3,11828,belo horizonte,MG
+fd823796,26f8b186,48588,porto alegre,PR
+113d8594,a4443c7c,12221,belo horizonte,RJ
+0911ca63,65035631,12211,sao paulo,RJ
+d4a976a0,3b1d9c09,14569,curitiba,RJ
+a79ce5bf,0b7d0bc4,97894,curitiba,SP
+73a3a9a7,40fa92cd,38860,rio de janeiro,PE
+525950cf,2fe9e79b,72558,rio de janeiro,RJ
+1f83d3a7,51874cad,46337,belo horizonte,SC
+5dad7d78,70de1e5f,53311,curitiba,MG
+20e9f3a9,0021d784,14515,sao paulo,PE
+367a5d02,4d28c73e,72695,sao paulo,RS
+058c0fe1,4eccf429,88227,sao paulo,SP
+38a92744,65a0c9e0,25904,belo horizonte,GO
+61f990ea,f3b26679,60935,belo horizonte,PR
+4471cc4e,e056e027,44790,porto alegre,BA
+33ad2e28,de1d7414,69580,sao paulo,PR
+b8268ab7,fe5eeabb,76148,sao paulo,RJ
+d61678e2,e6c894fe,6636,belo horizonte,MG
+a45ea02c,a2616fd0,78129,belo horizonte,RS
+cb1c30d5,1d3009b0,3892,porto alegre,PE
+3ad270e0,cc091c69,22672,porto alegre,SC
+f40c6ade,9d708256,6812,rio de janeiro,ES
+00996ef3,4cc96779,97621,curitiba,PR
+91b1cee2,8ecdb4fe,1654,sao paulo,ES
+4b20cebe,111ac77c,55633,sao paulo,PE
+93daac32,3ba77aa1,18143,porto alegre,MG
+9f3eeeb4,5d5a4852,56934,porto alegre,ES
+e41d4001,81c4c803,68334,rio de janeiro,PR
+80543114,b67fb106,30087,curitiba,GO
+bcbae236,f4f7cf2c,12618,rio de janeiro,BA
+0673865d,17f4f49c,9446,curitiba,ES
+78750bb4,c08f2feb,88182,sao paulo,GO
+c1d7441f,75860bd5,49867,rio de janeiro,GO
+8e2ea7a5,71fbb67c,52028,porto alegre,RJ
+fee93848,08b95cfc,61101,rio de janeiro,BA
+e0f6c1dc,b68e28df,28200,rio de janeiro,SC
+44dd0384,5556b101,96107,sao paulo,PR
+f3438afa,aaf566e7,89074,porto alegre,RS
+ca29389a,48d7269e,62465,porto alegre,PE
+c124e80f,037afb0a,87436,belo horizonte,RS
+7fc9f6b4,dfd9bb85,88892,belo horizonte,ES
+e336c06c,7fff2db9,89559,belo horizonte,BA
+7304f154,1d350d18,40148,sao paulo,ES
+c4c01f49,f5adf588,83928,rio de janeiro,BA
+0e12e030,604d99b6,21698,porto alegre,PR
+59ad3351,d75f093a,43470,porto alegre,PE
+d646cba3,15371c8c,93071,rio de janeiro,PE
+115b55b5,02203f21,52660,porto alegre,PR
+6f6a10a3,a53de967,54910,rio de janeiro,SC
+9e046d02,130f7508,36450,sao paulo,GO
+b2dfe901,e9f2d538,57463,sao paulo,BA
+50525d86,bb448b7f,34757,sao paulo,SP
+8a677427,50b1d721,79012,rio de janeiro,SP
+d42f0475,8803e3d0,71247,rio de janeiro,GO
+50342086,29fc2ecf,73015,curitiba,ES
+36feb3f2,598532f2,32390,porto alegre,BA
+1fe446a5,030423e1,57116,porto alegre,MG
+7af56b5c,9a35b294,14161,curitiba,PE
+89fc380f,ac067596,33152,curitiba,RS
+979f3aca,09f90c48,81171,sao paulo,MG
+f274f07e,ac612865,96833,curitiba,RS
+97a2038f,dc1152ef,21836,rio de janeiro,PE
+f23ff076,eb6ea8df,91367,belo horizonte,SP
+66ab80d0,a3fc3943,67543,rio de janeiro,PR
+43f9fb91,07cbe1e1,56648,curitiba,SC
+d138d1ce,ee90157e,27331,porto alegre,RJ
+6f3705a1,4d00d706,11763,rio de janeiro,ES
+fbd5bc15,d9344f65,70444,porto alegre,GO
+51c4cec6,73c12a59,94109,rio de janeiro,SP
+9052d1ea,cf76f75a,20187,porto alegre,PR
+7c44d95d,26ce6b4d,12957,rio de janeiro,PR
+46d4dc24,82c3f967,5379,porto alegre,RS
+f6a31509,bd294ed6,28959,belo horizonte,PR
+3f83ed4c,22417696,83018,sao paulo,BA
+1d696ec8,b2b7b28a,28105,rio de janeiro,ES
+4f407a9d,3ab7f579,1877,belo horizonte,RJ
+0e89885d,a397e6c1,49353,sao paulo,SP
+a7ff1c68,1f2ce755,84788,rio de janeiro,BA
+50165e2b,d39879d8,97870,belo horizonte,SP
+fdfe6d15,02ee6b38,85585,belo horizonte,SC
+0df27db3,73475961,84308,belo horizonte,RJ
+1edcf246,2b0e7f62,52567,curitiba,PR
+2511eef2,48c50d26,58913,porto alegre,SC
+7e144f7d,6a313bde,3637,sao paulo,RS
+8f2a6915,6232362d,73778,porto alegre,SC
+ff6bd51a,d88cb29e,43025,porto alegre,MG
+5353ae31,02ae629f,83464,porto alegre,RS
+4fdf6616,163ec94c,29742,belo horizonte,RJ
+729aa7fb,a796ccd2,12831,porto alegre,ES
+04274ed4,9b4251c8,86092,curitiba,MG
+3a5eeddf,2bad8090,91879,rio de janeiro,SP
+9933249a,b6d890f2,89370,belo horizonte,GO
+b9feecca,d34fe12b,47762,sao paulo,GO
+93502aac,e5fe530b,99958,rio de janeiro,MG
+d89be66b,26bcfca1,89741,rio de janeiro,ES
+79361944,a513056a,19830,rio de janeiro,BA
+8d91e02d,101baa31,56044,porto alegre,GO
+a0fb5781,d23e79e5,74948,porto alegre,MG
+3cec8e18,338e44e4,70202,belo horizonte,RJ
+3d9ccebf,7b0ff3d2,38045,porto alegre,PE
+9e0c99bf,6b0e58cf,87322,porto alegre,ES
+ff69d0f1,c579f416,72051,porto alegre,ES
+8ea497a8,7874c873,27627,belo horizonte,BA
+c2318e5d,f7862b9b,16198,belo horizonte,RS
+bc7a9564,d95dd261,70521,curitiba,PR
+6aed92cf,2cbf05a1,30475,curitiba,GO
+9acc733d,5ae2a0fc,20403,curitiba,PR
+8a54eda9,bee70726,4681,curitiba,PR
+0089e89b,600f48c0,92555,rio de janeiro,RJ
+7e43242e,98ca6144,94122,rio de janeiro,SP
+eb289d64,a2152cee,43292,curitiba,PR
+7ce7cc75,a527429f,6629,curitiba,ES
+2c03dd98,1252f048,94246,sao paulo,BA
+34ae6974,4fe92034,96864,rio de janeiro,BA
+e8001386,4150a4fa,78814,sao paulo,PE
+ed0ca9db,4b1d3407,9417,sao paulo,SP
+fcc0776b,91db93c8,35765,porto alegre,RS
+24d7d9f1,72195a14,75499,belo horizonte,ES
+ebaa4677,0bda138a,57574,rio de janeiro,ES
+e183d421,1d9e2c46,91545,curitiba,PE
+3cc5a0b9,49bc84e9,28675,curitiba,SC
+158d39f3,f24c007a,73267,belo horizonte,PE
+7572555b,06279f84,41563,rio de janeiro,PR
+5b3fac2c,5acadbe6,12332,curitiba,MG
+f1a8eda0,be6f712f,20177,curitiba,BA
+2d0aacf5,dbc981cc,90254,porto alegre,PE
+fce4d46c,24903f8b,69447,sao paulo,PR
+11b98b33,ec5a32d4,58104,curitiba,GO
+74267e17,87f99dff,85335,rio de janeiro,SP
+eb6e4eba,cede0909,81730,belo horizonte,ES
+0164259f,8b6ff0c6,5951,porto alegre,SC
+3bda9da4,c381d649,29333,rio de janeiro,SP
+00a902c9,63c9c5ba,22673,porto alegre,PR
+e65e30e9,f0217cab,41870,sao paulo,RS
+88dc55cd,d547ff77,72101,curitiba,GO
+10f83edd,a831df6d,23821,rio de janeiro,PR
+ddf7880e,8d5d262f,26494,belo horizonte,MG
+9d9f9cc4,c74a85a7,75160,sao paulo,RJ
+27dc4b07,612e6a84,1835,sao paulo,PR
+8f3291fb,2a6fe5a0,19646,porto alegre,PE
+2ddc94de,3df47221,78360,sao paulo,PR
+d91be405,32fc02bd,38335,rio de janeiro,PE
+51c276cc,e6d22c20,70351,porto alegre,RS
+09737160,569a5a21,3429,sao paulo,ES
+c259be5b,df78926f,42950,belo horizonte,BA
+1c27debf,3833b279,61654,rio de janeiro,RJ
+87b743f1,35997526,69143,belo horizonte,RS
+227379c9,751f6d77,92186,belo horizonte,PE
+bf408823,cf3587a8,98889,porto alegre,BA
+007eca05,74c23ed5,78527,curitiba,MG
+ff99e053,495758af,87704,porto alegre,SP
+1d1c0f64,c9c68fbb,32099,rio de janeiro,RJ
+f96f25c2,276aa24e,40385,rio de janeiro,SC
+90333281,7025513d,36919,porto alegre,RS
+32ff9a32,7e9428ba,97952,curitiba,SP
+8a00c5a9,93942991,61782,porto alegre,SP
+3e5de185,d84c0ef4,72116,rio de janeiro,PR
+7dbb4aff,1511e6b1,73590,curitiba,PR
+723b82f3,d2d26099,90626,rio de janeiro,SC
+4aad71a0,a59e1796,41387,curitiba,SC
+e246a76e,2b7ad77e,16823,curitiba,PE
+75676d53,306be240,47015,porto alegre,SC
+86235e44,32d3f030,16339,porto alegre,SP
+274f045d,cd63c97e,4491,porto alegre,PE
+2d466e13,50a5ef97,1706,curitiba,BA
+6a96d119,962bd30f,98493,curitiba,ES
+fe4c2418,1a89059c,16728,rio de janeiro,ES
+22fc79c8,f9c2517d,7997,belo horizonte,ES
+954c0a9b,0fd4a1b7,61408,porto alegre,RJ
+19e5ba33,578a4fb7,59097,rio de janeiro,RJ
+3c0fa635,b891b631,39523,rio de janeiro,SC
+7baa346f,c0dcf2c8,26163,sao paulo,ES
+514a4237,9e2d58f7,18718,porto alegre,MG
+6b031c6f,a62a077a,88508,rio de janeiro,PR
+a40fd3f9,d7fd1b06,84767,sao paulo,MG
+9123f1fb,7255f0de,40619,porto alegre,ES
+fefa6b66,43961304,13126,curitiba,ES
+53ecc9f9,24c2e1f2,90131,sao paulo,PR
+13770253,1251dcd0,65926,curitiba,ES
+82e177f2,a3d131b8,41633,belo horizonte,RS
+eecbd42d,4e9ccb69,78654,belo horizonte,SP
+044eee0d,fb8801c7,4317,belo horizonte,PE
+5ad55c29,b9e2652d,45980,belo horizonte,PR
+5106a5ec,3d6bbae0,45115,rio de janeiro,ES
+057a16ca,d544b9ba,62646,belo horizonte,RJ
+38650105,391fcaec,44158,rio de janeiro,RJ
+1c381805,866cff8a,56963,rio de janeiro,SP
+92390e49,43ed8c79,48631,porto alegre,RJ
+90a55e65,0a66f6cd,50316,rio de janeiro,PE
+dea6e0e5,add8c3b6,60342,rio de janeiro,GO
+8236c82c,b690fde3,16504,belo horizonte,GO
+6fbf48b9,e11cbf2e,69593,rio de janeiro,GO
+fba01acc,eea53433,27660,curitiba,SP
+7c1926c2,8c35085a,38196,belo horizonte,SP
+5b188e23,302676ac,66938,sao paulo,PE
+065ad2ab,f417e9a3,9605,belo horizonte,PR
+57c8a7d4,1ebdde90,58388,rio de janeiro,SC
+cd293026,ef4c052a,82297,curitiba,GO
+b61ebfab,ad373bd5,56501,belo horizonte,RJ
+5a5bb563,8af38694,54309,curitiba,MG
+3c16ab17,0d1ece6b,28043,sao paulo,SC
+45dd7683,8ae4f419,34635,sao paulo,PE
+1cf19103,58813340,80315,porto alegre,PR
+a1b1c02c,b4c587d8,81691,porto alegre,RJ
+e07c2e5a,6efb6a14,34132,belo horizonte,ES
+f9f63cea,92894c89,90387,porto alegre,PR
+ecb18010,9dcab3ee,16366,curitiba,GO
+5b48ed9c,cdc490da,94944,porto alegre,GO
+e7529b54,6a4f57de,73107,curitiba,ES
+92495162,c181df27,63580,porto alegre,PE
+0e2b3b65,f2832226,58889,porto alegre,BA
+957304ca,7f58b021,80553,porto alegre,PR
+77588c14,e4b91d7c,40236,rio de janeiro,ES
+869f1738,7af07c6a,5150,rio de janeiro,PE
+ba8f087b,e6a7a5f7,20423,porto alegre,PE
+245de19e,85631cd9,5137,curitiba,SP
+6cc7be0e,c7e58ccc,30992,belo horizonte,PR
+64bb32a3,4a8ed379,95438,sao paulo,RJ
+97589b88,93b5f6b7,45921,rio de janeiro,BA
+1a335017,73674abc,80369,porto alegre,RS
+18dc486c,c46cb7df,67917,sao paulo,MG
+c7d479a2,93d937cb,74690,rio de janeiro,PR
+28879ffe,82a5a855,35235,belo horizonte,SC
+d0e72aaa,55a2c47f,79975,curitiba,PE
+6789cd0f,bc51e208,20122,porto alegre,SP
+5d656d5b,01e37e38,24956,belo horizonte,ES
+3d038206,21e38d99,64879,rio de janeiro,GO
+945461f2,57dd305d,59560,porto alegre,ES
+d030e082,dbe8bc7d,83800,sao paulo,ES
+4bed94b0,ec65599c,69685,curitiba,BA
+1d08a826,91832ff8,25660,rio de janeiro,PR
+14f6c1e0,e2f2e92c,87064,curitiba,ES
+db8cd792,552bcdc3,2168,porto alegre,BA
+d1c6b5b6,31f26948,46124,belo horizonte,RS
+ac499f29,3f830cfc,36897,curitiba,RJ
+3d6c35c1,f8e91984,16032,sao paulo,RS
+131b141f,3a5fb8f8,53797,rio de janeiro,PR
+2fe923db,f78a0d68,36294,sao paulo,GO
+c38ff81c,37dc2f00,44827,curitiba,RS
+6e39708c,71fad927,4516,belo horizonte,BA
+67a0d7fb,0b520c53,20751,belo horizonte,BA
+fade1f1e,593cce84,31373,sao paulo,MG
+9b0a4056,8202a3be,31270,porto alegre,PE
+30e7ad6f,e2d1cb39,11386,porto alegre,SC
+234301ce,d9cd939a,65817,belo horizonte,SC
+1a194a92,8d6028ec,66184,sao paulo,PR
+e0132dce,8e2e226e,80693,sao paulo,PE
+1484a562,b8eaee10,38879,sao paulo,MG
+b27ad3e8,9d943d2e,50597,curitiba,SP
+cf0b6a3e,3c5e8053,40132,porto alegre,ES
+daf7da96,1f658cda,4626,porto alegre,RS
+2d598ba5,1b25e1fa,86936,curitiba,PE
+d9045294,c794a7b6,82515,rio de janeiro,ES
+4ef2fee2,244dfff9,78065,curitiba,SP
+41eb7bde,72357f11,56390,sao paulo,GO
+76ce61c6,d73ceefc,17645,curitiba,MG
+ceeba075,6288e7e8,92960,sao paulo,ES
+1f0a514c,3a34cfb8,55144,belo horizonte,MG
+3456303a,95d2e1f6,14382,sao paulo,MG
+3304645d,2dd87101,5025,porto alegre,PE
+31eb5622,8e0d4cba,44226,curitiba,BA
+16806d9c,e5d182f6,80380,sao paulo,RJ
+71bcec18,2a9b9551,70711,rio de janeiro,PR
+e0a5f2ab,3bb624f1,97055,belo horizonte,SC
+da0eaed7,183e5cfd,75710,rio de janeiro,MG
+5749440f,abc2bfe6,4443,rio de janeiro,PE
+b89e917e,ce10b9f6,22395,rio de janeiro,PE
+e8ddb1dc,aec786e6,11725,belo horizonte,ES
+76945c97,fa85b6c8,34461,belo horizonte,ES
+2487ba09,a2c1068b,42115,belo horizonte,RS
+5ef8d97c,b1796fa4,97887,belo horizonte,MG
+50415521,63d7f18c,84732,rio de janeiro,RJ
+621387b5,b31b29cd,80790,porto alegre,PR
+ff8f8917,6198c996,80557,porto alegre,PR
+112064cf,b40873b5,72260,belo horizonte,GO
+12a48ba9,1cd8cd4b,29690,curitiba,GO
+2843d67d,830fb1dd,2407,sao paulo,RS
+c5a055f0,6627a238,74568,curitiba,SC
+6d8b8088,b5287f97,59560,curitiba,GO
+23e3b8bc,4f314281,48340,curitiba,SP
+59037846,67530be4,18794,porto alegre,RS
+f621d433,bcac613d,20881,sao paulo,PR
+34f60ad7,d36a3ada,87292,curitiba,PR
+e912d733,7da8e8ab,95952,belo horizonte,RJ
+b5a17d53,e8c50c48,50703,porto alegre,PE
+4a5d207b,aec1459f,45354,belo horizonte,SP
+933205b8,29ccba10,92288,belo horizonte,SC
+37dbabd6,ef6501e0,79462,curitiba,ES
+573e5bb3,e873d3b9,15390,belo horizonte,RS
+ab150a87,4574807a,88475,sao paulo,GO
+69cc738f,2ddeba25,28307,belo horizonte,BA
+8eee2f03,57a075b6,97364,curitiba,RJ
+e89385c0,12898f32,95049,belo horizonte,PR
+f894c456,afb013da,25502,porto alegre,BA
+44d02ff1,4737ba83,96599,porto alegre,RS
+6a8f6566,49ce8ae3,23486,porto alegre,MG
+a9bfc33b,4c4f7bac,39258,rio de janeiro,SC
+50addfd7,69ec570f,58716,porto alegre,MG
+6550f02e,926113ae,98228,porto alegre,RS
+1e645354,38294d5a,82494,rio de janeiro,MG
+c4a4231f,c3a1ad7b,83768,porto alegre,SC
+0a9c3f65,fc331e4c,11748,curitiba,PE
+b6d5501f,6fbd96c8,63785,porto alegre,RS
+19d2d914,0d7eb682,77050,porto alegre,BA
+8a60a368,083e279c,23738,rio de janeiro,MG
+9bc89cb7,32b214fd,75231,curitiba,SC
+b98aecaa,b584cbc0,74606,belo horizonte,GO
+fa89edbb,51b402f7,94301,sao paulo,ES
+6a7858bd,0a6096ce,42662,curitiba,SC
+cff9d421,3d5eaed0,97297,belo horizonte,RJ
+cc07a7f3,c5818f16,83234,curitiba,ES
+44ac5921,42095f99,16123,belo horizonte,GO
+f2000a03,d35b258a,26616,belo horizonte,SP
+bd2f07f4,4eaac7a8,12182,curitiba,BA
+b355630f,91bb9907,91369,rio de janeiro,PR
+578bc6e4,ebe35271,99878,curitiba,GO
+a4b221b3,aaebae4b,63013,curitiba,PE
+aab28dd7,1472d2ac,32331,belo horizonte,ES
+79eeb8b1,131a0877,47098,sao paulo,PE
+7370e806,22d7592a,27128,belo horizonte,ES
+80cc9511,6d59bd8b,32556,porto alegre,RJ
+4a414217,92086c02,88505,curitiba,SP
+be0fddd7,06f1b2b5,22876,curitiba,PR
+7658ac4d,f1cb26c6,9949,rio de janeiro,RJ
+c5a90899,06c266e6,52962,belo horizonte,GO
+da131929,bf1c5a44,91054,rio de janeiro,PE
+9da5de7f,7c602dd8,72206,curitiba,ES
+8eb8e8c4,a9828eb4,25099,belo horizonte,GO
+9abd305f,cbb526f9,13716,belo horizonte,SC
+083e1087,c3787282,53611,porto alegre,SP
+c3d4446e,f5ba58c9,39885,porto alegre,BA
+68ae5b82,7acc9004,54144,sao paulo,SC
+f52723f5,b841d8c8,66220,porto alegre,PE
+28ea62ae,75a9b8a1,8837,belo horizonte,SP
+77da982f,2c3ce2bb,50355,porto alegre,SP
+74c1840f,67124ef2,48299,sao paulo,GO
+4dbae391,d1a0a94b,20159,curitiba,SC
+4c32a34d,bacaa310,52012,porto alegre,GO
+b09638dc,17b5b602,60305,belo horizonte,GO
+403d8a3e,a14ca09c,88096,curitiba,GO
+4029deb4,e6ba5824,18106,belo horizonte,PE
+54ceb400,8c572563,59123,curitiba,ES
+d69174d2,3e632dc3,9720,belo horizonte,ES
+83006fb6,de60df4e,38661,porto alegre,PE
+d94cab98,4530b0c1,94898,porto alegre,PR
+95d5d66d,5894c427,94794,sao paulo,BA
+094f3742,600ab7cd,88318,curitiba,RJ
+5633e5f8,fadf2789,22120,sao paulo,BA
+cf97d3c7,f6a059d9,20790,rio de janeiro,PE
+d274a24d,0935acff,59655,porto alegre,MG
+391004fd,01bfcbb5,60643,curitiba,RJ
+294688ab,cf146838,94448,sao paulo,PR
+d3a98498,d6f49fb0,48374,sao paulo,RS
+b28702f4,0d5bb972,43907,rio de janeiro,RJ
+ca7b0d4b,35f8344d,51071,sao paulo,SP
+0b4d0f3d,36bebb8e,35812,belo horizonte,PE
+fbab6fa9,6a3147f3,50570,porto alegre,RS
+3f03bd2d,f0bc0a20,51901,sao paulo,BA
+3c83b6bf,fec4e0df,61186,sao paulo,RS
+d71d5207,db95e96b,51251,rio de janeiro,PE
+9c2c0e49,98cf9f88,66171,belo horizonte,BA
+d6190720,e1ce1c75,37160,sao paulo,PE
+ab5d7ebe,4e219470,20156,porto alegre,SC
+425c98cd,4acedd71,77208,porto alegre,MG
+efdc9c78,e79a91bc,80980,sao paulo,PR
+5abfcff0,a0ecbf92,73320,belo horizonte,PR
+13ff7645,03360073,18929,porto alegre,SP
+fb1aa323,e5d53cb6,67606,porto alegre,MG
+dec05ff8,afb355a9,89442,belo horizonte,MG
+aafc3ccd,2c266f39,63559,belo horizonte,SP
+cf7f6674,c6633fb3,55205,sao paulo,BA
+597b0f9c,cd59b8e0,69475,curitiba,SP
+9adcbbee,b55dad9d,65341,rio de janeiro,BA
+823b8f3e,4f1ae32c,96377,curitiba,SP
+98642014,b624d1a7,43863,curitiba,RJ
+4ab10bba,4748bb05,82837,porto alegre,RJ
+1c41c344,a3a7ce06,66439,belo horizonte,SC
+5bcf9f9a,ee58aadd,8194,porto alegre,ES
+e62dc24e,4f8f7671,72387,rio de janeiro,SP
+17966f63,ea9dde42,82914,sao paulo,MG
+d2a8e061,b0064ebd,67214,rio de janeiro,RJ
+0d0b705a,b959222d,97176,porto alegre,GO
+d96f302e,3b4783bb,30777,porto alegre,BA
+706808e4,cb3cc72f,27183,porto alegre,RJ
+17f92891,957934f2,28445,porto alegre,RJ
+0071c82c,02e5c6fb,68038,curitiba,PE
+5b20fb70,f61d4e94,88201,sao paulo,BA
+330112d1,021faa8f,17198,curitiba,PR
+c1ea40f8,7947e0e6,22411,porto alegre,RS
+b5fbd093,2312b116,51577,belo horizonte,BA
+824c2270,65f64bac,16867,curitiba,SC
+b3488f2d,a56ef6b9,63501,porto alegre,PE
+d2753644,6e4aa485,15266,porto alegre,BA
+fdfae77b,44cf871b,40422,sao paulo,BA
+9a2536df,d6b8b77b,36208,rio de janeiro,ES
+e5cb2178,930b152d,32213,curitiba,PE
+e20e3d64,62ab9fa2,8367,curitiba,BA
+32c1b35b,0368fda4,80026,curitiba,RS
+006e419b,10ccebfb,36362,porto alegre,RS
+f160a010,781e54d1,52588,sao paulo,GO
+db7c0c2c,a233b9c0,39285,porto alegre,PE
+1b969f94,4d2a178d,75755,porto alegre,PR
+d4de82d9,5f1bb535,72846,belo horizonte,BA
+810dae2f,c0c2f467,37307,sao paulo,ES
+727a63b7,9aa6a7de,96167,curitiba,ES
+4736a4aa,9db881c6,81280,rio de janeiro,MG
+f321e9bd,7d378997,20867,curitiba,PR
+ee1a9ed7,d99c5d28,57523,porto alegre,ES
+1b5e60b0,afc4879f,85161,sao paulo,RS
+d0940aef,e4bd17ab,7378,sao paulo,MG
+e07049ae,17926bfa,85685,sao paulo,SP
+61932746,cf0cdf15,77958,belo horizonte,ES
+5703c89b,51f66daf,28926,curitiba,SC
+6f71c290,6610999b,99707,belo horizonte,PE
+3b144397,49119e02,14180,rio de janeiro,ES
+0636a6ea,10b61119,93837,porto alegre,RJ
+85660bb8,fff8b862,37931,belo horizonte,PR
+a43a89cf,8afb6f93,25014,belo horizonte,RJ
+1fec1e73,ce420899,97472,porto alegre,GO
+1ffad93c,a2276dd2,80872,sao paulo,ES
+6482ae53,b88239d1,59502,porto alegre,SP
+a683a444,4aa137f8,88736,curitiba,RJ
+47a251e7,9931490d,6470,porto alegre,RJ
+551c27bf,220cbfed,97395,sao paulo,PR
+f28d56d9,4cfb80fa,15953,porto alegre,MG
+522933f0,ba337e22,39507,belo horizonte,SP
+5c2549fd,e81fcfb8,93969,rio de janeiro,RJ
+f0b707be,e261f2fb,92493,belo horizonte,BA
+0b478dec,a5de7681,7523,rio de janeiro,SP
+1f20f50a,0d83b1ad,87923,porto alegre,BA
+9922dfce,02a14dad,58190,curitiba,ES
+9cd39810,31d6be80,48761,porto alegre,RJ
+0a6d32ce,54d013da,32169,sao paulo,RJ
+88ff3c45,8aa2c176,46641,porto alegre,RS
+040cce3f,de6a1385,23990,rio de janeiro,RS
+d9d1cc00,96430045,30661,belo horizonte,PR
+a7c7d16e,5440d184,14419,curitiba,PE
+765ed5e9,d51a235a,15457,porto alegre,PE
+69d89565,41557577,68600,porto alegre,MG
+01b3a127,2c551e26,77102,belo horizonte,PR
+1745ee1e,80821ea2,34085,curitiba,PE
+064c3cf7,424e9a28,98064,porto alegre,PR
+7e64bc8a,4e694fa8,51654,porto alegre,RJ
+9d8c2393,14e69707,7130,rio de janeiro,RS
+b359cfec,4b753f7a,3042,rio de janeiro,RS
+7324d58b,a832e6ab,71134,sao paulo,RS
+89e00a72,7a0be602,43982,belo horizonte,PE
+fb754da0,aa72fcb6,99422,curitiba,SP
+5d9d7c1a,4b6ef863,66185,porto alegre,SC
+bd469f66,6e1f56a5,34477,porto alegre,RJ
+6dde3537,051952cf,53709,sao paulo,ES
+a353d00e,69c479e0,29716,porto alegre,PR
+e09c3fe0,fe435e1d,79137,belo horizonte,RS
+33355c90,eb81685d,37018,sao paulo,RS
+c181c1bc,eeb1cac6,9061,belo horizonte,RS
+5e69eb98,0a08cbf2,9609,sao paulo,RJ
+315c3638,9b333358,36371,porto alegre,RS
+36ea4e86,d494c698,84021,sao paulo,MG
+01094911,59b33016,21805,rio de janeiro,PR
+1f162098,92db0aae,8857,curitiba,RJ
+8c7920ea,e5fefdd1,12620,porto alegre,PR
+b5ded3cf,f57345f2,9177,curitiba,BA
+864b9bdd,3f702e2b,31111,porto alegre,GO
+47bed2d1,d25dec7a,89578,curitiba,MG
+1d214a89,661bbc11,85181,rio de janeiro,SP
+3b17e5e6,0740e1c6,90941,curitiba,SP
+70b0762d,207e3965,12826,sao paulo,SC
+fe340715,9c8c324f,14890,curitiba,MG
+9fddab9e,91f46999,83428,porto alegre,PR
+7231923e,1994a57c,59031,belo horizonte,SP
+e6b31cc3,aabd16a0,76020,curitiba,GO
+d1018b00,038e4b0b,6495,curitiba,SP
+ee6e58d2,37a3a836,29481,curitiba,RS
+84f24fc9,4c8e0c0c,12267,porto alegre,SC
+5b7c0291,8a7955ef,7743,curitiba,RJ
+ad3d7c67,3b2fb92b,55800,porto alegre,ES
+838fcd8d,c0311d05,49773,porto alegre,ES
+fed437c3,127eedc7,58042,belo horizonte,SP
+a623414f,680ce3c8,50476,sao paulo,PR
+3fafc0f8,c5a6a3af,93105,porto alegre,PR
+77c58aef,b35599f2,29552,rio de janeiro,RS
+7373c231,8e17d513,66242,curitiba,SP
+d0ada462,a51308f5,46772,rio de janeiro,SP
+58a5fd04,fb56b4ea,44730,curitiba,ES
+dbd91b11,78b73731,29948,belo horizonte,BA
+f35bab59,11b8fac2,77311,porto alegre,SP
+ef1ed2b4,b9c39af3,70093,sao paulo,RJ
+85cead9e,71f2d949,70123,porto alegre,SC
+4d5ed377,e8fe69f9,17535,curitiba,SC
+34b459f0,f3ed2a06,67490,sao paulo,RJ
+c50cf601,0eb87f03,47562,porto alegre,BA
+3a994132,b8cdb735,90080,sao paulo,PR
+d20d2103,a228bd81,59535,curitiba,ES
+99faf0d5,20173134,99991,belo horizonte,SC
+e5b6c8b4,b8fb5dff,42269,belo horizonte,MG
+3ff14d82,4ee1f884,81674,porto alegre,GO
+ea46df26,77b2bf13,43462,rio de janeiro,ES
+fa9cdca9,e3ad9eae,4127,curitiba,BA
+84cf1a82,beb8d636,24147,porto alegre,MG
+5e86adf4,19285b08,46528,porto alegre,SP
+86fdd3e0,a09e37c8,78095,belo horizonte,RJ
+e1fab092,ca2f2ba5,69931,sao paulo,SP
+e51201d6,669d234b,91925,curitiba,RS
+79188f6a,923d1886,67381,sao paulo,PE
+4c714d0f,2dfe82d8,64749,curitiba,RJ
+ba815ad8,e638ef0f,39672,rio de janeiro,MG
+70ed92ba,1b8973d1,14731,belo horizonte,GO
+9488f7cf,82857565,55512,rio de janeiro,PE
+a7969a1f,b3894f21,99658,porto alegre,RS
+0f5f30fc,c51c325a,52024,belo horizonte,PR
+dd167af7,244542a0,4832,porto alegre,RS
+dd6317b4,18286f16,33332,rio de janeiro,PE
+2fc35149,4285ce6c,13467,curitiba,SC
+fcd63ae1,f80e2a0c,42025,porto alegre,ES
+11f96610,753290ab,14107,sao paulo,BA
+492bbba4,3a297620,78994,curitiba,SP
+68edb8ba,028791bf,95202,curitiba,PR
+52e217f9,1a2077a2,44481,rio de janeiro,BA
+b8bbfe54,1df8db92,3581,rio de janeiro,RS
+1ffe09f6,b10ea245,76118,belo horizonte,GO
+545626bc,52706196,52638,belo horizonte,SP
+458a3c36,a5bed57e,9418,sao paulo,PR
+27075657,c27d71e8,94627,curitiba,BA
+68ed5c01,c380daae,30113,sao paulo,SP
+da906900,15db635e,85363,sao paulo,SP
+b2a18860,feb9eaf4,64044,rio de janeiro,PR
+692a71e6,15e31e83,80955,sao paulo,MG
+d677d98e,17543c71,62030,sao paulo,ES
+36caafb5,84520155,12814,porto alegre,MG
+b50f1885,d6a0910b,11024,belo horizonte,SP
+556b45cc,f7d98eb0,64288,belo horizonte,PE
+7a9d6d95,098a50ad,58836,curitiba,RJ
+e41bbd60,b80699d0,8435,belo horizonte,PE
+d7177f01,32151fd3,68084,curitiba,PR
+de08768c,14f51fbe,71601,porto alegre,SP
+fc53c7ca,cc057740,89416,belo horizonte,SP
+a295ecc9,a0ae31fb,4407,porto alegre,GO
+c234d021,22d29c22,99943,belo horizonte,ES
+018e0cd2,cf3b0ff7,33940,belo horizonte,GO
+18044a22,a7c1d792,6666,porto alegre,PR
+646a2ae7,cf0e962f,38122,sao paulo,SC
+a79edac4,61f40e3e,26092,sao paulo,MG
+89b59cd1,ea351ded,76645,sao paulo,GO
+972328f4,8ef2cd86,27505,sao paulo,PR
+a7134fc1,369106dc,37713,belo horizonte,MG
+20b21d73,3a6a2ad7,55387,rio de janeiro,PR
+4b153534,ea723b7b,44169,porto alegre,SC
+537a82f5,db9a28d7,74282,rio de janeiro,ES
+f8974260,7d704481,78511,rio de janeiro,ES
+a3f2f5ed,ace58246,52742,curitiba,PR
+7389ca49,79de5869,41522,sao paulo,GO
+1112d8cb,8effd277,82132,belo horizonte,ES
+c2b2016a,aab1616e,4880,sao paulo,RJ
+28c4088d,3dd7f3ff,44454,sao paulo,GO
+71119fdb,ea5f6236,56711,rio de janeiro,BA
+16ab858b,cce83f2e,44539,curitiba,RS
+18468e6a,8a83e25d,69321,sao paulo,PR
+6a7c9f34,9d6580cb,88985,porto alegre,PR
+9fd7e264,faf35d13,15799,porto alegre,PR
+ee54d119,73c9f562,61102,sao paulo,SC
+1796e270,bc96d2da,51726,rio de janeiro,PR
+9f77fdc2,c99fd6a2,49784,rio de janeiro,ES
+a332e2aa,2a168bdb,44333,belo horizonte,ES
+88aae577,0023d36f,41828,curitiba,RS
+816559ad,392d3e07,70526,rio de janeiro,RS
+059f82b6,fcf19005,55362,belo horizonte,PE
+9c02a547,c1906abc,54997,porto alegre,GO
+3a5e6683,837e3306,51341,porto alegre,ES
+aa490be2,7b42c7d3,20073,porto alegre,ES
+13b65d92,b0eab76a,15549,sao paulo,SC
+1176d8ce,08162311,84795,curitiba,ES
+eebf6f73,49d53699,57920,belo horizonte,ES
+6ab56bce,54c7740c,86326,curitiba,PE
+9510aa47,0f6c2e56,76515,sao paulo,RJ
+7c385d14,71253aec,21316,belo horizonte,PE
+32bb7484,00739a5f,27183,belo horizonte,RJ
+a59a6ab6,b9fef0c2,94860,rio de janeiro,PE
+c3209f85,f3207595,25624,curitiba,ES
+05848530,4abbeb97,63515,curitiba,PE
+6862c1a5,7b119224,86781,rio de janeiro,ES
+65b8c282,2a975cce,47705,porto alegre,ES
+d68eb223,cb78db66,90326,sao paulo,RS
+15a3d4a6,7cbe0ff8,27756,curitiba,SP
+38a01cb3,93f83889,61390,rio de janeiro,RJ
+bf409648,8a7938a2,69369,belo horizonte,BA
+515168ea,8dbd7be0,71821,rio de janeiro,GO
+be138638,7391747c,10589,porto alegre,GO
+1f701704,edf02380,15116,sao paulo,PE
+b63009f7,936e79e5,74181,porto alegre,SP
+adec2112,0228ee53,45786,belo horizonte,SC
+54d86e06,aab0ee30,95686,belo horizonte,BA
+d0747338,697ed355,77425,belo horizonte,GO
+6f49a73b,53edd424,31286,belo horizonte,MG
+ce128599,7e8e7aab,16994,rio de janeiro,PR
+4f7c7ce0,ece5d1e1,91198,belo horizonte,MG
+6623b10e,5a8f8881,27639,belo horizonte,SC
+12a344ed,878fe942,18205,rio de janeiro,BA
+4a9f66e1,2a8bb4a2,57677,belo horizonte,GO
+6f4b50fc,50539194,33930,porto alegre,PE
+967a66e5,0820da0b,74313,porto alegre,PR
+72b2a112,0b9d2d0a,94851,curitiba,RJ
+816954b9,f3e6e151,93509,porto alegre,GO
+515f1b41,d7ac9429,19316,sao paulo,GO
+3897f577,f581c021,28304,sao paulo,SC
+f6f4d493,120f2464,97058,sao paulo,GO
+89270cad,a3dc05ae,88876,rio de janeiro,BA
+eea5483f,3aa6fc26,86366,porto alegre,SP
+c023d722,9e8d8bd4,14403,sao paulo,BA
+4492e45b,b7aabb2a,81052,curitiba,RJ
+bdc57fee,819309cf,85627,rio de janeiro,SP
+805ef86e,ddc6b992,74495,curitiba,GO
+eab2249a,b0b64b0e,32932,porto alegre,GO
+55b5d1c4,7d4b68f1,97090,belo horizonte,PR
+78b69779,1ff970b1,37701,curitiba,GO
+7514857e,a0d88d80,4385,belo horizonte,ES
+c43ec3d1,fdfbdc81,58241,rio de janeiro,RJ
+0ced229d,c91f05fc,11367,curitiba,RS
+7e9cfd08,fc9b179b,66030,curitiba,PE
+d2b392e8,8f855821,47505,rio de janeiro,PR
+7ec3c39b,411499d6,34332,rio de janeiro,MG
+6218e73c,2754275e,86178,sao paulo,SP
+ee3a8fbd,c45c4481,77325,porto alegre,RS
+f2bee59a,6209f72d,36268,curitiba,PE
+361b3b71,027c8cbe,87486,curitiba,GO
+69263cf2,eb038ddf,26563,rio de janeiro,BA
+8d29719e,ae80ad7e,37404,rio de janeiro,ES
+1f3240c3,12a88411,56182,porto alegre,SP
+a8c3f871,987a0ba5,33991,rio de janeiro,SP
+dc165cc1,ec5eb3f4,48663,belo horizonte,SP
+fd600907,fe555b16,66886,belo horizonte,RJ
+99e154c4,c852fb7e,84848,belo horizonte,SP
+421553d2,4433716f,25127,belo horizonte,PR
+c54d3145,9e512561,58692,porto alegre,PE
+9f67c084,00df7db0,95389,curitiba,BA
+276e4abc,eccec7fb,38500,belo horizonte,PR
+5dc670b1,0b57fec4,34785,rio de janeiro,PR
+dd12c550,7f445656,85146,belo horizonte,ES
+19f4942a,0dc99792,90126,porto alegre,BA
+d8e03b62,6fbcac2d,95979,rio de janeiro,ES
+d21f9965,f7310ad2,48997,belo horizonte,SP
+d7ab6e9d,4eb6fc35,8170,curitiba,SP
+64916578,f24a8598,14303,rio de janeiro,PR
+b55d599f,aacdbef1,72743,rio de janeiro,PR
+7e7a2ed1,aeca9a34,78852,curitiba,SP
+231e3697,6330a002,36187,rio de janeiro,SC
+eda2c581,7aef04e9,66034,belo horizonte,PE
+ba24cfa5,c84316b8,72776,rio de janeiro,RJ
+50137e5f,4203285d,2893,belo horizonte,RS
+1c9de4b0,c0bd2d7a,14753,curitiba,GO
+ae9849ad,9ee2a21a,39090,sao paulo,MG
+30da6b86,6451a3e2,65922,curitiba,BA
+e1a23102,9763a75c,77768,belo horizonte,ES
+1e072b5e,5869b5f3,60412,porto alegre,BA
+3865d7eb,a505e983,57030,curitiba,SP
+2000743e,92889030,18509,porto alegre,RS
+44da03d4,d5a36336,69653,porto alegre,MG
+a2d7f1f7,d7f53cfc,37929,belo horizonte,PR
+94360c63,a9cd964d,49291,belo horizonte,PR
+668b3023,bd8435ff,5042,sao paulo,ES
+8218ff34,2fddb269,63574,rio de janeiro,PE
+8e20912d,d54bdef7,38201,curitiba,GO
+bda607b1,5bcea46c,93282,belo horizonte,PE
+61875386,a5cfe571,15016,curitiba,RS
+bf781fff,badb2c36,26022,porto alegre,PE
+93d5a0b4,539f3f3c,28938,rio de janeiro,ES
+0e482c0d,431e4ae1,44678,sao paulo,MG
+dbe4b0ee,5c0548f9,62720,curitiba,MG
+ceb297b0,e2d08319,57805,rio de janeiro,MG
+ddb016a3,c92b840b,75323,sao paulo,PR
+f8bc830f,fc1e01f7,2986,curitiba,SC
+f797d9fd,2e0002be,77478,rio de janeiro,RS
+b1bbaeb5,538e192b,83994,belo horizonte,GO
+344c695b,67d64ec8,13161,curitiba,RS
+44c7a796,b2cf4199,21689,rio de janeiro,RS
+acaf54d7,f8abff65,95699,sao paulo,PE
+f94aa647,d550a171,61924,rio de janeiro,RJ
+e54fe855,86e7cc0b,75308,belo horizonte,RS
+d9ac343c,19b6020a,64745,curitiba,ES
+ff72ab26,4638236d,2211,curitiba,RJ
+06c4d7b4,54202413,1229,curitiba,SC
+a7ecf0fa,036c8f6d,49542,belo horizonte,ES
+42f3f2ee,85635201,15345,sao paulo,RS
+9096fb94,5e5ec420,32819,curitiba,BA
+71bb917e,6800cfee,48779,sao paulo,PR
+0863e424,648116e1,83421,rio de janeiro,PE
+569e86f7,9c95b055,93244,sao paulo,SP
+307752ef,6e07a091,66584,sao paulo,GO
+9a7ee347,7f0e0fa1,20950,curitiba,GO
+e04495b8,f4fe5f2d,16173,porto alegre,ES
+a540980d,7e20890c,59032,porto alegre,GO
+09d00d3e,8203f5ec,29036,belo horizonte,RJ
+f1c8b903,75dc6a71,72356,belo horizonte,MG
+e6b2883d,8a9c86cd,15292,porto alegre,BA
+1ade2420,388b5aec,4052,rio de janeiro,SP
+856702ef,f75e79ea,45377,curitiba,GO
+c5907caa,e842758e,90317,curitiba,GO
+434e0c10,6b398218,68838,rio de janeiro,ES
+5f0470be,cf92eccc,68819,rio de janeiro,RS
+4e04c814,87d24783,16620,porto alegre,PR
+f5518e60,fd796e80,31461,belo horizonte,PE
+cf0d9541,363a72bb,21750,rio de janeiro,PE
+6c7cf1da,951f6393,99426,belo horizonte,PE
+e85d78b7,579b5200,89719,sao paulo,PE
+bde61a95,33b8593d,10472,curitiba,SC
+32653e0b,08239f41,70263,porto alegre,SP
+57ee4f2e,01d9c45d,58602,curitiba,RS
+0cd44350,74c94340,26523,porto alegre,PR
+f1a01ce3,81c59bf1,31766,sao paulo,PR
+0ab322b0,8c38be2e,67060,curitiba,ES
+b991ca7f,1459a598,10079,sao paulo,BA
+a57baeb6,50dce4d1,9399,porto alegre,GO
+2b9b5b2d,02bed8c3,61726,rio de janeiro,GO
+dacdf4ff,2bbda2c0,93906,curitiba,RS
+9122aaac,8ee95dec,17532,sao paulo,SC
+1a98e7a9,9ddfdae0,83357,curitiba,RJ
+7391da7d,0a519a8f,44162,curitiba,MG
+4645d2d6,81d9e966,4749,curitiba,RS
+3300bd0a,f47f45be,12353,belo horizonte,RJ
+dae44577,3b36c761,29477,sao paulo,MG
+61b4157f,186cb5f7,25570,sao paulo,PR
+c1b7e241,970d7a75,87373,curitiba,SC
+fae544ba,2acacb58,12437,rio de janeiro,RS
+0d15d63a,d58cb400,39104,curitiba,PE
+6441d15b,159b5479,64370,belo horizonte,PR
+cc792940,0a2f86f3,5551,porto alegre,RJ
+28ef55fe,cbdabeec,69359,belo horizonte,RS
+2f534edf,20948f24,55880,rio de janeiro,RS
+fa24ac92,535f8993,13916,curitiba,ES
+6799f5b7,02e1fd0f,81703,sao paulo,SP
+66e928cc,b9db207e,42445,curitiba,PR
+7f7db08d,abcc22ef,48636,rio de janeiro,RS
+ac1f10f9,257ebdac,74927,sao paulo,GO
+61795a09,e7c8f395,79194,belo horizonte,GO
+81f2aff9,37291d2b,30685,porto alegre,SP
+f678bf6c,96268ec5,52134,porto alegre,RS
+d43a593f,5e5ed893,89916,curitiba,PE
+6a0b1a7e,04d62575,95455,belo horizonte,SP
+670980e8,b92f6b30,68847,rio de janeiro,SP
+609d545f,cc3749a4,40993,porto alegre,RJ
+87b28ead,da15c5eb,45333,belo horizonte,RJ
+0bd52709,d1d68295,59865,curitiba,BA
+06ba8c89,c4978adf,80096,sao paulo,PR
+dc1ed1c5,52d72e4e,50756,curitiba,MG
+bc8ae46b,8085a85d,62192,curitiba,SP
+f4cc142a,802a2062,61686,belo horizonte,RJ
+d5a40f3b,44f926c1,49733,porto alegre,SC
+deff3865,7b447af7,26993,belo horizonte,BA
+e603f3fe,afdefddf,31492,sao paulo,RS
+a893a1ab,6664963a,21981,belo horizonte,PR
+06635de5,69f858a3,25143,rio de janeiro,RS
+dbb3afc2,1f4a046d,78603,curitiba,BA
+40dab02d,0de7680a,90452,porto alegre,ES
+188a43d1,5f016f66,61277,sao paulo,GO
+8f87532c,1e0c2f92,50990,curitiba,PR
+274c6bf9,8477002e,63888,belo horizonte,GO
+cc68affa,eb1a9a65,70351,rio de janeiro,SC
+1a9d67b4,dc7b9f1d,98372,belo horizonte,RS
+13e9a47f,d7168421,50999,curitiba,ES
+24a439ad,5f6fd1e9,71309,sao paulo,SC
+e8df3287,f05ffd32,13446,porto alegre,MG
+873e2d38,5ecabc1b,31733,curitiba,RS
+633cca30,b97e167c,77000,sao paulo,BA
+fa7bdbd0,c542fba5,49632,curitiba,ES
+41f8ba6b,aa69c948,22576,rio de janeiro,PR
+99ae03f8,9044a1d6,4320,belo horizonte,ES
+3b77c2e5,126888af,11750,porto alegre,RS
+3d8bfc3a,b55faa31,54463,sao paulo,RJ
+384cc408,23a8f073,27572,porto alegre,SC
+ff529ab7,b64db2a7,18948,porto alegre,ES
+e93e30a3,8746771c,39826,porto alegre,GO
+d16aa821,0217d077,90051,sao paulo,SC
+f287cf5f,050c6518,28867,sao paulo,GO
+39153c62,2f312591,61231,porto alegre,ES
+7f78753f,c7412ba0,67262,belo horizonte,RJ
+ce5fc2ff,5f491949,92356,curitiba,SC
+c25d05c1,1f33fe48,73233,porto alegre,BA
+4f69f353,27d4bd82,45678,rio de janeiro,SC
+6e49f691,18786730,13963,porto alegre,PR
+9f7b7361,0925b3b1,65360,sao paulo,ES
+08d6a75c,3a9a88c7,50434,curitiba,MG
+728c8195,2da2fffe,67617,rio de janeiro,RS
+1ed24bfe,6070d7d6,21269,curitiba,SP
+e681663e,a33ca652,77312,curitiba,PE
+0401a8a9,f8664bce,98352,rio de janeiro,MG
+c1198b00,8f3a7cfe,80732,porto alegre,GO
+1fe87ee1,5b1336d4,82494,porto alegre,BA
+1b06ffd4,9447f8c9,89905,porto alegre,BA
+b6f01b27,dfec890e,78225,belo horizonte,PE
+10fa28fc,5c772842,83867,porto alegre,RJ
+0ba1f4ec,ec678c40,38528,rio de janeiro,PR
+8daae6ca,ed16a1e0,79972,belo horizonte,RS
+552b84a4,78d3e68e,66602,porto alegre,MG
+824cd6e3,891150fe,97261,belo horizonte,SP
+f31336f4,ed7482f4,91748,rio de janeiro,SC
+880ef833,1319e496,34332,porto alegre,PE
+4f13421e,69c5aeac,91937,sao paulo,RJ
+f67e594a,c2c44e66,79929,rio de janeiro,BA
+aa48843d,b913f3e1,70206,curitiba,SP
+97393479,7b071de9,92137,curitiba,BA
+eae8656b,aa61d3ee,3251,rio de janeiro,ES
+0aa5864a,2af4428f,46717,curitiba,PE
+c98bd7aa,0b2d5a24,28027,rio de janeiro,RJ
+cf9d91f8,84b66fe7,98382,sao paulo,SC
+34b8f09e,34fac4ac,87551,rio de janeiro,GO
+883ef10c,7025fe2f,10583,porto alegre,RJ
+4a1b4ab9,8164c2df,51387,porto alegre,RS
+6b68cf06,ae7984d7,24104,belo horizonte,SC
+6568efef,ca034d00,13224,curitiba,MG
+fd77f453,6ba1bbd0,61624,curitiba,RJ
+c93e3076,eed2cde6,57058,rio de janeiro,SC
+1d74644b,321dc33d,97372,curitiba,MG
+7efe45dd,3dd0260f,30299,porto alegre,RJ
+785ddb88,dca4c6c8,79572,sao paulo,SP
+f1ca511e,110d0e23,86469,rio de janeiro,GO
+848f9b35,9f923573,78928,curitiba,SP
+8ea00f8c,99aaa08d,74474,porto alegre,RS
+f594df22,f9dc8335,5141,belo horizonte,SC
+28bbf78e,bb55c353,24350,curitiba,MG
+ed84ea47,9889bbe0,76082,sao paulo,ES
+c4f1f011,1307dc3c,71871,sao paulo,RJ
+e6bbb09c,f6485355,6077,curitiba,ES
+996d51db,5a5c24be,47015,curitiba,RJ
+1e6247ca,503120c7,72147,porto alegre,RS
+2a0ce7f2,e2a794dc,60180,curitiba,ES
+e42a1ff2,879e6bbb,41857,belo horizonte,MG
+d2253e2a,e1813cda,60840,porto alegre,PR
+410364b9,210471a4,60902,rio de janeiro,SP
+9d79dd04,1bb1bc7c,6577,belo horizonte,MG
+f0cc03e8,99b3ce67,21002,porto alegre,BA
+60514cbc,d3764cea,51711,porto alegre,PE
+24662480,5bed8e24,40451,sao paulo,RS
+0b2adff9,71d2f42f,50103,porto alegre,GO
+2f27b2a3,6dae6cd6,29647,belo horizonte,RJ
+f69bfe7f,22a44c05,35831,curitiba,MG
+8a403717,4810cba8,97498,belo horizonte,ES
+72301069,ee5cc5cb,96119,rio de janeiro,PE
+0e20b5ea,2bdb924e,67830,porto alegre,PR
+9e3a4982,05313edf,81632,porto alegre,BA
+af0acaec,ed111c07,37833,porto alegre,ES
+6076fde2,f1afc02a,93864,porto alegre,SP
+0cfe46f4,dfcc679c,25398,sao paulo,PR
+ac297779,ff70563d,62554,sao paulo,PE
+a92633f6,2ede9c6c,51755,curitiba,SC
+1845bf35,7ae7637e,18706,porto alegre,SC
+7ff04e47,6eca5498,23340,rio de janeiro,PE
+eaf29bdd,7cbc8038,65994,curitiba,SC
+ad905151,f559a0ab,64884,porto alegre,RS
+5bd5754d,38f0d336,85361,sao paulo,MG
+6292d329,02f26422,18482,rio de janeiro,RJ
+b2201a7b,2cdbe667,55225,curitiba,MG
+6e7e9401,a52a8592,59849,rio de janeiro,BA
+0a75c999,e0ada4f4,75854,porto alegre,MG
+bbef1f16,ec7b034f,42256,belo horizonte,MG
+f7ebfb38,41bfe0fe,82110,rio de janeiro,SP
+f4b507a9,f453b278,15650,rio de janeiro,RJ
+8d002618,b89a84a2,47118,sao paulo,MG
+2f0eac55,dfdd82e5,29930,porto alegre,RJ
+1bdddd91,fc020df5,86707,rio de janeiro,GO
+c7cab217,36768c12,12801,porto alegre,SC
+41232bc1,d92afb94,52360,sao paulo,ES
+17cc0301,1022b3a9,88908,porto alegre,SP
+b11a4473,e24202fb,17559,sao paulo,SC
+eeea22e7,21512c46,33334,sao paulo,RJ
+9083c8e1,e6b12a6f,14288,curitiba,SC
+cea8824d,d2df6b35,23398,porto alegre,MG
+a3717fd7,528cdf34,77230,belo horizonte,ES
+5f953637,d5d96c5b,13191,curitiba,MG
+e15a24e3,c98835da,19051,sao paulo,BA
+7c589e6a,ec3b1eb9,62715,belo horizonte,MG
+a3937cbc,4cdf6e89,11737,rio de janeiro,ES
+66c50a25,f01d7d38,66140,rio de janeiro,PR
+ef538015,26ab39ec,26251,curitiba,GO
+0db0f125,dd058ade,51975,belo horizonte,RJ
+1f9093a8,fce13eea,6147,porto alegre,GO
+16e0bd0d,b5f43444,51508,belo horizonte,BA
+5dcd64e7,b0484eb3,53224,curitiba,GO
+9b5b521e,df1e3181,20643,porto alegre,SC
+47221d4a,39bf7f6b,39967,porto alegre,PE
+c52c6f6f,7fc62c55,99850,rio de janeiro,SP
+605c1373,fc99a2b2,41733,belo horizonte,ES
+61e37970,f9f2000d,85003,porto alegre,SP
+d6aabdb9,ae7e86f6,35808,curitiba,ES
+5a9a4a1d,aaf5752e,68288,rio de janeiro,RJ
+d538291f,507f54f4,59959,porto alegre,GO
+bdbda297,8e661579,2849,belo horizonte,RJ
+81bfe97a,40c1b469,69178,rio de janeiro,MG
+392f3a83,5654a8f5,68136,belo horizonte,MG
+45b8230c,c14d0517,61740,belo horizonte,SP
+bbbc0ea6,f8f59368,87322,belo horizonte,RS
+7dde466c,6d97a482,45565,rio de janeiro,RS
+4e5cc90f,904e7f37,21183,porto alegre,PE
+04039d7d,99777b4e,2132,sao paulo,RS
+389de295,349f7934,39259,porto alegre,BA
+de2dafa8,4660e210,97612,rio de janeiro,SC
+ec0fa83a,8d277103,64668,sao paulo,SC
+5aa547f1,ebdf289d,39563,sao paulo,MG
+a3f570bf,ab63d451,93227,sao paulo,RS
+ef668832,1188d562,11931,curitiba,PE
+03e49caa,38bd6924,74169,rio de janeiro,ES
+729a7525,139ba457,51639,curitiba,MG
+007a4911,57f0a2bf,59901,sao paulo,RJ
+a452d655,f48e3aa0,2044,curitiba,RS
+5b471bc7,967ccf6f,47691,curitiba,MG
+e06a324a,6ffac6a8,25363,rio de janeiro,RS
+85fb0b63,541f4c29,47694,belo horizonte,BA
+2be19b22,3f999c8c,2582,curitiba,PE
+e1795994,5a8b31ad,80910,curitiba,SP
+3afd5d52,a8d5c91e,67844,sao paulo,PR
+63494902,031bcb58,22301,sao paulo,PE
+5106a25c,ef459265,75329,sao paulo,RS
+459fdcc2,433da68b,2620,porto alegre,RJ
+29704258,9cfcb2b2,63224,curitiba,RJ
+8877c8e6,101c0e05,57655,sao paulo,SP
+96db2848,47f2742e,96419,rio de janeiro,GO
+44569e60,743bf151,38534,porto alegre,RJ
+8d2e3b09,0f0cee7a,40390,belo horizonte,MG
+4ae0d1a5,af62b512,72629,curitiba,RJ
+13dc3095,04c59e1a,56856,curitiba,PR
+f38922ad,1fdee2fd,50252,rio de janeiro,SP
+2f591898,c7076b0e,56809,belo horizonte,MG
+c7b16684,1c19eeec,23259,belo horizonte,RS
+60ca5a45,dd67bec7,21655,porto alegre,PE
+f427a492,b241258a,34005,curitiba,SP
+1065a178,b6f808ed,32629,sao paulo,PR
+6cfb8f0f,e65a561f,24610,rio de janeiro,SC
+fb6d3b86,dc63750e,58184,rio de janeiro,PR
+70f27810,2605fa7a,22602,rio de janeiro,ES
+18fa8289,630711c4,86945,rio de janeiro,ES
+3248040d,0621f2c0,12110,sao paulo,SC
+c672a84f,dbc86737,7073,sao paulo,BA
+9bce61cc,dec56266,81818,porto alegre,RJ
+60bdc189,75d6030d,11195,curitiba,PE
+fc481fc4,0fa9c2e5,2537,sao paulo,GO
+76976e7b,0b3d8527,18138,porto alegre,GO
+9ee4cd1d,09a023b7,45328,belo horizonte,PE
+cdea702e,dc059f52,47202,curitiba,PR
+3a2fe7b2,c13c49ac,41164,sao paulo,SC
+ef68deeb,0d28eef1,90743,belo horizonte,SC
+4d7d894c,001d22dd,55659,porto alegre,RS
+f99b5892,1e5a626f,87155,sao paulo,SP
+5c0bad2d,f3df21c3,50692,sao paulo,MG
+975e2188,ca6e6714,25845,belo horizonte,ES
+02d2aaa2,69b6cb4f,90846,sao paulo,GO
+17989028,5a67ca66,31562,rio de janeiro,RJ
+80f51c34,0bfde921,29036,sao paulo,MG
+a969c7f0,3c9907eb,61752,curitiba,PR
+817867cf,70aca563,75233,belo horizonte,RS
+4e26cfcb,dc32e857,84049,curitiba,MG
+bc6be732,856ad215,69681,porto alegre,RS
+7c3d1144,b932d341,28818,curitiba,GO
+18cb20e2,eb43fce8,31544,rio de janeiro,GO
+a271c51b,1acc3f52,63532,rio de janeiro,RJ
+859eed0e,faf313da,79636,curitiba,SC
+eed52727,59c5b164,58705,porto alegre,PR
+96ed8729,37ac9af9,21104,sao paulo,BA
+0dc60df3,bfccf2e4,70603,rio de janeiro,PE
+a5c365c5,72300416,60025,curitiba,RJ
+749b8eff,10e41d35,97264,curitiba,GO
+5f9eaa75,fc6f7e57,33317,curitiba,SP
+8128f3de,94359901,32416,sao paulo,SC
+f4979ecc,e1240abf,43012,belo horizonte,PE
+dc3739a9,d4df7e2d,69045,porto alegre,SP
+abfec41d,148ffcc9,22400,belo horizonte,RJ
+c27944b2,c63372ad,49270,porto alegre,MG
+d731661d,7259cdc3,73069,porto alegre,BA
+d4741924,96d429a3,50833,curitiba,RS
+cb041bd5,dea2175d,64644,rio de janeiro,PE
+eabfd400,020e8905,81206,curitiba,PE
+8f5fba63,fb0fc2a6,70468,sao paulo,RJ
+5195a175,47016b8d,60473,porto alegre,PE
+4dfee4d7,4e557bef,46809,rio de janeiro,RS
+9bd559d3,a1ea4e7f,39328,porto alegre,RS
+c271acd6,944a4765,37784,porto alegre,SP
+662073fd,d203ed30,24723,curitiba,MG
+ab53bdc3,eefc64f6,61646,rio de janeiro,RS
+799b1085,41516bbc,67255,rio de janeiro,BA
+8b2a0e26,86b75b98,1074,porto alegre,PE
+aee918cc,d0bf2371,27498,rio de janeiro,SP
