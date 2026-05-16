@@ -6,3 +6,4 @@ prophet
 scikit-learn
 openpyxl
 xlsxwriter
+statsmodels

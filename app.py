@@ -35,31 +35,44 @@ st.markdown("""
     footer {visibility: hidden;}
     .stDeployButton {display:none;}
 
-    /* Sidebar styling */
-    section[data-testid="stSidebar"] {
-        background-color: #F8F7FF;
-        border-right: 1px solid #e0e0e0;
+    /* Sidebar glassmorphism styling */
+    [data-testid="stSidebar"] {
+        background: rgba(17, 17, 17, 0.7) !important;
+        backdrop-filter: blur(15px) !important;
+        -webkit-backdrop-filter: blur(15px) !important;
+        border-right: 1px solid rgba(255, 255, 255, 0.1);
     }
     
-    /* Main content top border */
+    /* Main content styling */
     .main .block-container {
-        border-top: 3px solid #534AB7;
         padding-top: 2rem;
+        background-color: #000000;
     }
     
-    /* Custom styling for KPI metrics with accent border */
+    /* Custom styling for KPI metrics */
     div[data-testid="metric-container"] {
-        background-color: #ffffff;
-        border: 1px solid #e0e0e0;
-        border-left: 5px solid #534AB7 !important;
+        background-color: #111111;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-bottom: 3px solid #9c27b0 !important;
         padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        border-radius: 15px;
+        transition: transform 0.3s ease;
+    }
+    
+    div[data-testid="metric-container"]:hover {
+        transform: translateY(-5px);
+        border-bottom: 3px solid #FFEB3B !important;
     }
 
-    /* Improved dataframe font size */
+    /* Improved dataframe and text */
     [data-testid="stDataFrame"] {
         font-size: 0.9rem;
+    }
+    h1, h2, h3 {
+        color: #FFFFFF !important;
+    }
+    .stMarkdown {
+        color: #CCCCCC;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -473,10 +486,10 @@ if page == "Overview":
     rev_trend = df_filtered.drop_duplicates(subset=['order_id', 'payment_sequential']).groupby('order_month')['payment_value'].sum().reset_index()
     rev_trend['rolling_avg'] = rev_trend['payment_value'].rolling(window=3).mean()
     
-    fig1 = px.line(rev_trend, x='order_month', y='payment_value', title='Monthly Revenue Trend')
-    fig1.add_scatter(x=rev_trend['order_month'], y=rev_trend['rolling_avg'], name='3-Month Rolling Avg', line=dict(dash='dash', color='#D85A30'))
-    fig1.update_traces(line_color='#534AB7', selector=dict(type='scatter', name='payment_value'))
-    fig1.update_layout(xaxis_title="Month", yaxis_title="Revenue (R$)", plot_bgcolor='rgba(0,0,0,0)', showlegend=True)
+    fig1 = px.line(rev_trend, x='order_month', y='payment_value', title='Monthly Revenue Trend', template='plotly_dark')
+    fig1.add_scatter(x=rev_trend['order_month'], y=rev_trend['rolling_avg'], name='3-Month Rolling Avg', line=dict(dash='dash', color='#FFEB3B'))
+    fig1.update_traces(line_color='#9c27b0', selector=dict(type='scatter', name='payment_value'))
+    fig1.update_layout(xaxis_title="Month", yaxis_title="Revenue (R$)", plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', showlegend=True)
     fig1.update_xaxes(showgrid=False)
     fig1.update_yaxes(showgrid=False)
     st.plotly_chart(fig1, use_container_width=True, config=plotly_config)
@@ -491,8 +504,8 @@ if page == "Overview":
         
         fig2 = make_subplots(specs=[[{"secondary_y": True}]])
         fig2.add_trace(go.Bar(x=vol_rev['order_month'], y=vol_rev['order_id'], name="Order Volume", marker_color='#1D9E75'), secondary_y=False)
-        fig2.add_trace(go.Scatter(x=vol_rev['order_month'], y=vol_rev['payment_value'], name="Revenue", line=dict(color='#534AB7')), secondary_y=True)
-        fig2.update_layout(title_text="Order Volume vs Revenue", plot_bgcolor='rgba(0,0,0,0)', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1))
+        fig2.add_trace(go.Scatter(x=vol_rev['order_month'], y=vol_rev['payment_value'], name="Revenue", line=dict(color='#9c27b0')), secondary_y=True)
+        fig2.update_layout(title_text="Order Volume vs Revenue", template='plotly_dark', plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1))
         fig2.update_xaxes(showgrid=False)
         fig2.update_yaxes(showgrid=False, secondary_y=False)
         fig2.update_yaxes(showgrid=False, secondary_y=True)
@@ -504,8 +517,8 @@ if page == "Overview":
         target_payments = ['credit_card', 'boleto', 'voucher', 'debit_card']
         pay_type = df_filtered[df_filtered['payment_type'].isin(target_payments)].drop_duplicates(subset=['order_id', 'payment_sequential']).groupby('payment_type')['payment_value'].sum().sort_values(ascending=False).reset_index()
         
-        fig3 = px.bar(pay_type, x='payment_value', y='payment_type', orientation='h', title='Revenue by Payment Type', color_discrete_sequence=['#534AB7'])
-        fig3.update_layout(xaxis_title="Revenue (R$)", yaxis_title="Payment Type", plot_bgcolor='rgba(0,0,0,0)', yaxis={'categoryorder':'total ascending'})
+        fig3 = px.bar(pay_type, x='payment_value', y='payment_type', orientation='h', title='Revenue by Payment Type', color_discrete_sequence=['#9c27b0'], template='plotly_dark')
+        fig3.update_layout(xaxis_title="Revenue (R$)", yaxis_title="Payment Type", plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', yaxis={'categoryorder':'total ascending'})
         fig3.update_xaxes(showgrid=False)
         fig3.update_yaxes(showgrid=False)
         st.plotly_chart(fig3, use_container_width=True, config=plotly_config)
@@ -516,8 +529,8 @@ if page == "Overview":
     with col_c:
         # 4. Top 10 product categories by revenue
         cat_rev = df_filtered.drop_duplicates(subset=['order_id', 'order_item_id']).groupby('product_category_name_english')['price'].sum().sort_values(ascending=False).head(10).reset_index()
-        fig4 = px.bar(cat_rev, x='price', y='product_category_name_english', orientation='h', title='Top 10 Categories by Revenue', color='price', color_continuous_scale=['#534AB7', '#1D9E75'])
-        fig4.update_layout(xaxis_title="Revenue (R$)", yaxis_title="Category", plot_bgcolor='rgba(0,0,0,0)', yaxis={'categoryorder':'total ascending'}, coloraxis_showscale=False)
+        fig4 = px.bar(cat_rev, x='price', y='product_category_name_english', orientation='h', title='Top 10 Categories by Revenue', color='price', color_continuous_scale=['#9c27b0', '#FFEB3B'], template='plotly_dark')
+        fig4.update_layout(xaxis_title="Revenue (R$)", yaxis_title="Category", plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', yaxis={'categoryorder':'total ascending'}, coloraxis_showscale=False)
         fig4.update_xaxes(showgrid=False)
         fig4.update_yaxes(showgrid=False)
         st.plotly_chart(fig4, use_container_width=True, config=plotly_config)
@@ -572,7 +585,7 @@ if page == "Overview":
                     x=actual_daily['ds'], 
                     y=actual_daily['y'], 
                     name='Historical Actuals', 
-                    line=dict(color='#534AB7', width=2)
+                    line=dict(color='#9c27b0', width=2)
                 ))
                 
                 # Predicted Data
@@ -580,14 +593,16 @@ if page == "Overview":
                     x=pred_only['ds'], 
                     y=pred_only['yhat'], 
                     name='Future Forecast', 
-                    line=dict(color='#D85A30', width=2, dash='dash')
+                    line=dict(color='#FFEB3B', width=2, dash='dash')
                 ))
                 
                 fig_fc.update_layout(
                     title=f'{horizon}-Day Revenue Forecast',
                     xaxis_title='Date',
                     yaxis_title='Revenue (R$)',
+                    template='plotly_dark',
                     plot_bgcolor='rgba(0,0,0,0)',
+                    paper_bgcolor='rgba(0,0,0,0)',
                     legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
                 )
                 st.plotly_chart(fig_fc, use_container_width=True, config=plotly_config)
@@ -639,7 +654,7 @@ elif page == "Product Intelligence":
             hover_name='product_category_name_english',
             title='Category Strategic Positioning (BCG-style Matrix)',
             labels={'order_count': 'Order Volume', 'avg_review': 'Avg Review Score'},
-            color_discrete_sequence=['#534AB7']
+            color_discrete_sequence=['#9c27b0']
         )
         
         # Add quadrant lines
@@ -684,9 +699,10 @@ elif page == "Product Intelligence":
         title='Price vs. Review Score Correlation',
         labels={'price': 'Price (R$)', 'review_score': 'Review Score'},
         opacity=0.6,
-        color_discrete_sequence=px.colors.qualitative.Prism
+        color_discrete_sequence=px.colors.qualitative.Prism,
+        template='plotly_dark'
     )
-    fig_price_review.update_layout(plot_bgcolor='rgba(0,0,0,0)')
+    fig_price_review.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_price_review, use_container_width=True, config=plotly_config)
     st.caption("Price vs. Review: The trendline illustrates whether premium pricing impacts overall customer satisfaction scores.")
 
@@ -710,7 +726,7 @@ elif page == "Product Intelligence":
     overall_avg_review = df_filtered['review_score'].mean()
     
     def color_review(val):
-        color = '#1D9E75' if val >= overall_avg_review else '#D85A30'
+        color = '#00E676' if val >= overall_avg_review else '#FF5252'
         return f'color: {color}'
 
     st.dataframe(
@@ -799,9 +815,11 @@ elif page == "Customer Intelligence":
         path=['Segment'], 
         values='Customer Count',
         color='Avg Monetary',
-        color_continuous_scale='RdYlGn',
+        color_continuous_scale=['#111111', '#9c27b0'],
+        template='plotly_dark',
         title='Customer Segment Distribution & Value'
     )
+    fig_rfm.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_rfm, use_container_width=True, config=plotly_config)
     
     # Summary Table
@@ -826,9 +844,10 @@ elif page == "Customer Intelligence":
         y='order_id', 
         title='Orders by State (Brazil)',
         labels={'customer_state': 'State', 'order_id': 'Total Orders'},
-        color_discrete_sequence=['#534AB7']
+        color_discrete_sequence=['#9c27b0'],
+        template='plotly_dark'
     )
-    fig_state.update_layout(plot_bgcolor='rgba(0,0,0,0)')
+    fig_state.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_state, use_container_width=True, config=plotly_config)
     st.caption("Geographic insight: Customer base is heavily concentrated in the Southeast region (SP, RJ, MG).")
 
@@ -845,10 +864,11 @@ elif page == "Customer Intelligence":
         x='Monetary', 
         nbins=100, 
         title='Distribution of Total Spend per Customer',
-        color_discrete_sequence=['#1D9E75']
+        color_discrete_sequence=['#9c27b0'],
+        template='plotly_dark'
     )
-    fig_clv.add_vline(x=p80, line_dash="dash", line_color="#D85A30", annotation_text="80th Percentile")
-    fig_clv.update_layout(plot_bgcolor='rgba(0,0,0,0)', xaxis_title="Lifetime Spend (R$)", yaxis_title="Customer Count")
+    fig_clv.add_vline(x=p80, line_dash="dash", line_color="#FFEB3B", annotation_text="80th Percentile")
+    fig_clv.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', xaxis_title="Lifetime Spend (R$)", yaxis_title="Customer Count")
     st.plotly_chart(fig_clv, use_container_width=True, config=plotly_config)
     st.info(f"**Pareto Insight**: The top 20% of your customers generate **{top_20_pct_revenue:.1f}%** of your total revenue.")
 
@@ -870,8 +890,10 @@ elif page == "Customer Intelligence":
         hole=0.6,
         title='Review Score Distribution',
         color='Score',
-        color_discrete_map=color_map
+        color_discrete_map=color_map,
+        template='plotly_dark'
     )
+    fig_sentiment.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_sentiment, use_container_width=True, config=plotly_config)
 
     # Section 5 — Repeat buyer rate
@@ -892,8 +914,10 @@ elif page == "Customer Intelligence":
             values='Count', 
             names='Status', 
             title='Repeat vs. One-time Buyers',
-            color_discrete_sequence=['#534AB7', '#1D9E75']
+            color_discrete_sequence=['#9c27b0', '#FFEB3B'],
+            template='plotly_dark'
         )
+        fig_retention.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig_retention, use_container_width=True, config=plotly_config)
 elif page == "Operational Health":
     # Section 1 — On-time delivery rate
@@ -919,9 +943,9 @@ elif page == "Operational Health":
     
     # Monthly trend line of on-time rate
     monthly_ot = df_filtered.groupby('order_month')['is_late'].apply(lambda x: (1 - x.mean()) * 100).reset_index()
-    fig_ot_trend = px.line(monthly_ot, x='order_month', y='is_late', title='Monthly On-Time Delivery Trend')
-    fig_ot_trend.update_traces(line_color='#534AB7', line_width=3)
-    fig_ot_trend.update_layout(yaxis_title="On-Time Rate (%)", xaxis_title="Month", plot_bgcolor='rgba(0,0,0,0)', yaxis_range=[0, 105])
+    fig_ot_trend = px.line(monthly_ot, x='order_month', y='is_late', title='Monthly On-Time Delivery Trend', template='plotly_dark')
+    fig_ot_trend.update_traces(line_color='#9c27b0', line_width=3)
+    fig_ot_trend.update_layout(yaxis_title="On-Time Rate (%)", xaxis_title="Month", plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', yaxis_range=[0, 105])
     st.plotly_chart(fig_ot_trend, use_container_width=True, config=plotly_config)
 
     # Section 2 — Delivery time distribution
@@ -933,11 +957,11 @@ elif page == "Operational Health":
     p90_del = del_data['delivery_days'].quantile(0.9)
     avg_est = (df_filtered['order_estimated_delivery_date'] - df_filtered['order_purchase_timestamp']).dt.total_seconds().mean() / (24*3600)
     
-    fig_del_dist = px.histogram(del_data, x='delivery_days', title='Distribution of Days to Delivery', color_discrete_sequence=['#1D9E75'])
-    fig_del_dist.add_vline(x=median_del, line_dash="dash", line_color="#534AB7", annotation_text=f"Median: {median_del:.1f}d")
-    fig_del_dist.add_vline(x=p90_del, line_dash="dash", line_color="#D85A30", annotation_text=f"90th Pct: {p90_del:.1f}d")
+    fig_del_dist = px.histogram(del_data, x='delivery_days', title='Distribution of Days to Delivery', color_discrete_sequence=['#9c27b0'], template='plotly_dark')
+    fig_del_dist.add_vline(x=median_del, line_dash="dash", line_color="#FFEB3B", annotation_text=f"Median: {median_del:.1f}d")
+    fig_del_dist.add_vline(x=p90_del, line_dash="dash", line_color="#FF5252", annotation_text=f"90th Pct: {p90_del:.1f}d")
     fig_del_dist.add_vline(x=avg_est, line_dash="dash", line_color="gray", annotation_text=f"Avg Estimated: {avg_est:.1f}d")
-    fig_del_dist.update_layout(plot_bgcolor='rgba(0,0,0,0)', xaxis_title="Actual Days to Delivery", yaxis_title="Order Volume")
+    fig_del_dist.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', xaxis_title="Actual Days to Delivery", yaxis_title="Order Volume")
     st.plotly_chart(fig_del_dist, use_container_width=True, config=plotly_config)
 
     # Section 3 — Late orders by category
@@ -947,8 +971,8 @@ elif page == "Operational Health":
     late_cat = df_filtered.groupby('product_category_name_english')['is_late'].mean().sort_values(ascending=False).head(15).reset_index()
     late_cat['Late %'] = late_cat['is_late'] * 100
     
-    fig_late_cat = px.bar(late_cat, x='Late %', y='product_category_name_english', orientation='h', title='Top 15 Most Delayed Categories (%)', color_discrete_sequence=['#D85A30'])
-    fig_late_cat.update_layout(xaxis_title="Late Delivery Rate (%)", yaxis_title="Category", plot_bgcolor='rgba(0,0,0,0)', yaxis={'categoryorder':'total ascending'})
+    fig_late_cat = px.bar(late_cat, x='Late %', y='product_category_name_english', orientation='h', title='Top 15 Most Delayed Categories (%)', color_discrete_sequence=['#FF5252'], template='plotly_dark')
+    fig_late_cat.update_layout(xaxis_title="Late Delivery Rate (%)", yaxis_title="Category", plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)', yaxis={'categoryorder':'total ascending'})
     st.plotly_chart(fig_late_cat, use_container_width=True, config=plotly_config)
     st.caption("Supply Chain Insight: High delay rates in specific categories often point to bulkier items or overseas logistics bottlenecks.")
 
@@ -996,7 +1020,8 @@ elif page == "Operational Health":
     funnel_counts.columns = ['Stage', 'Order Count']
     funnel_counts['Stage'] = funnel_counts['Stage'].str.title()
     
-    fig_funnel = px.funnel(funnel_counts, x='Order Count', y='Stage', title='Order Progression Stages', color_discrete_sequence=['#534AB7'])
+    fig_funnel = px.funnel(funnel_counts, x='Order Count', y='Stage', title='Order Progression Stages', color_discrete_sequence=['#9c27b0'], template='plotly_dark')
+    fig_funnel.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_funnel, use_container_width=True, config=plotly_config)
 
     # Section 6 — Cancellation analysis
@@ -1006,8 +1031,8 @@ elif page == "Operational Health":
     cancelled_df = df_filtered[df_filtered['order_status'] == 'canceled']
     monthly_cancel = cancelled_df.groupby('order_month')['order_id'].nunique().reset_index()
     
-    fig_cancel = px.bar(monthly_cancel, x='order_month', y='order_id', title='Monthly Cancellations Volume', color_discrete_sequence=['#D85A30'])
-    fig_cancel.update_layout(xaxis_title="Month", yaxis_title="Cancelled Orders", plot_bgcolor='rgba(0,0,0,0)')
+    fig_cancel = px.bar(monthly_cancel, x='order_month', y='order_id', title='Monthly Cancellations Volume', color_discrete_sequence=['#FF5252'], template='plotly_dark')
+    fig_cancel.update_layout(xaxis_title="Month", yaxis_title="Cancelled Orders", plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_cancel, use_container_width=True, config=plotly_config)
     
     # Word frequency for cancellations
