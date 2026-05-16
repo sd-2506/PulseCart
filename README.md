@@ -1,92 +1,67 @@
 # PulseCart 🛒 | E-commerce Intelligence Platform
 
-PulseCart is a high-performance, multi-page analytics dashboard designed to transform raw e-commerce data into actionable business intelligence. Built using **Streamlit**, **Pandas**, and **Plotly**, it processes the Brazilian Olist dataset to provide insights across four key strategic pillars: Overview, Products, Customers, and Operations.
+PulseCart is a high-performance analytics dashboard designed to transform raw e-commerce data into actionable business intelligence. Developed using **Streamlit**, **Pandas**, and **Plotly**, it processes the Brazilian Olist dataset to provide strategic insights across four key pillars: Overview, Products, Customers, and Operations.
 
 ---
 
 ## 🌟 Key Features
 
 ### 1. Executive Overview
-- **Real-time KPIs**: Instant visibility into Total Orders, Revenue (R$), Average Order Value (AOV), and Customer Satisfaction.
-- **Dynamic Trend Analysis**: Monthly revenue growth charts with 3-month rolling averages.
-- **Predictive Forecasting**: 30 to 180-day revenue projections powered by **Facebook Prophet** (Time Series Analysis).
-- **Smart Alerts**: Automated detection of critical anomalies (e.g., >20% revenue drop, satisfaction dips, or logistics spikes).
+- **Core KPIs**: Tracking Total Orders, Revenue (R$), Average Order Value (AOV), and Satisfaction.
+- **Trend Analysis**: Monthly revenue growth monitoring with 3-month rolling averages.
+- **Revenue Forecasting**: 30 to 180-day projections powered by **Facebook Prophet**.
+- **Business Alerts**: Automated detection of revenue drops, satisfaction dips, and logistics anomalies.
 
 ### 2. Product Intelligence
-- **Strategic Positioning (BCG Matrix)**: Categorizes products into Stars, Cash Cows, Question Marks, and Dogs based on market volume and satisfaction.
-- **Price vs. Satisfaction**: Correlation analysis with OLS trendlines to identify pricing power.
-- **Search Intelligence**: Instant lookup for specific category performance metrics.
+- **BCG Matrix Analysis**: Categorizes products (Stars, Cash Cows, Question Marks, Dogs) based on volume and satisfaction.
+- **Price Sensitivity**: Correlation analysis between pricing and review scores.
+- **Category Lookup**: Instant performance summaries for specific product categories.
 
 ### 3. Customer Intelligence
-- **RFM Segmentation**: Behavioral segmentation (Champions, Loyal, At Risk, Lost) using Recency, Frequency, and Monetary scores.
-- **Geographic Distribution**: Heatmaps showing market penetration across Brazil's states.
-- **CLV & Pareto Analysis**: Identifies the "Top 20%" of customers generating the bulk of revenue.
+- **RFM Segmentation**: Behavioral classification (Champions, Loyal, At Risk, Lost) using Recency, Frequency, and Monetary metrics.
+- **Geographic Insights**: Market penetration heatmaps across Brazil's states.
+- **CLV Analysis**: Identifies high-value customer segments driving revenue growth.
 
 ### 4. Operational Health
-- **Delivery Reliability**: On-time rate tracking with monthly performance trends.
-- **Logistics Speed**: Histograms of delivery times with median and 90th percentile benchmarks.
-- **Seller Risk Monitoring**: Automated flagging of sellers with high delay rates (>30%) or poor ratings.
-- **Cancellation Insights**: Keyword frequency analysis from review comments to identify root causes of order cancellations.
+- **Logistics Performance**: On-time delivery rate tracking and trend analysis.
+- **Delivery Distribution**: Speed benchmarks using median and 90th percentile delivery times.
+- **Risk Monitoring**: Identification of sellers with high delay rates or low ratings.
 
-### 5. Enterprise Reporting
-- **Automated Summary**: Generates a natural-language executive briefing on demand.
-- **Multi-Sheet Excel Reports**: Stylized, branded Excel downloads with formatted data and auto-fit columns.
-- **CSV Data Export**: One-click export for deeper offline analysis.
+### 5. Reporting & Exports
+- **Executive Summaries**: Natural-language business briefings generated on demand.
+- **Professional Exports**: Multi-sheet, stylized Excel reports and raw CSV data downloads.
 
 ---
 
 ## 🛠️ Technology Stack
-- **Frontend**: Streamlit (with Custom CSS & Theming)
-- **Data Engine**: Pandas, NumPy
-- **Visuals**: Plotly Express, Plotly Graph Objects
+- **Frontend**: Streamlit
+- **Analysis**: Pandas, NumPy, Scikit-Learn
+- **Visualization**: Plotly
 - **Forecasting**: Facebook Prophet
-- **Reporting**: XlsxWriter
-
----
-
-## 📂 Project Structure
-```text
-pulsecart/
-├── .streamlit/
-│   └── config.toml      # Custom branding & theme
-├── data/                # Local storage for CSVs
-├── data_loader.py       # Core data merging & feature engineering
-├── app.py               # Main dashboard logic & UI
-├── requirements.txt     # Python dependencies
-└── README.md            # Documentation
-```
 
 ---
 
 ## ⚙️ Setup & Installation
 
 ### 1. Dataset Preparation
-You have two options to load data:
-
-**Option A: Synthetic Data (Recommended for Testing)**
-Run the included generation script to create a sample dataset of 5,000 orders:
+**Option A: Synthetic Data (Fast Testing)**
+Run the generation script to create a sample dataset of 5,000 orders:
 ```bash
 python3 generate_synthetic_data.py
 ```
 
-**Option B: Real Olist Dataset**
+**Option B: Production Data**
 1. Download the [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
-2. Create a folder named `data/` in the root directory.
-3. Extract all CSV files into the `data/` folder.
+2. Place all CSV files into a `/data` folder in the project root.
 
-### 2. Environment Setup
+### 2. Run Application
 ```bash
 # Install dependencies
 pip install -r requirements.txt
-```
 
-### 3. Run Application
-```bash
+# Start dashboard
 streamlit run app.py
 ```
 
-### ☁️ Deployment Note
-PulseCart is **cloud-ready**. If deployed to environments where local storage is restricted (like Streamlit Cloud), the application will automatically activate **Deployment Mode**, providing a secure file uploader to initialize the dashboard with your CSV files.
-
 ---
-Built with ❤️ by **Shibabrata Dey**.
+Developed by **Shibabrata Dey**
