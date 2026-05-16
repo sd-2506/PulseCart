@@ -89,4 +89,4 @@ streamlit run app.py
 PulseCart is **cloud-ready**. If deployed to environments where local storage is restricted (like Streamlit Cloud), the application will automatically activate **Deployment Mode**, providing a secure file uploader to initialize the dashboard with your CSV files.
 
 ---
-Built with ❤️ by **Antigravity** & **Claude**.
+Built with ❤️ by **Shibabrata Dey**.
