@@ -61,6 +61,15 @@ pulsecart/
 ## ⚙️ Setup & Installation
 
 ### 1. Dataset Preparation
+You have two options to load data:
+
+**Option A: Synthetic Data (Recommended for Testing)**
+Run the included generation script to create a sample dataset of 5,000 orders:
+```bash
+python3 generate_synthetic_data.py
+```
+
+**Option B: Real Olist Dataset**
 1. Download the [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 2. Create a folder named `data/` in the root directory.
 3. Extract all CSV files into the `data/` folder.
